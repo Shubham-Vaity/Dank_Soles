@@ -33,7 +33,7 @@ void UCombat::BeginPlay()
 	APlayerController* PlayerController = GetWorld()->GetFirstPlayerController();
 	if (PlayerController)
 	{
-		playerReff=  Cast<ADank_SolesCharacter>(PlayerController->GetCharacter());
+		playerReff=  Cast<ADank_SolesCharacter>(UGameplayStatics::GetPlayerCharacter(this, 0));
 		
 	}
 	
@@ -53,7 +53,7 @@ void UCombat::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 	if (UEnhancedInputComponent* EnhancedInputComponent = Cast<UEnhancedInputComponent>(PlayerInputComponent))
 	{
 
-		EnhancedInputComponent->BindAction(JumpAction, ETriggerEvent::Started, this, &ACharacter::Lock);
+	
 	}
 	
 }
