@@ -33,8 +33,9 @@ public:
 
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 
-	void Lock();
-
+	
+	UFUNCTION()
+	void PerformLookSphereTrace();
 
 private:
 

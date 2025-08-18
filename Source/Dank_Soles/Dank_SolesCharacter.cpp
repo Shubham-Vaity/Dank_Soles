@@ -9,6 +9,7 @@
 #include "GameFramework/Controller.h"
 #include "EnhancedInputComponent.h"
 #include "EnhancedInputSubsystems.h"
+#include "Combat.h"
 #include "InputActionValue.h"
 
 DEFINE_LOG_CATEGORY(LogTemplateCharacter);
@@ -50,9 +51,10 @@ ADank_SolesCharacter::ADank_SolesCharacter()
 	FollowCamera->SetupAttachment(CameraBoom, USpringArmComponent::SocketName); // Attach the camera to the end of the boom and let the boom adjust to match the controller orientation
 	FollowCamera->bUsePawnControlRotation = false; // Camera does not rotate relative to arm
 
-	// Note: The skeletal mesh and anim blueprint references on the Mesh component (inherited from Character) 
-	// are set in the derived blueprint asset named ThirdPersonCharacter (to avoid direct content references in C++)
-}
+
+	Combat = CreateDefaultSubobject<UCombat>(TEXT("CombatComponent"));
+	
+	}
 
 //////////////////////////////////////////////////////////////////////////
 // Input
@@ -83,13 +85,19 @@ void ADank_SolesCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInpu
 		// Moving
 		EnhancedInputComponent->BindAction(MoveAction, ETriggerEvent::Triggered, this, &ADank_SolesCharacter::Move);
 
+		EnhancedInputComponent->BindAction(Lockenemy, ETriggerEvent::Started, this, &ADank_SolesCharacter::LockTraget);
+		
 		// Looking
 		EnhancedInputComponent->BindAction(LookAction, ETriggerEvent::Triggered, this, &ADank_SolesCharacter::Look);
+		
 	}
 	else
 	{
 		UE_LOG(LogTemplateCharacter, Error, TEXT("'%s' Failed to find an Enhanced Input component! This template is built to use the Enhanced Input system. If you intend to use the legacy system, then you will need to update this C++ file."), *GetNameSafe(this));
 	}
+
+
+	
 }
 
 void ADank_SolesCharacter::Move(const FInputActionValue& Value)
@@ -125,5 +133,13 @@ void ADank_SolesCharacter::Look(const FInputActionValue& Value)
 		// add yaw and pitch input to controller
 		AddControllerYawInput(LookAxisVector.X);
 		AddControllerPitchInput(LookAxisVector.Y);
+	}
+}
+
+void ADank_SolesCharacter::LockTraget(const FInputActionValue& Value)
+{
+	if (Combat)
+	{
+		Combat->PerformLookSphereTrace();
 	}
 }
