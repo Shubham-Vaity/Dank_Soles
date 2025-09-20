@@ -2245,3 +2245,155 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2025.09.20-10.30.48:686][129]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
 [2025.09.20-10.30.48:797][130]LogPlayLevel: Display: Destroying online subsystem :Context_14
 [2025.09.20-10.30.50:197][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.09.20-10.31.06:990][980]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1388.103638
+[2025.09.20-10.31.07:333][ 12]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.20-10.31.07:333][ 12]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1388.429810, Update Interval: 322.832123
+[2025.09.20-10.31.13:747][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:747][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:747][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:747][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Animation/SkeletalMeshModelingTools/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Animation/SkeletalMeshModelingTools/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:747][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:747][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:748][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaPlate/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:748][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:748][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Runtime/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:748][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Assets/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Assets/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:748][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/GLTFExporter/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:748][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:748][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:748][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/IKRig/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:748][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/DeformerGraph/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/DeformerGraph/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:748][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigModules/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigModules/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:748][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigSpline/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:748][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:748][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ACLPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ACLPlugin/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:748][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:748][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:748][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/NNE/NNEDenoiser/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/NNE/NNEDenoiser/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:748][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/WaveTable/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:748][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:748][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/StateTree/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/StateTree/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:749][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/USDCore/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/USDCore/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:749][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/RigVM/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/RigVM/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:749][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/ResonanceAudio/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:749][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Metasound/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:749][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:749][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/HairStrands/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:749][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:749][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:749][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:749][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/NiagaraSimCaching/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/NiagaraSimCaching/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:749][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:749][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/MovieScene/SequencerScripting/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:749][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ToolPresets/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ToolPresets/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:749][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:749][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:749][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryFlow/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:749][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:749][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/FullBodyIK/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:749][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/EditorDataStorage/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/EditorDataStorage/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:749][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Dataflow/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:750][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:750][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:750][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosCaching/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:750][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UVEditor/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UVEditor/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:750][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UMGWidgetPreview/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UMGWidgetPreview/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:750][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:750][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:750][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/MeshLODToolset/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/MeshLODToolset/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:750][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:750][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:750][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Cameras/GameplayCameras/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Cameras/GameplayCameras/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:750][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/TraceUtilities/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/TraceUtilities/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:750][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Fab/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Fab/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.13:750][495]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/ChaosVD/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/ChaosVD/Content' is outside repository at 'D:/unreal/Dank_Soles'
+[2025.09.20-10.31.14:148][495]EditorErrors: Warning: No assets to check in!
+[2025.09.20-10.31.23:407][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.09.20-10.32.52:588][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.09.20-10.33.40:737][578]LogStreaming: Display: FlushAsyncLoading(584): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.20-10.33.41:483][631]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.09.20-10.33.47:105][ 26]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.09.20-10.33.47:609][ 57]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Dank/Player1/animation/YTanimations/movement/BS_MC.BS_MC
+[2025.09.20-10.33.47:644][ 57]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.09.20-10.33.47:660][ 57]LogStreaming: Display: FlushAsyncLoading(585): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.20-10.33.47:814][ 57]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.20-10.33.48:455][ 57]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.09.20-10.33.49:068][ 57]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.09.20-10.33.49:141][ 57]LogSlate: Took 0.020624 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.09.20-10.33.53:142][312]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.09.20-10.33.53:142][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.20-10.33.53:213][312]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.09.20-10.33.53:214][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.20-10.33.53:295][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.09.20-10.34.04:187][950]LogStreaming: Display: FlushAsyncLoading(589): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.20-10.34.04:200][950]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Dank/Player1/animation/YTanimations/BigAttack.BigAttack
+[2025.09.20-10.34.04:200][950]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Dank/Player1/animation/YTanimations/BigAttack.BigAttack (Required Memory Estimate: 2.68 MB)
+[2025.09.20-10.34.04:200][950]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.09.20-10.34.04:220][950]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.20-10.34.04:368][950]LogAnimationCompression: Display: Storing compressed animation data for /Game/Dank/Player1/animation/YTanimations/BigAttack.BigAttack, at AnimationSequence/93c101793bfc6c6f0a495f6d36a75cb1dcc11864
+[2025.09.20-10.34.04:716][950]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.09.20-10.34.05:379][950]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2025.09.20-10.34.05:393][950]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.09.20-10.34.05:632][951]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.09.20-10.34.07:547][ 62]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.09.20-10.34.07:547][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.20-10.34.07:562][ 62]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.09.20-10.34.07:562][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.20-10.34.07:642][ 62]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.09.20-10.34.07:642][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.20-10.34.07:721][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.09.20-10.34.08:918][140]LogStreaming: Display: FlushAsyncLoading(590): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.20-10.34.08:930][140]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Dank/Player1/animation/YTanimations/Hitreact_Fwd.Hitreact_Fwd
+[2025.09.20-10.34.08:930][140]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.09.20-10.34.08:930][140]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Dank/Player1/animation/YTanimations/Hitreact_Fwd.Hitreact_Fwd (Required Memory Estimate: 0.54 MB)
+[2025.09.20-10.34.08:947][140]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.20-10.34.08:951][140]LogAnimationCompression: Display: Storing compressed animation data for /Game/Dank/Player1/animation/YTanimations/Hitreact_Fwd.Hitreact_Fwd, at AnimationSequence/ecfd40a3df9cb812557fe437744fb1bd27e3af44
+[2025.09.20-10.34.09:470][140]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.09.20-10.34.10:110][140]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.09.20-10.34.12:213][221]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.09.20-10.34.12:214][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.20-10.34.12:228][221]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.09.20-10.34.12:228][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.20-10.34.12:314][221]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.09.20-10.34.12:314][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.20-10.34.12:392][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.09.20-10.34.13:368][274]LogStreaming: Display: FlushAsyncLoading(591): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.20-10.34.13:378][274]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Dank/Player1/animation/YTanimations/HitReact.HitReact
+[2025.09.20-10.34.13:378][274]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.09.20-10.34.13:394][274]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.20-10.34.13:844][274]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.09.20-10.34.14:446][274]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.09.20-10.34.16:148][354]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.09.20-10.34.16:148][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.20-10.34.16:163][354]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.09.20-10.34.16:163][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.20-10.34.16:234][354]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.09.20-10.34.16:234][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.20-10.34.16:315][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.09.20-10.35.49:818][995]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.09.20-10.35.49:835][995]LogContentBrowser: Creating deferred item: NewFolder
+[2025.09.20-10.35.49:855][996]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.09.20-10.35.51:294][ 91]LogContentBrowser: Attempting asset rename: NewFolder -> AI
+[2025.09.20-10.35.51:295][ 91]LogContentBrowser: End creating deferred item NewFolder
+[2025.09.20-10.35.58:016][304]LogContentBrowser: Deferred new asset file creation: NewBlackboardData
+[2025.09.20-10.35.58:034][304]LogContentBrowser: Creating deferred item: NewBlackboardData
+[2025.09.20-10.35.58:071][306]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlackboardData).
+[2025.09.20-10.36.03:466][680]LogContentBrowser: Attempting asset rename: NewBlackboardData -> BD_enemyAI
+[2025.09.20-10.36.03:658][680]LogContentBrowser: End creating deferred item NewBlackboardData
+[2025.09.20-10.36.05:687][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.09.20-10.36.05:873][704]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.20-10.36.05:947][704]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/BD_enemyAI] ([1] browsable assets)...
+[2025.09.20-10.36.05:947][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/BD_enemyAI]
+[2025.09.20-10.36.05:947][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/BD_enemyAI" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/BD_enemyAI.uasset" SILENT=true
+[2025.09.20-10.36.05:949][704]LogSavePackage: Moving output files for package: /Game/Dank/AI/BD_enemyAI
+[2025.09.20-10.36.05:949][704]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BD_enemyAIF96752BD4B0BE86E52D7B79D65BFACA1.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/BD_enemyAI.uasset'
+[2025.09.20-10.36.06:265][704]LogFileHelpers: InternalPromptForCheckoutAndSave took 392.987 ms (total: 583.839 ms)
+[2025.09.20-10.36.06:352][704]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.20-10.36.06:352][704]LogContentValidation: Enabled validators:
+[2025.09.20-10.36.06:352][704]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.20-10.36.06:352][704]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.20-10.36.06:352][704]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.20-10.36.06:352][704]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.20-10.36.06:352][704]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.20-10.36.06:352][704]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.20-10.36.06:352][704]AssetCheck: /Game/Dank/AI/BD_enemyAI Validating asset
