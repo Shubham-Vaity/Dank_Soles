@@ -2513,3 +2513,109 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2025.09.20-10.39.12:185][259]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_enemy
 [2025.09.20-10.39.12:379][259]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Dank/AI/BP_enemy.
 [2025.09.20-10.39.12:385][259]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.09.20-10.39.21:286][597]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dank/AI/BP_enemy.BP_enemy
+[2025.09.20-10.39.21:286][597]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2025.09.20-10.39.26:055][743]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.09.20-10.39.27:339][858]LogStreaming: Display: FlushAsyncLoading(592): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.20-10.39.27:394][858]LogSkeletalMesh: Building Skeletal Mesh Ginna...
+[2025.09.20-10.39.27:416][858]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Ginna) ...
+[2025.09.20-10.39.28:036][858]LogSkeletalMesh: Built Skeletal Mesh [0.64s] /Game/Dank/Player1/models/Ginna.Ginna
+[2025.09.20-10.39.28:059][858]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2025.09.20-10.39.28:178][864]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2025.09.20-10.39.35:433][347]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.20-10.39.35:518][347]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dank/AI/BP_enemy] ([2] browsable assets)...
+[2025.09.20-10.39.35:528][347]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dank/AI/BP_enemy.BP_enemy]
+[2025.09.20-10.39.35:529][347]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2025.09.20-10.39.35:551][347]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Dank/AI/BP_enemy.BP_enemy_C]
+[2025.09.20-10.39.35:551][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/BP_enemy]
+[2025.09.20-10.39.35:551][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/BP_enemy" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/BP_enemy.uasset" SILENT=true
+[2025.09.20-10.39.35:558][347]LogSavePackage: Moving output files for package: /Game/Dank/AI/BP_enemy
+[2025.09.20-10.39.35:558][347]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BP_enemy1E5889C9497FE06AA3DBC987BA1E5C93.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/BP_enemy.uasset'
+[2025.09.20-10.39.35:559][347]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Dank/AI/BP_enemy.
+[2025.09.20-10.39.35:831][347]LogFileHelpers: InternalPromptForCheckoutAndSave took 398.914 ms (total: 2.06 sec)
+[2025.09.20-10.39.35:929][347]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.20-10.39.35:929][347]LogContentValidation: Enabled validators:
+[2025.09.20-10.39.35:929][347]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.20-10.39.35:929][347]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.20-10.39.35:929][347]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.20-10.39.35:929][347]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.20-10.39.35:929][347]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.20-10.39.35:929][347]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.20-10.39.35:929][347]AssetCheck: /Game/Dank/AI/BP_enemy Validating asset
+[2025.09.20-10.39.40:251][476]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2025.09.20-10.39.46:852][155]LogStreaming: Display: FlushAsyncLoading(593): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.20-10.39.47:043][155]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Dank/Player1/animation/noWeapon/Walking_Backward.Walking_Backward (Required Memory Estimate: 0.58 MB)
+[2025.09.20-10.39.47:043][155]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Dank/Player1/animation/noWeapon/Walking.Walking (Required Memory Estimate: 0.51 MB)
+[2025.09.20-10.39.47:043][155]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Dank/Player1/animation/noWeapon/Standard_Run.Standard_Run (Required Memory Estimate: 0.40 MB)
+[2025.09.20-10.39.47:043][155]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Dank/Player1/animation/noWeapon/Right_Strafe_Walking__1_.Right_Strafe_Walking__1_ (Required Memory Estimate: 0.51 MB)
+[2025.09.20-10.39.47:044][155]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Dank/Player1/animation/noWeapon/Right_Strafe_Walking.Right_Strafe_Walking (Required Memory Estimate: 0.51 MB)
+[2025.09.20-10.39.47:045][155]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Dank/Player1/animation/noWeapon/Right_Strafe__1_.Right_Strafe__1_ (Required Memory Estimate: 0.37 MB)
+[2025.09.20-10.39.47:045][155]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Dank/Player1/animation/noWeapon/Right_Strafe.Right_Strafe (Required Memory Estimate: 0.37 MB)
+[2025.09.20-10.39.47:048][155]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Dank/Player1/animation/noWeapon/OG_idle.OG_idle (Required Memory Estimate: 3.82 MB)
+[2025.09.20-10.39.47:052][155]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Dank/Player1/animation/noWeapon/UP_idle.UP_idle (Required Memory Estimate: 6.05 MB)
+[2025.09.20-10.39.47:054][155]LogAnimationCompression: Display: Storing compressed animation data for /Game/Dank/Player1/animation/noWeapon/Standard_Run.Standard_Run, at AnimationSequence/d05608f8069faba1e68106d9e8bf7213b4f9cccb
+[2025.09.20-10.39.47:055][155]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Dank/Player1/animation/noWeapon/right_idle.right_idle (Required Memory Estimate: 6.05 MB)
+[2025.09.20-10.39.47:060][155]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Dank/Player1/animation/noWeapon/Left_idle.Left_idle (Required Memory Estimate: 6.05 MB)
+[2025.09.20-10.39.47:061][155]LogAnimationCompression: Display: Storing compressed animation data for /Game/Dank/Player1/animation/noWeapon/Walking_Backward.Walking_Backward, at AnimationSequence/9fef6525fedc70011b6a4b1d89c7c56d428b811e
+[2025.09.20-10.39.47:064][155]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Dank/Player1/animation/noWeapon/Frount_idle.Frount_idle (Required Memory Estimate: 6.05 MB)
+[2025.09.20-10.39.47:070][155]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Dank/Player1/animation/noWeapon/down_idle.down_idle (Required Memory Estimate: 6.05 MB)
+[2025.09.20-10.39.47:071][155]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Dank/Player1/animation/noWeapon/land.land (Required Memory Estimate: 0.63 MB)
+[2025.09.20-10.39.47:071][155]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Dank/Player1/animation/noWeapon/JumpingStart.JumpingStart (Required Memory Estimate: 0.71 MB)
+[2025.09.20-10.39.47:071][155]LogAnimationCompression: Display: Storing compressed animation data for /Game/Dank/Player1/animation/noWeapon/Right_Strafe.Right_Strafe, at AnimationSequence/fd06791dab20c05782a684b9a966f00417a8d0a5
+[2025.09.20-10.39.47:072][155]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Dank/Player1/animation/noWeapon/fall.fall (Required Memory Estimate: 0.14 MB)
+[2025.09.20-10.39.47:072][155]LogAnimationCompression: Display: Storing compressed animation data for /Game/Dank/Player1/animation/noWeapon/Right_Strafe_Walking__1_.Right_Strafe_Walking__1_, at AnimationSequence/7cc0f148577f31e9571e00af17596e158a01f220
+[2025.09.20-10.39.47:073][155]LogAnimationCompression: Display: Storing compressed animation data for /Game/Dank/Player1/animation/noWeapon/fall.fall, at AnimationSequence/3fc22e87c53d517908ed9d7878f1055cb6f63f6c
+[2025.09.20-10.39.47:074][155]LogAnimationCompression: Display: Storing compressed animation data for /Game/Dank/Player1/animation/noWeapon/Right_Strafe__1_.Right_Strafe__1_, at AnimationSequence/5cf14e324ccd21ac66f45af761b9c257fa993693
+[2025.09.20-10.39.47:090][155]LogAnimationCompression: Display: Storing compressed animation data for /Game/Dank/Player1/animation/noWeapon/Right_Strafe_Walking.Right_Strafe_Walking, at AnimationSequence/e5e6e7eae256413374957e5ab5cd65eeab065c93
+[2025.09.20-10.39.47:095][155]LogAnimationCompression: Display: Storing compressed animation data for /Game/Dank/Player1/animation/noWeapon/land.land, at AnimationSequence/c6ad484b51d11408ecbf7f15792d5377b8c578ce
+[2025.09.20-10.39.47:098][155]LogAnimationCompression: Display: Storing compressed animation data for /Game/Dank/Player1/animation/noWeapon/JumpingStart.JumpingStart, at AnimationSequence/9a4aa095e7bb601f3c4713819e910a6bef33f89c
+[2025.09.20-10.39.47:113][155]LogAnimationCompression: Display: Storing compressed animation data for /Game/Dank/Player1/animation/noWeapon/Walking.Walking, at AnimationSequence/dab64765938cec59f5992c9be63ee1c0baca185b
+[2025.09.20-10.39.47:243][159]LogAnimationCompression: Display: Storing compressed animation data for /Game/Dank/Player1/animation/noWeapon/OG_idle.OG_idle, at AnimationSequence/fa3331bd71ead2ab1f08161eb756bf6a4af3c53b
+[2025.09.20-10.39.47:367][169]LogAnimationCompression: Display: Storing compressed animation data for /Game/Dank/Player1/animation/noWeapon/UP_idle.UP_idle, at AnimationSequence/afacd750a4a5e21189723f78de2299b2c8e2da1b
+[2025.09.20-10.39.47:423][174]LogAnimationCompression: Display: Storing compressed animation data for /Game/Dank/Player1/animation/noWeapon/Frount_idle.Frount_idle, at AnimationSequence/fb6681126794405c075a8d57844eb8a910ac5368
+[2025.09.20-10.39.47:433][175]LogAnimationCompression: Display: Storing compressed animation data for /Game/Dank/Player1/animation/noWeapon/right_idle.right_idle, at AnimationSequence/2c235735d8b44e645022f368b83bea014cb781b6
+[2025.09.20-10.39.47:518][181]LogAnimationCompression: Display: Storing compressed animation data for /Game/Dank/Player1/animation/noWeapon/down_idle.down_idle, at AnimationSequence/d6eb8580e98b1ecca4b41782eb42d65f780455e4
+[2025.09.20-10.39.47:588][183]LogAnimationCompression: Display: Storing compressed animation data for /Game/Dank/Player1/animation/noWeapon/Left_idle.Left_idle, at AnimationSequence/822d769ab649cf954b35593baddf3444a6ba00a6
+[2025.09.20-10.40.02:985][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.09.20-10.41.10:578][104]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2025.09.20-10.41.10:787][104]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.20-10.41.10:881][104]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dank/AI/BP_enemy] ([2] browsable assets)...
+[2025.09.20-10.41.10:898][104]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dank/AI/BP_enemy.BP_enemy]
+[2025.09.20-10.41.10:898][104]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/BP_enemy]
+[2025.09.20-10.41.10:898][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/BP_enemy" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/BP_enemy.uasset" SILENT=true
+[2025.09.20-10.41.10:906][104]LogSavePackage: Moving output files for package: /Game/Dank/AI/BP_enemy
+[2025.09.20-10.41.10:907][104]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BP_enemy05AA847D44CAE46EB5092B88DE5BED2C.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/BP_enemy.uasset'
+[2025.09.20-10.41.10:929][104]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.554 ms (total: 2.20 sec)
+[2025.09.20-10.41.11:036][104]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.20-10.41.11:036][104]LogContentValidation: Enabled validators:
+[2025.09.20-10.41.11:036][104]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.20-10.41.11:037][104]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.20-10.41.11:037][104]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.20-10.41.11:037][104]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.20-10.41.11:037][104]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.20-10.41.11:037][104]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.20-10.41.11:037][104]AssetCheck: /Game/Dank/AI/BP_enemy Validating asset
+[2025.09.20-10.41.11:654][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.09.20-10.41.32:372][331]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.09.20-10.41.32:372][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.20-10.41.32:518][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.09.20-10.41.33:515][400]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.09.20-10.41.33:515][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.20-10.41.33:608][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.09.20-10.42.42:218][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.09.20-10.42.42:408][183]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.20-10.42.42:498][183]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/BT_enemy] ([1] browsable assets)...
+[2025.09.20-10.42.42:498][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/BT_enemy]
+[2025.09.20-10.42.42:498][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/BT_enemy" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/BT_enemy.uasset" SILENT=true
+[2025.09.20-10.42.42:501][183]LogSavePackage: Moving output files for package: /Game/Dank/AI/BT_enemy
+[2025.09.20-10.42.42:501][183]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BT_enemy494AAF9E45F381321D6E21ABC01DBD38.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/BT_enemy.uasset'
+[2025.09.20-10.42.42:525][183]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.368 ms (total: 2.32 sec)
+[2025.09.20-10.42.42:632][183]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.20-10.42.42:632][183]LogContentValidation: Enabled validators:
+[2025.09.20-10.42.42:632][183]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.20-10.42.42:632][183]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.20-10.42.42:632][183]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.20-10.42.42:633][183]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.20-10.42.42:633][183]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.20-10.42.42:633][183]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.20-10.42.42:633][183]AssetCheck: /Game/Dank/AI/BT_enemy Validating asset
