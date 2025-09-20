@@ -1624,3 +1624,4 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2025.09.20-09.58.26:634][349]LogFab: Display: User logged in
 [2025.09.20-09.58.26:634][349]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
 [2025.09.20-09.58.26:968][378]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-au1qPmMpaEK-nydn1hAm4w-ipVxFfZJJ0GupFhdCdLEWw]
+[2025.09.20-09.59.06:177][753]LogSlate: Window 'Revision Control Login' being destroyed
