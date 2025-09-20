@@ -1737,3 +1737,89 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2025.09.20-10.09.41:454][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
 [2025.09.20-10.09.41:501][855]LogPlayLevel: Display: Destroying online subsystem :Context_1
 [2025.09.20-10.09.45:591][943]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.20-10.11.19:109][361]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.20-10.11.19:117][361]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.09.20-10.11.19:117][361]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.09.20-10.11.19:120][361]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3.187 ms (total: 6.286 ms)
+[2025.09.20-10.11.19:121][361]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.20-10.11.19:121][361]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.09.20-10.11.19:126][361]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005991s)
+[2025.09.20-10.11.19:126][361]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006067s)
+[2025.09.20-10.11.19:146][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.09.20-10.11.19:147][361]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.09.20-10.11.19:150][361]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.20-10.11.19:150][361]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.20-10.11.19:150][361]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.20-10.11.19:150][361]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.20-10.11.19:153][361]LogWorldPartition: Display: WorldPartition initialize took 3.487 ms (total: 121.118 ms)
+[2025.09.20-10.11.19:153][361]LogPlayLevel: PIE: World Init took: (0.006663s)
+[2025.09.20-10.11.19:155][361]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.09.20-10.11.19:155][361]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.20-10.11.19:155][361]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.20-10.11.19:155][361]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.20-10.11.19:155][361]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.20-10.11.19:155][361]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.20-10.11.19:156][361]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.20-10.11.19:156][361]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.20-10.11.19:156][361]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.20-10.11.19:156][361]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.20-10.11.19:156][361]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.20-10.11.19:156][361]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.20-10.11.19:159][361]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.20-10.11.19:271][361]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2025.09.20-10.11.19:272][361]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.20-10.11.19:272][361]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.20-10.11.19:272][361]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.20-10.11.19:274][361]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.09.20-10.11.19:274][361]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.09.20-10.11.19:276][361]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.09.20-10.11.19:276][361]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.09.20-10.11.19:276][361]LogInit: FAudioDevice initialized with ID 3.
+[2025.09.20-10.11.19:277][361]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2025.09.20-10.11.19:277][361]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.09.20-10.11.19:281][361]LogLoad: Game class is 'Dank_SolesGameMode'
+[2025.09.20-10.11.19:290][361]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.09.20-15.41.19
+[2025.09.20-10.11.19:291][361]LogWorld: Bringing up level for play took: 0.009448
+[2025.09.20-10.11.19:294][361]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2025.09.20-10.11.19:304][361]PIE: Server logged in
+[2025.09.20-10.11.19:306][361]PIE: Play in editor total start time 0.189 seconds.
+[2025.09.20-10.11.20:557][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.20-10.11.20:557][479]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.09.20-10.11.20:558][479]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.20-10.11.20:559][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.20-10.11.20:559][479]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.09.20-10.11.20:564][479]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.20-10.11.20:567][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.20-10.11.20:586][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.20-10.11.20:586][479]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.09.20-10.11.20:586][479]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.09.20-10.11.20:589][479]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.09.20-10.11.20:600][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.09.20-10.11.20:644][480]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2025.09.20-10.11.21:196][533]LogSlate: Took 0.000389 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.09.20-10.11.23:486][767]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.09.20-10.11.25:064][911]Display: Reload/Re-instancing Complete: No object changes detected
+[2025.09.20-10.11.25:064][911]LogLiveCoding: Display: Live coding succeeded, no code changes detected
+[2025.09.20-10.11.27:113][ 25]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.09.20-10.11.27:216][ 27]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.09.20-10.12.18:639][555]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.09.20-10.12.53:718][660]Display: Reload/Re-instancing Complete: No object changes detected
+[2025.09.20-10.12.53:718][660]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2025.09.20-10.13.02:500][687]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.09.20-10.13.18:724][735]Display: Reload/Re-instancing Complete: No object changes detected
+[2025.09.20-10.13.18:724][735]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2025.09.20-10.13.49:316][827]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.09.20-10.14.04:741][873]Display: Reload/Re-instancing Complete: No object changes detected
+[2025.09.20-10.14.04:741][873]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2025.09.20-10.14.08:736][885]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 369.849457
+[2025.09.20-10.14.10:067][889]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.20-10.14.10:067][890]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 370.846985, Update Interval: 341.339142
+[2025.09.20-10.15.54:637][203]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.09.20-10.16.09:093][246]Display: Reload/Re-instancing Complete: No object changes detected
+[2025.09.20-10.16.09:093][246]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2025.09.20-10.18.42:806][708]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.09.20-10.19.01:135][762]Display: Reload/Re-instancing Complete: No object changes detected
+[2025.09.20-10.19.01:135][762]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2025.09.20-10.19.54:149][921]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 715.263123
+[2025.09.20-10.19.55:482][925]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.20-10.19.55:482][926]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 716.262268, Update Interval: 300.684845

@@ -14,11 +14,12 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define DANK_SOLES_Combat_generated_h
 
-#define FID_Dank_Soles_Source_Dank_Soles_Combat_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Dank_Soles_Source_Dank_Soles_Combat_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	DECLARE_FUNCTION(execcheckForEnemy); \
 	DECLARE_FUNCTION(execPerformLookSphereTrace);
 
 
-#define FID_Dank_Soles_Source_Dank_Soles_Combat_h_17_INCLASS_NO_PURE_DECLS \
+#define FID_Dank_Soles_Source_Dank_Soles_Combat_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUCombat(); \
 	friend struct Z_Construct_UClass_UCombat_Statics; \
@@ -27,7 +28,7 @@ public: \
 	DECLARE_SERIALIZER(UCombat)
 
 
-#define FID_Dank_Soles_Source_Dank_Soles_Combat_h_17_ENHANCED_CONSTRUCTORS \
+#define FID_Dank_Soles_Source_Dank_Soles_Combat_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	UCombat(UCombat&&); \
@@ -39,13 +40,13 @@ public: \
 	NO_API virtual ~UCombat();
 
 
-#define FID_Dank_Soles_Source_Dank_Soles_Combat_h_14_PROLOG
-#define FID_Dank_Soles_Source_Dank_Soles_Combat_h_17_GENERATED_BODY \
+#define FID_Dank_Soles_Source_Dank_Soles_Combat_h_12_PROLOG
+#define FID_Dank_Soles_Source_Dank_Soles_Combat_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Dank_Soles_Source_Dank_Soles_Combat_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Dank_Soles_Source_Dank_Soles_Combat_h_17_INCLASS_NO_PURE_DECLS \
-	FID_Dank_Soles_Source_Dank_Soles_Combat_h_17_ENHANCED_CONSTRUCTORS \
+	FID_Dank_Soles_Source_Dank_Soles_Combat_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Dank_Soles_Source_Dank_Soles_Combat_h_15_INCLASS_NO_PURE_DECLS \
+	FID_Dank_Soles_Source_Dank_Soles_Combat_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

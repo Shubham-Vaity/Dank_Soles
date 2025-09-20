@@ -1,5 +1,3 @@
-
-
 #pragma once
 
 #include "CoreMinimal.h"
@@ -14,28 +12,40 @@
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
 class DANK_SOLES_API UCombat : public UActorComponent
 {
-	GENERATED_BODY()
-	
-public:	
-	UCombat();
+    GENERATED_BODY()
 
-	UPROPERTY(VisibleAnywhere,BlueprintReadWrite)
-	ACharacter* playerReff;
+public:
+    UCombat();
+
+    UPROPERTY(VisibleAnywhere,BlueprintReadWrite)
+    ACharacter* playerReff;
+
+    UPROPERTY(VisibleAnywhere,BlueprintReadWrite)
+    AActor* EnemyReff;
+
+    UPROPERTY(EditAnywhere,BlueprintReadWrite)
+    TSubclassOf<AActor> Dot;
+
+    UPROPERTY(EditAnywhere,BlueprintReadWrite)
+    AActor* Dotreff;
 
 
-
-	
 protected:
-	virtual void BeginPlay() override;
-	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent);
+    virtual void BeginPlay() override;
 
-public:	
+    virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent);
 
-	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
+public:
 
-	
-	UFUNCTION()
-	void PerformLookSphereTrace();
+    virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
+
+
+
+    UFUNCTION()
+    void PerformLookSphereTrace();
+
+    UFUNCTION()
+    void checkForEnemy();
 
 private:
 
