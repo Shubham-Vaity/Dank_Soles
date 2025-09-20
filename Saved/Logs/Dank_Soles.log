@@ -263,3 +263,13 @@ SourceControl: Revision control is disabled
 SourceControl: Revision control is disabled
 Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.5/Engine/Build/BatchFiles/Build.bat -Mode=QueryTargets -Project="D:/unreal/Dank_Soles/Dank_Soles.uproject" -Output="D:/unreal/Dank_Soles/Intermediate/TargetInfo.json" -IncludeAllTargets]
 LogInit: Warning: Incompatible or missing module: Dank_Soles
+Running C:/Program Files/Epic Games/UE_5.5/Engine/Build/BatchFiles/Build.bat Development Win64 -Project="D:/unreal/Dank_Soles/Dank_Soles.uproject" -TargetType=Editor -Progress -NoEngineChanges -NoHotReloadFromIDE
+Using bundled DotNet SDK version: 8.0.300
+Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" Development Win64 -Project="D:/unreal/Dank_Soles/Dank_Soles.uproject" -TargetType=Editor -Progress -NoEngineChanges -NoHotReloadFromIDE
+Log file: C:\Users\user\AppData\Local\UnrealBuildTool\Log.txt
+Available x64 toolchains (1):
+ * C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808
+    (Family=14.43.34808, FamilyRank=1, Version=14.43.34810, Is64Bit=True, ReleaseChannel=Latest, Architecture=x64)
+Visual Studio 2022 compiler version 14.43.34810 is not a preferred version. Please use the latest preferred version 14.38.33130
+Using 'git status' to determine working set for adaptive non-unity build (D:\unreal\Dank_Soles).
+Creating makefile for Dank_SolesEditor (no existing makefile)
