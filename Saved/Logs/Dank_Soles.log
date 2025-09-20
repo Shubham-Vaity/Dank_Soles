@@ -3443,3 +3443,309 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2025.09.20-11.07.27:774][ 95]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3568.852295
 [2025.09.20-11.07.30:114][102]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.09.20-11.07.30:115][103]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3570.855225, Update Interval: 320.028687
+[2025.09.20-11.09.45:592][509]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.20-11.13.31:188][185]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3932.265381
+[2025.09.20-11.13.32:521][189]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.20-11.13.32:522][189]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3933.266113, Update Interval: 346.927704
+[2025.09.20-11.20.10:762][744]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4331.829102
+[2025.09.20-11.20.11:757][862]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.20-11.20.11:757][863]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4332.815430, Update Interval: 311.825317
+[2025.09.20-11.26.02:405][881]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4683.498535
+[2025.09.20-11.26.03:739][885]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.20-11.26.03:739][886]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4684.498535, Update Interval: 312.989899
+[2025.09.20-11.31.57:143][926]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5038.277344
+[2025.09.20-11.31.58:477][930]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.20-11.31.58:477][931]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5039.278320, Update Interval: 343.389984
+[2025.09.20-11.32.06:328][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.09.20-11.32.11:142][332]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2025.09.20-11.32.11:150][332]LogContentBrowser: Creating deferred item: NewInterface
+[2025.09.20-11.32.11:165][333]LogContentBrowser: Renaming the item being created (Deferred Item: NewInterface).
+[2025.09.20-11.32.16:407][945]LogContentBrowser: Attempting asset rename: NewInterface -> BPI_enemyAi
+[2025.09.20-11.32.16:595][945]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Dank/AI/BPI_enemyAi.
+[2025.09.20-11.32.16:602][945]LogContentBrowser: End creating deferred item NewInterface
+[2025.09.20-11.32.22:527][ 76]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dank/AI/BPI_enemyAi.BPI_enemyAi
+[2025.09.20-11.32.22:528][ 76]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2025.09.20-11.32.47:145][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.09.20-11.32.47:350][591]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.20-11.32.47:425][591]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/BPI_enemyAi] ([2] browsable assets)...
+[2025.09.20-11.32.47:425][591]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/BPI_enemyAi]
+[2025.09.20-11.32.47:425][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/BPI_enemyAi" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/BPI_enemyAi.uasset" SILENT=true
+[2025.09.20-11.32.47:428][591]LogSavePackage: Moving output files for package: /Game/Dank/AI/BPI_enemyAi
+[2025.09.20-11.32.47:428][591]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BPI_enemyAi39CB470D4A706DCB039A6D8D0E17D101.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/BPI_enemyAi.uasset'
+[2025.09.20-11.32.47:428][591]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Dank/AI/BPI_enemyAi.
+[2025.09.20-11.32.47:727][591]LogFileHelpers: InternalPromptForCheckoutAndSave took 376.600 ms (total: 7.53 sec)
+[2025.09.20-11.32.47:806][591]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.20-11.32.47:806][591]LogContentValidation: Enabled validators:
+[2025.09.20-11.32.47:806][591]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.20-11.32.47:806][591]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.20-11.32.47:806][591]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.20-11.32.47:806][591]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.20-11.32.47:806][591]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.20-11.32.47:806][591]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.20-11.32.47:806][591]AssetCheck: /Game/Dank/AI/BPI_enemyAi Validating asset
+[2025.09.20-11.32.48:109][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.09.20-11.32.48:969][697]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.09.20-11.32.48:969][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.20-11.32.49:053][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2025.09.20-11.33.07:567][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.09.20-11.33.07:768][899]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.20-11.33.07:843][899]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dank/AI/BP_enemy] ([2] browsable assets)...
+[2025.09.20-11.33.07:856][899]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dank/AI/BP_enemy.BP_enemy]
+[2025.09.20-11.33.07:856][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/BP_enemy]
+[2025.09.20-11.33.07:856][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/BP_enemy" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/BP_enemy.uasset" SILENT=true
+[2025.09.20-11.33.07:867][899]LogSavePackage: Moving output files for package: /Game/Dank/AI/BP_enemy
+[2025.09.20-11.33.07:868][899]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BP_enemy0D54D8804C48C1DDDB5039B0F08A9F65.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/BP_enemy.uasset'
+[2025.09.20-11.33.07:889][899]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.825 ms (total: 7.66 sec)
+[2025.09.20-11.33.08:046][899]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.20-11.33.08:046][899]LogContentValidation: Enabled validators:
+[2025.09.20-11.33.08:046][899]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.20-11.33.08:046][899]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.20-11.33.08:046][899]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.20-11.33.08:046][899]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.20-11.33.08:046][899]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.20-11.33.08:046][899]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.20-11.33.08:046][899]AssetCheck: /Game/Dank/AI/BP_enemy Validating asset
+[2025.09.20-11.33.28:930][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.09.20-11.33.29:138][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.20-11.33.29:247][ 69]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dank/AI/BP_enemy] ([2] browsable assets)...
+[2025.09.20-11.33.29:261][ 69]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dank/AI/BP_enemy.BP_enemy]
+[2025.09.20-11.33.29:261][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/BP_enemy]
+[2025.09.20-11.33.29:261][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/BP_enemy" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/BP_enemy.uasset" SILENT=true
+[2025.09.20-11.33.29:272][ 69]LogSavePackage: Moving output files for package: /Game/Dank/AI/BP_enemy
+[2025.09.20-11.33.29:273][ 69]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BP_enemy2D39FE8048516E5902ED3D83FEEF0186.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/BP_enemy.uasset'
+[2025.09.20-11.33.29:292][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave took 153.061 ms (total: 7.81 sec)
+[2025.09.20-11.33.29:366][ 69]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.20-11.33.29:366][ 69]LogContentValidation: Enabled validators:
+[2025.09.20-11.33.29:366][ 69]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.20-11.33.29:366][ 69]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.20-11.33.29:367][ 69]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.20-11.33.29:367][ 69]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.20-11.33.29:367][ 69]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.20-11.33.29:367][ 69]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.20-11.33.29:367][ 69]AssetCheck: /Game/Dank/AI/BP_enemy Validating asset
+[2025.09.20-11.33.49:102][178]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2025.09.20-11.33.49:121][178]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_0
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:ExecuteUbergraph_ABP_NoWeapon:01FC
+[2025.09.20-11.33.49:121][178]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_0
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:ExecuteUbergraph_ABP_NoWeapon:022B
+[2025.09.20-11.33.49:121][178]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_0
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get movement:0036
+[2025.09.20-11.33.49:121][178]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_0
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get movement:00A1
+[2025.09.20-11.33.49:121][178]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_0
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get movement:00D7
+[2025.09.20-11.33.49:122][178]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_0
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get ameoffset:0086
+[2025.09.20-11.33.49:122][178]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_0
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get ameoffset:00B8
+[2025.09.20-11.33.49:122][178]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_0
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get ameoffset:0295
+[2025.09.20-11.33.49:122][178]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_0
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get ameoffset:02C7
+[2025.09.20-11.33.49:230][187]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_1
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:ExecuteUbergraph_ABP_NoWeapon:01FC
+[2025.09.20-11.33.49:230][187]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_1
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:ExecuteUbergraph_ABP_NoWeapon:022B
+[2025.09.20-11.33.49:230][187]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_1
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get movement:0036
+[2025.09.20-11.33.49:230][187]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_1
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get movement:00A1
+[2025.09.20-11.33.49:230][187]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_1
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get movement:00D7
+[2025.09.20-11.33.49:230][187]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_1
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get ameoffset:0086
+[2025.09.20-11.33.49:230][187]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_1
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get ameoffset:00B8
+[2025.09.20-11.33.49:230][187]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_1
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get ameoffset:0295
+[2025.09.20-11.33.49:230][187]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_1
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get ameoffset:02C7
+[2025.09.20-11.34.13:437][292]LogStreaming: Display: FlushAsyncLoading(595): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.20-11.34.13:444][292]LogContentBrowser: Deferred new asset file creation: Hook_Punch_Montage
+[2025.09.20-11.34.13:457][292]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Dank/Player1/animation/noWeapon/Hook_Punch.Hook_Punch (Required Memory Estimate: 0.93 MB)
+[2025.09.20-11.34.13:458][292]LogContentBrowser: Creating deferred item: Hook_Punch_Montage
+[2025.09.20-11.34.13:476][293]LogContentBrowser: Renaming the item being created (Deferred Item: Hook_Punch_Montage).
+[2025.09.20-11.34.13:482][294]LogAnimationCompression: Display: Storing compressed animation data for /Game/Dank/Player1/animation/noWeapon/Hook_Punch.Hook_Punch, at AnimationSequence/cc45c9963431b4d059f9f25a3e11ec53057d52ff
+[2025.09.20-11.34.17:994][569]LogContentBrowser: Attempting asset rename: Hook_Punch_Montage -> Hook_Punch_Montage_attack1
+[2025.09.20-11.34.18:187][569]LogContentBrowser: End creating deferred item Hook_Punch_Montage
+[2025.09.20-11.34.20:186][682]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.09.20-11.34.20:196][682]LogContentBrowser: Creating deferred item: NewFolder
+[2025.09.20-11.34.20:215][683]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.09.20-11.34.22:982][952]LogContentBrowser: Attempting asset rename: NewFolder -> Montages
+[2025.09.20-11.34.22:982][952]LogContentBrowser: End creating deferred item NewFolder
+[2025.09.20-11.34.27:667][176]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.20-11.34.27:667][176]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dank/Player1/animation/noWeapon/Montages/Hook_Punch_Montage_attack1] ([1] browsable assets)...
+[2025.09.20-11.34.27:682][176]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Dank/Player1/animation/noWeapon/Montages/Hook_Punch_Montage_attack1.Hook_Punch_Montage_attack1]
+[2025.09.20-11.34.27:682][176]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/Player1/animation/noWeapon/Montages/Hook_Punch_Montage_attack1]
+[2025.09.20-11.34.27:687][176]LogSavePackage: Moving output files for package: /Game/Dank/Player1/animation/noWeapon/Montages/Hook_Punch_Montage_attack1
+[2025.09.20-11.34.27:687][176]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/Hook_Punch_Montage_attack1BD9C40B844B703CCBED830B7B68CEA19.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/Player1/animation/noWeapon/Montages/Hook_Punch_Montage_attack1.uasset'
+[2025.09.20-11.34.28:002][176]LogFileHelpers: InternalPromptForCheckoutAndSave took 335.464 ms (total: 8.14 sec)
+[2025.09.20-11.34.28:317][176]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_UAID_989096BF572A3E8602_1874172911 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U4/5DY1ETLPYB705SBFSEPYD5.PackageMetaData in its package
+[2025.09.20-11.34.28:360][176]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2025.09.20-11.34.28:395][176]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2025.09.20-11.34.28:428][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.09.20-11.34.28:464][176]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.09.20-11.34.28:464][176]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.20-11.34.28:464][176]LogContentValidation: Enabled validators:
+[2025.09.20-11.34.28:465][176]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.20-11.34.28:465][176]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.20-11.34.28:465][176]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.20-11.34.28:465][176]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.20-11.34.28:465][176]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.20-11.34.28:465][176]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.20-11.34.28:465][176]AssetCheck: /Game/Dank/Player1/animation/noWeapon/Montages/Hook_Punch_Montage_attack1 Validating asset
+[2025.09.20-11.34.28:500][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.09.20-11.34.29:067][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.09.20-11.34.30:567][364]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_2
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:ExecuteUbergraph_ABP_NoWeapon:01FC
+[2025.09.20-11.34.30:567][364]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_2
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:ExecuteUbergraph_ABP_NoWeapon:022B
+[2025.09.20-11.34.30:567][364]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_2
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get movement:0036
+[2025.09.20-11.34.30:567][364]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_2
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get movement:00A1
+[2025.09.20-11.34.30:567][364]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_2
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get movement:00D7
+[2025.09.20-11.34.30:567][364]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_2
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get ameoffset:0086
+[2025.09.20-11.34.30:567][364]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_2
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get ameoffset:00B8
+[2025.09.20-11.34.30:568][364]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_2
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get ameoffset:0295
+[2025.09.20-11.34.30:568][364]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_2
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get ameoffset:02C7
+[2025.09.20-11.34.30:585][365]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_3
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:ExecuteUbergraph_ABP_NoWeapon:01FC
+[2025.09.20-11.34.30:585][365]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_3
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:ExecuteUbergraph_ABP_NoWeapon:022B
+[2025.09.20-11.34.30:585][365]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_3
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get movement:0036
+[2025.09.20-11.34.30:585][365]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_3
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get movement:00A1
+[2025.09.20-11.34.30:585][365]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_3
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get movement:00D7
+[2025.09.20-11.34.30:585][365]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_3
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get ameoffset:0086
+[2025.09.20-11.34.30:585][365]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_3
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get ameoffset:00B8
+[2025.09.20-11.34.30:585][365]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_3
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get ameoffset:0295
+[2025.09.20-11.34.30:585][365]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_3
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get ameoffset:02C7
+[2025.09.20-11.34.30:608][366]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_4
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:ExecuteUbergraph_ABP_NoWeapon:01FC
+[2025.09.20-11.34.30:608][366]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_4
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:ExecuteUbergraph_ABP_NoWeapon:022B
+[2025.09.20-11.34.30:608][366]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_4
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get movement:0036
+[2025.09.20-11.34.30:608][366]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_4
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get movement:00A1
+[2025.09.20-11.34.30:608][366]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_4
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get movement:00D7
+[2025.09.20-11.34.30:608][366]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_4
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get ameoffset:0086
+[2025.09.20-11.34.30:608][366]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_4
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get ameoffset:00B8
+[2025.09.20-11.34.30:608][366]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_4
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get ameoffset:0295
+[2025.09.20-11.34.30:609][366]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_4
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get ameoffset:02C7
+[2025.09.20-11.34.30:627][367]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_5
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:ExecuteUbergraph_ABP_NoWeapon:01FC
+[2025.09.20-11.34.30:627][367]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_5
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:ExecuteUbergraph_ABP_NoWeapon:022B
+[2025.09.20-11.34.30:627][367]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_5
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get movement:0036
+[2025.09.20-11.34.30:627][367]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_5
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get movement:00A1
+[2025.09.20-11.34.30:627][367]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_5
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get movement:00D7
+[2025.09.20-11.34.30:627][367]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_5
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get ameoffset:0086
+[2025.09.20-11.34.30:627][367]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_5
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get ameoffset:00B8
+[2025.09.20-11.34.30:627][367]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_5
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get ameoffset:0295
+[2025.09.20-11.34.30:627][367]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_5
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get ameoffset:02C7
+[2025.09.20-11.34.33:422][605]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_6
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:ExecuteUbergraph_ABP_NoWeapon:01FC
+[2025.09.20-11.34.33:422][605]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_6
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:ExecuteUbergraph_ABP_NoWeapon:022B
+[2025.09.20-11.34.33:422][605]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_6
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get movement:0036
+[2025.09.20-11.34.33:422][605]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_6
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get movement:00A1
+[2025.09.20-11.34.33:422][605]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_6
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get movement:00D7
+[2025.09.20-11.34.33:422][605]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_6
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get ameoffset:0086
+[2025.09.20-11.34.33:423][605]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_6
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get ameoffset:00B8
+[2025.09.20-11.34.33:423][605]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_6
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get ameoffset:0295
+[2025.09.20-11.34.33:423][605]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_6
+	Function /Game/Dank/Player1/animation/noWeapon/ABP_NoWeapon.ABP_NoWeapon_C:get ameoffset:02C7
