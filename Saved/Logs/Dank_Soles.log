@@ -1488,3 +1488,477 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2025.09.20-09.41.20:400][  0]LogConfig: Branch 'ObjectMixerSerializedData' had been unloaded. Reloading on-demand took 3.42ms
 [2025.09.20-09.41.20:417][  0]SourceControl: Revision control is disabled
 [2025.09.20-09.41.20:470][  0]LogConfig: Branch 'Crypto' had been unloaded. Reloading on-demand took 3.28ms
+[2025.09.20-09.41.20:733][  0]LogConfig: Applying CVar settings from Section [/Script/NNEDenoiser.NNEDenoiserSettings] File [Engine]
+[2025.09.20-09.41.20:751][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png' error.
+[2025.09.20-09.41.20:751][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png
+[2025.09.20-09.41.20:794][  0]LogCollectionManager: Loaded 0 collections in 0.004516 seconds
+[2025.09.20-09.41.20:797][  0]LogFileCache: Scanning file cache for directory 'D:/unreal/Dank_Soles/Saved/Collections/' took 0.00s
+[2025.09.20-09.41.20:797][  0]LogFileCache: Scanning file cache for directory 'D:/unreal/Dank_Soles/Content/Developers/user/Collections/' took 0.00s
+[2025.09.20-09.41.20:797][  0]LogFileCache: Scanning file cache for directory 'D:/unreal/Dank_Soles/Content/Collections/' took 0.00s
+[2025.09.20-09.41.20:917][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Developer/PlasticSourceControl/Resources/Icon128.png' error.
+[2025.09.20-09.41.20:917][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Developer/PlasticSourceControl/Resources/Icon128.png
+[2025.09.20-09.41.20:919][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png' error.
+[2025.09.20-09.41.20:919][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png
+[2025.09.20-09.41.20:919][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png' error.
+[2025.09.20-09.41.20:919][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png
+[2025.09.20-09.41.20:957][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png' error.
+[2025.09.20-09.41.20:957][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png
+[2025.09.20-09.41.20:991][  0]LogEOSSDK: LogEOS: [Boot] EOSSDK Version 1.17.0-39599718 booting at 2025-09-20T09:41:20.990Z using C
+[2025.09.20-09.41.20:991][  0]LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Properties [OS=Windows/10.0.22621.5624.64bit, ClientId=xyza7891REBVsEqSJRRNXmlS7EQHM459, ProductId=86f32f1151354e7cb39c12f8ab2c22a3, SandboxId=a01927f7421a4d4995673fe30ef46945, DeploymentId=a652a72ea1664dcab3a467891eea5f30, ProductName=Dank_Soles, ProductVersion=++UE5+Release-5.5-CL-40574608, IsServer=false, Flags=DisableOverlay]
+[2025.09.20-09.41.20:992][  0]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2025.09.20-09.41.20:992][  0]LogEOSSDK: LogEOSOverlay: Overlay will not load, because it was explicitly disabled when creating the platform
+[2025.09.20-09.41.21:007][  0]LogEOSSDK: LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started using the anti-cheat bootstrapper if you intend to use it.
+[2025.09.20-09.41.21:007][  0]LogEOSSDK: LogEOS: SetApplicationStatus - OldStatus: EOS_AS_Foreground, NewStatus: EOS_AS_Foreground, Current Time: 0001.01.01-00.00.00
+[2025.09.20-09.41.21:007][  0]LogEOSSDK: LogEOS: SetNetworkStatus - OldStatus: EOS_NS_Online, NewStatus: EOS_NS_Online
+[2025.09.20-09.41.21:008][  0]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 0.000129
+[2025.09.20-09.41.21:008][  0]LogFab: Display: Logging in using persist
+[2025.09.20-09.41.21:068][  0]LogUObjectArray: 49423 objects as part of root set at end of initial load.
+[2025.09.20-09.41.21:068][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2025.09.20-09.41.21:088][  0]LogStreaming: Display: AsyncLoading2 - NotifyRegistrationComplete: Registered 36204 public script object entries (982.10 KB)
+[2025.09.20-09.41.21:088][  0]LogStreaming: Display: AsyncLoading2 - Thread Started: false, IsInitialLoad: false
+[2025.09.20-09.41.21:330][  0]LogEngine: Initializing Engine...
+[2025.09.20-09.41.21:335][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2025.09.20-09.41.21:336][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2025.09.20-09.41.21:494][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.11.dll
+[2025.09.20-09.41.21:532][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.09.20-09.41.21:553][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2025.09.20-09.41.21:553][  0]LogInit: Texture streaming: Enabled
+[2025.09.20-09.41.21:577][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data. AppVersion = 5.5.4-40574608+++UE5+Release-5.5
+[2025.09.20-09.41.21:589][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2025.09.20-09.41.21:616][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2025.09.20-09.41.21:616][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2025.09.20-09.41.21:617][  0]LogAudio: Display: Audio Device Manager Initialized
+[2025.09.20-09.41.21:617][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2025.09.20-09.41.21:617][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.20-09.41.21:617][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.20-09.41.21:617][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.20-09.41.21:617][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.20-09.41.21:617][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.20-09.41.21:617][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.20-09.41.21:617][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.20-09.41.21:617][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.20-09.41.21:617][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.20-09.41.21:617][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.20-09.41.21:617][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.20-09.41.21:626][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.20-09.41.21:775][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2025.09.20-09.41.21:777][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.20-09.41.21:779][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.20-09.41.21:779][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.20-09.41.21:781][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.09.20-09.41.21:781][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.09.20-09.41.21:784][  0]LogInit: FAudioDevice initialized with ID 1.
+[2025.09.20-09.41.21:784][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.09.20-09.41.21:784][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2025.09.20-09.41.21:784][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2025.09.20-09.41.21:784][  0]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 1
+[2025.09.20-09.41.21:798][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2025.09.20-09.41.21:805][  0]LogInit: Undo buffer set to 256 MB
+[2025.09.20-09.41.21:806][  0]LogInit: Transaction tracking system initialized
+[2025.09.20-09.41.21:921][  0]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2025.09.20-09.41.21:922][  0]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2025.09.20-09.41.21:980][  0]LogConfig: Branch 'LocalizationServiceSettings' had been unloaded. Reloading on-demand took 3.66ms
+[2025.09.20-09.41.21:986][  0]LocalizationService: Localization service is disabled
+[2025.09.20-09.41.22:021][  0]LogTimingProfiler: Initialize
+[2025.09.20-09.41.22:022][  0]LogTimingProfiler: OnSessionChanged
+[2025.09.20-09.41.22:022][  0]LoadingProfiler: Initialize
+[2025.09.20-09.41.22:022][  0]LoadingProfiler: OnSessionChanged
+[2025.09.20-09.41.22:022][  0]LogNetworkingProfiler: Initialize
+[2025.09.20-09.41.22:022][  0]LogNetworkingProfiler: OnSessionChanged
+[2025.09.20-09.41.22:022][  0]LogMemoryProfiler: Initialize
+[2025.09.20-09.41.22:022][  0]LogMemoryProfiler: OnSessionChanged
+[2025.09.20-09.41.22:466][  0]LogFileCache: Scanning file cache for directory 'D:/unreal/Dank_Soles/Content/' took 0.03s
+[2025.09.20-09.41.22:538][  0]LogPython: Using Python 3.11.8
+[2025.09.20-09.41.24:736][  0]LogPython: Display: No enabled plugins with python dependencies found, skipping
+[2025.09.20-09.41.24:763][  0]LogRenderer: Requested compilation of Path Tracing RTPSOs (1 permutations).
+[2025.09.20-09.41.24:855][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2025.09.20-09.41.25:027][  0]LogStreaming: Warning: Failed to read file 'Common/Selector.png' error.
+[2025.09.20-09.41.25:027][  0]LogSlate: Could not find file for Slate resource: Common/Selector.png
+[2025.09.20-09.41.25:090][  0]LogEditorDataStorage: Initializing
+[2025.09.20-09.41.25:091][  0]LogEditorDataStorage: Initialized
+[2025.09.20-09.41.25:141][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2025.09.20-09.41.25:149][  0]SourceControl: Revision control is disabled
+[2025.09.20-09.41.25:149][  0]LogUnrealEdMisc: Loading editor; pre map load, took 155.809
+[2025.09.20-09.41.25:160][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_5.5/FeaturePacks/StarterContent.upack)
+[2025.09.20-09.41.25:165][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2025.09.20-09.41.25:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2025.09.20-09.41.25:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2025.09.20-09.41.25:167][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2025.09.20-09.41.25:168][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2025.09.20-09.41.25:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2025.09.20-09.41.25:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2025.09.20-09.41.25:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2025.09.20-09.41.25:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2025.09.20-09.41.25:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2025.09.20-09.41.25:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2025.09.20-09.41.25:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2025.09.20-09.41.25:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Audio/Collapse01.uasset"
+[2025.09.20-09.41.25:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Audio/Collapse02.uasset"
+[2025.09.20-09.41.25:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2025.09.20-09.41.25:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Audio/Explosion01.uasset"
+[2025.09.20-09.41.25:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Audio/Explosion02.uasset"
+[2025.09.20-09.41.25:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2025.09.20-09.41.25:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Audio/Fire01.uasset"
+[2025.09.20-09.41.25:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2025.09.20-09.41.25:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2025.09.20-09.41.25:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2025.09.20-09.41.25:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Audio/Light01.uasset"
+[2025.09.20-09.41.25:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2025.09.20-09.41.25:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Audio/Light02.uasset"
+[2025.09.20-09.41.25:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2025.09.20-09.41.25:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Audio/Smoke01.uasset"
+[2025.09.20-09.41.25:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2025.09.20-09.41.25:188][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2025.09.20-09.41.25:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2025.09.20-09.41.25:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2025.09.20-09.41.25:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2025.09.20-09.41.25:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2025.09.20-09.41.25:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2025.09.20-09.41.25:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Audio/Steam01.uasset"
+[2025.09.20-09.41.25:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2025.09.20-09.41.25:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2025.09.20-09.41.25:298][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2025.09.20-09.41.25:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2025.09.20-09.41.25:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2025.09.20-09.41.25:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2025.09.20-09.41.25:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2025.09.20-09.41.25:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2025.09.20-09.41.25:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2025.09.20-09.41.25:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2025.09.20-09.41.25:305][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "D:/unreal/Dank_Soles/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2025.09.20-09.41.25:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2025.09.20-09.41.25:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "D:/unreal/Dank_Soles/Content/StarterContent/Maps/Minimal_Default.umap"
+[2025.09.20-09.41.25:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2025.09.20-09.41.25:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "D:/unreal/Dank_Soles/Content/StarterContent/Maps/StarterMap.umap"
+[2025.09.20-09.41.25:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2025.09.20-09.41.25:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2025.09.20-09.41.25:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Particles/P_Explosion.uasset"
+[2025.09.20-09.41.25:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Particles/P_Fire.uasset"
+[2025.09.20-09.41.25:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Particles/P_Smoke.uasset"
+[2025.09.20-09.41.25:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Particles/P_Sparks.uasset"
+[2025.09.20-09.41.25:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2025.09.20-09.41.25:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Props/MaterialSphere.uasset"
+[2025.09.20-09.41.25:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Props/SM_Bush.uasset"
+[2025.09.20-09.41.25:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Props/SM_Chair.uasset"
+[2025.09.20-09.41.25:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2025.09.20-09.41.25:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Props/SM_Couch.uasset"
+[2025.09.20-09.41.25:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Props/SM_Door.uasset"
+[2025.09.20-09.41.25:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2025.09.20-09.41.25:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2025.09.20-09.41.25:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2025.09.20-09.41.25:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2025.09.20-09.41.25:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2025.09.20-09.41.25:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2025.09.20-09.41.25:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Props/SM_Rock.uasset"
+[2025.09.20-09.41.25:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Props/SM_Shelf.uasset"
+[2025.09.20-09.41.25:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Props/SM_Stairs.uasset"
+[2025.09.20-09.41.25:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Props/SM_Statue.uasset"
+[2025.09.20-09.41.25:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Props/SM_TableRound.uasset"
+[2025.09.20-09.41.25:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2025.09.20-09.41.25:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2025.09.20-09.41.25:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2025.09.20-09.41.25:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2025.09.20-09.41.25:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2025.09.20-09.41.25:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2025.09.20-09.41.25:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2025.09.20-09.41.25:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2025.09.20-09.41.25:361][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2025.09.20-09.41.25:361][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2025.09.20-09.41.25:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2025.09.20-09.41.25:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2025.09.20-09.41.25:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2025.09.20-09.41.25:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2025.09.20-09.41.25:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2025.09.20-09.41.25:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2025.09.20-09.41.25:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2025.09.20-09.41.25:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2025.09.20-09.41.25:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_Glass.uasset"
+[2025.09.20-09.41.25:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2025.09.20-09.41.25:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2025.09.20-09.41.25:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2025.09.20-09.41.25:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2025.09.20-09.41.25:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2025.09.20-09.41.25:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2025.09.20-09.41.25:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2025.09.20-09.41.25:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2025.09.20-09.41.25:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2025.09.20-09.41.25:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2025.09.20-09.41.25:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2025.09.20-09.41.25:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2025.09.20-09.41.25:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2025.09.20-09.41.25:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2025.09.20-09.41.25:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2025.09.20-09.41.25:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2025.09.20-09.41.25:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2025.09.20-09.41.25:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2025.09.20-09.41.25:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2025.09.20-09.41.25:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2025.09.20-09.41.25:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2025.09.20-09.41.25:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2025.09.20-09.41.25:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2025.09.20-09.41.25:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2025.09.20-09.41.25:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2025.09.20-09.41.25:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2025.09.20-09.41.25:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2025.09.20-09.41.25:388][  0]LogAssetRegistry: Display: Triggering cache save on discovery complete
+[2025.09.20-09.41.25:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2025.09.20-09.41.25:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2025.09.20-09.41.25:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2025.09.20-09.41.25:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2025.09.20-09.41.25:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2025.09.20-09.41.25:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2025.09.20-09.41.25:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2025.09.20-09.41.25:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2025.09.20-09.41.25:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2025.09.20-09.41.25:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2025.09.20-09.41.25:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2025.09.20-09.41.25:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2025.09.20-09.41.25:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2025.09.20-09.41.25:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2025.09.20-09.41.25:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2025.09.20-09.41.25:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2025.09.20-09.41.25:400][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2025.09.20-09.41.25:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2025.09.20-09.41.25:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2025.09.20-09.41.25:432][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2025.09.20-09.41.25:441][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2025.09.20-09.41.25:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2025.09.20-09.41.25:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2025.09.20-09.41.25:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2025.09.20-09.41.25:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2025.09.20-09.41.25:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2025.09.20-09.41.25:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2025.09.20-09.41.25:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2025.09.20-09.41.25:525][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2025.09.20-09.41.25:535][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2025.09.20-09.41.25:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2025.09.20-09.41.25:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2025.09.20-09.41.25:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2025.09.20-09.41.25:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2025.09.20-09.41.25:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2025.09.20-09.41.25:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2025.09.20-09.41.25:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2025.09.20-09.41.25:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2025.09.20-09.41.25:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2025.09.20-09.41.25:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2025.09.20-09.41.25:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2025.09.20-09.41.25:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2025.09.20-09.41.25:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2025.09.20-09.41.25:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2025.09.20-09.41.25:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2025.09.20-09.41.25:604][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2025.09.20-09.41.25:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2025.09.20-09.41.25:624][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2025.09.20-09.41.25:630][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2025.09.20-09.41.25:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2025.09.20-09.41.25:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2025.09.20-09.41.25:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2025.09.20-09.41.25:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2025.09.20-09.41.25:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2025.09.20-09.41.25:673][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2025.09.20-09.41.25:677][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2025.09.20-09.41.25:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Door_M.uasset"
+[2025.09.20-09.41.25:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Door_N.uasset"
+[2025.09.20-09.41.25:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2025.09.20-09.41.25:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2025.09.20-09.41.25:687][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2025.09.20-09.41.25:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2025.09.20-09.41.25:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2025.09.20-09.41.25:693][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2025.09.20-09.41.25:693][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2025.09.20-09.41.25:707][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2025.09.20-09.41.25:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2025.09.20-09.41.25:732][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2025.09.20-09.41.25:740][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2025.09.20-09.41.25:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2025.09.20-09.41.25:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2025.09.20-09.41.25:766][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2025.09.20-09.41.25:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2025.09.20-09.41.25:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2025.09.20-09.41.25:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2025.09.20-09.41.25:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2025.09.20-09.41.25:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2025.09.20-09.41.25:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2025.09.20-09.41.25:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2025.09.20-09.41.25:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2025.09.20-09.41.25:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2025.09.20-09.41.25:844][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2025.09.20-09.41.25:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2025.09.20-09.41.25:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2025.09.20-09.41.25:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2025.09.20-09.41.25:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2025.09.20-09.41.25:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2025.09.20-09.41.25:892][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2025.09.20-09.41.25:903][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2025.09.20-09.41.25:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2025.09.20-09.41.25:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2025.09.20-09.41.25:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2025.09.20-09.41.25:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2025.09.20-09.41.25:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2025.09.20-09.41.25:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2025.09.20-09.41.25:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2025.09.20-09.41.25:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2025.09.20-09.41.25:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2025.09.20-09.41.25:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2025.09.20-09.41.25:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2025.09.20-09.41.25:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2025.09.20-09.41.25:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2025.09.20-09.41.25:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2025.09.20-09.41.25:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2025.09.20-09.41.25:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2025.09.20-09.41.25:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2025.09.20-09.41.25:966][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2025.09.20-09.41.25:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2025.09.20-09.41.25:970][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2025.09.20-09.41.25:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Water_M.uasset"
+[2025.09.20-09.41.25:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Water_N.uasset"
+[2025.09.20-09.41.25:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2025.09.20-09.41.25:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2025.09.20-09.41.25:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2025.09.20-09.41.25:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2025.09.20-09.41.26:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2025.09.20-09.41.26:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2025.09.20-09.41.26:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2025.09.20-09.41.26:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2025.09.20-09.41.26:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2025.09.20-09.41.26:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2025.09.20-09.41.26:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2025.09.20-09.41.26:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2025.09.20-09.41.26:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2025.09.20-09.41.26:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2025.09.20-09.41.26:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2025.09.20-09.41.26:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2025.09.20-09.41.26:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2025.09.20-09.41.26:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2025.09.20-09.41.26:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2025.09.20-09.41.26:035][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2025.09.20-09.41.26:036][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2025.09.20-09.41.26:036][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2025.09.20-09.41.26:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2025.09.20-09.41.26:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2025.09.20-09.41.26:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2025.09.20-09.41.26:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2025.09.20-09.41.26:040][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2025.09.20-09.41.26:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2025.09.20-09.41.26:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2025.09.20-09.41.26:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2025.09.20-09.41.26:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2025.09.20-09.41.26:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2025.09.20-09.41.26:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2025.09.20-09.41.26:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2025.09.20-09.41.26:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2025.09.20-09.41.26:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2025.09.20-09.41.26:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "D:/unreal/Dank_Soles/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2025.09.20-09.41.26:056][  0]LogStaticMesh: Display: Building static mesh Floor_400x400 (Required Memory Estimate: 0.026896 MB)...
+[2025.09.20-09.41.26:072][  0]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Architecture/Floor_400x400) ...
+[2025.09.20-09.41.26:078][  0]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2025.09.20-09.41.26:247][  0]LogAssetRegistry: Display: Asset registry cache written as 38.6 MiB to D:/unreal/Dank_Soles/Intermediate/CachedAssetRegistry_*.bin
+[2025.09.20-09.41.26:314][  0]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Manny) ...
+[2025.09.20-09.41.29:290][  0]LogSkeletalMesh: Skeletal mesh [/Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny]: The derived data key is different after the build. Save the asset to avoid rebuilding it everytime the editor load it.
+[2025.09.20-09.41.29:318][  0]LogSkeletalMesh: Built Skeletal Mesh [10.48s] /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.09.20-09.41.29:329][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.20-09.41.29:331][  0]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Architecture/Floor_400x400] ([1] browsable assets)...
+[2025.09.20-09.41.29:332][  0]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.09.20-09.41.29:351][  0]LogNNEDenoiser: ApplySettings: bDenoiserEnabled 1
+[2025.09.20-09.41.29:356][  0]LogNNEDenoiser: Loaded input mapping from NNEDIM_ColorAlbedoNormal_Alpha
+[2025.09.20-09.41.29:356][  0]LogNNEDenoiser: Loaded output mapping from NNEDOM_Output_Alpha
+[2025.09.20-09.41.29:356][  0]LogNNEDenoiser: Try create model instance with runtime NNERuntimeORTDml on RDG...
+[2025.09.20-09.41.29:453][  0]LogNNEDenoiser: Display: Created model instance with runtime NNERuntimeORTDml on RDG
+[2025.09.20-09.41.29:453][  0]LogNNEDenoiser: Create denoiser from asset /NNEDenoiser/NNED_Oidn2-3_Balanced_Alpha.NNED_Oidn2-3_Balanced_Alpha...
+[2025.09.20-09.41.29:456][  0]LogNNEDenoiser: Loaded input mapping from NNEDTIM_ColorAlbedoNormal_Alpha
+[2025.09.20-09.41.29:456][  0]LogNNEDenoiser: Loaded output mapping from NNEDTOM_Output_Alpha
+[2025.09.20-09.41.29:456][  0]LogNNEDenoiser: Try create model instance with runtime NNERuntimeORTDml on RDG...
+[2025.09.20-09.41.29:539][  0]LogNNEDenoiser: Display: Created model instance with runtime NNERuntimeORTDml on RDG
+[2025.09.20-09.41.29:539][  0]LogNNEDenoiser: Create temporal denoiser from asset /NNEDenoiser/NNEDT_Oidn2-3_Balanced_Alpha.NNEDT_Oidn2-3_Balanced_Alpha...
+[2025.09.20-09.41.29:876][  0]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400]
+[2025.09.20-09.41.29:876][  0]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Architecture/Floor_400x400]
+[2025.09.20-09.41.29:876][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="D:/unreal/Dank_Soles/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2025.09.20-09.41.29:886][  0]LogSavePackage: Moving output files for package: /Game/StarterContent/Architecture/Floor_400x400
+[2025.09.20-09.41.29:886][  0]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/Floor_400x4001ABF48AD4A6ABD133D345494AEB56C4F.tmp' to 'D:/unreal/Dank_Soles/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2025.09.20-09.41.29:888][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 558.892 ms
+[2025.09.20-09.41.29:888][  0]LogFeaturePack: Inserted 1 feature packs
+[2025.09.20-09.41.29:889][  0]Cmd: MAP LOAD FILE="D:/unreal/Dank_Soles/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.09.20-09.41.29:892][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.09.20-09.41.29:892][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.20-09.41.29:915][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.20-09.41.29:919][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.09.20-09.41.29:930][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2025.09.20-09.41.29:930][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.09.20-09.41.29:933][  0]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.09.20-09.41.29:933][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.20-09.41.29:933][  0]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.20-09.41.30:028][  0]LogWorldPartition: Display: WorldPartition initialize took 94.847 ms
+[2025.09.20-09.41.30:045][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.20-09.41.30:068][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.09.20-09.41.30:069][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.20-09.41.30:070][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.07ms to complete.
+[2025.09.20-09.41.30:088][  0]LogUnrealEdMisc: Total Editor Startup Time, took 160.748
+[2025.09.20-09.41.30:291][  0]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.09.20-09.41.30:457][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.20-09.41.30:559][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.20-09.41.30:653][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.20-09.41.30:743][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.20-09.41.30:843][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.20-09.41.30:844][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2025.09.20-09.41.30:844][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.20-09.41.30:845][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2025.09.20-09.41.30:845][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.20-09.41.30:846][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2025.09.20-09.41.30:846][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.20-09.41.30:847][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2025.09.20-09.41.30:848][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.20-09.41.30:849][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2025.09.20-09.41.30:849][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.20-09.41.30:850][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2025.09.20-09.41.30:850][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.20-09.41.30:851][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2025.09.20-09.41.30:852][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.20-09.41.30:852][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2025.09.20-09.41.30:853][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.20-09.41.30:853][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2025.09.20-09.41.30:854][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.20-09.41.30:855][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2025.09.20-09.41.31:217][  0]LogTurnkeySupport: Turnkey Device: Win64@PC: (Name=PC, Type=Computer, Status=Valid, MinAllowed=10.0.19041.0, MaxAllowed=, Current=10.0.22631.0, Flags="Device_InstallSoftwareValid")
+[2025.09.20-09.41.31:254][  0]LogSlate: Took 0.000299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.09.20-09.41.31:259][  0]LogSlate: Took 0.000363 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.09.20-09.41.31:260][  0]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.09.20-09.41.31:581][  0]LogStall: Startup...
+[2025.09.20-09.41.31:584][  0]LogStall: Startup complete.
+[2025.09.20-09.41.31:632][  0]LogLoad: (Engine Initialization) Total time: 162.29 seconds
+[2025.09.20-09.41.32:103][  0]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.09.20-09.41.32:208][  0]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.20-09.41.32:208][  0]LogContentValidation: Enabled validators:
+[2025.09.20-09.41.32:208][  0]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.20-09.41.32:208][  0]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.20-09.41.32:208][  0]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.20-09.41.32:208][  0]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.20-09.41.32:208][  0]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.20-09.41.32:208][  0]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.20-09.41.32:208][  0]AssetCheck: /Game/StarterContent/Architecture/Floor_400x400 Validating asset
+[2025.09.20-09.41.32:409][  0]LogContentStreaming: Texture pool size now 400 MB
+[2025.09.20-09.41.32:409][  0]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="400"
+[2025.09.20-09.41.32:503][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.20-09.41.32:506][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... started...
+[2025.09.20-09.41.32:570][  0]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+[2025.09.20-09.41.32:576][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... took 71.620 ms
+[2025.09.20-09.41.32:578][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: Dank_SolesEditor Win64 Development
+[2025.09.20-09.41.32:892][  1]LogAssetRegistry: AssetRegistryGather time 0.9152s: AssetDataDiscovery 0.0907s, AssetDataGather 0.6875s, StoreResults 0.1370s. Wall time 20.0810s.
+	NumCachedDirectories 0. NumUncachedDirectories 1608. NumCachedFiles 0. NumUncachedFiles 7937.
+	BackgroundTickInterruptions 2.
+[2025.09.20-09.41.32:940][  1]LogSourceControl: Uncontrolled asset enumeration started...
+[2025.09.20-09.41.32:940][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000000 seconds (updated 0 objects)
+[2025.09.20-09.41.34:303][  8]LogSourceControl: Uncontrolled asset enumeration finished in 1.362324 seconds (Found 7645 uncontrolled assets)
+[2025.09.20-09.41.34:475][  8]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 13.132425
+[2025.09.20-09.41.34:476][  8]LogEOSSDK: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2025.09.20-09.41.34:478][  8]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13.466151
+[2025.09.20-09.41.36:142][ 13]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2025.09.20-09.41.36:525][ 15]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 15.491398
+[2025.09.20-09.41.36:527][ 15]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 1542370262
+[2025.09.20-09.41.36:527][ 15]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15.491398, Update Interval: 348.919952
+[2025.09.20-09.41.37:564][ 22]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: e23...0c2 Access[Expires: 2025.09.20-11.41.33 Remaining: 7200.77] Refresh[Expires: 2026-03-19T09:38:38.349Z Remaining: 15551825.35] State: Valid
+[2025.09.20-09.41.37:902][ 23]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2025.09.20-09.41.39:230][ 27]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2025.09.20-09.41.39:230][ 27]LogFab: Display: User logged in
+[2025.09.20-09.41.39:230][ 27]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2025.09.20-09.41.40:232][ 30]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-qxNn6XjG8EiE5f5sAnBX4Q-qtTm7OqpC06l9PfaOy1JyQ]
