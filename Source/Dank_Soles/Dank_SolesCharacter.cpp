@@ -140,6 +140,6 @@ void ADank_SolesCharacter::LockTraget(const FInputActionValue& Value)
 {
 	if (Combat)
 	{
-		Combat->PerformLookSphereTrace();
+		Combat->checkForEnemy();
 	}
 }
