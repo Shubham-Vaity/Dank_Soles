@@ -2478,3 +2478,38 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2025.09.20-10.38.15:460][986]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.20-10.38.15:460][986]AssetCheck: /Game/Dank/AI/BP_AI_Enemy Validating asset
 [2025.09.20-10.38.16:633][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.09.20-10.38.59:111][359]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.20-10.38.59:201][359]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/BP_AI_Enemy] ([2] browsable assets)...
+[2025.09.20-10.38.59:201][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/BP_AI_Enemy]
+[2025.09.20-10.38.59:201][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/BP_AI_Enemy" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/BP_AI_Enemy.uasset" SILENT=true
+[2025.09.20-10.38.59:207][359]LogSavePackage: Moving output files for package: /Game/Dank/AI/BP_AI_Enemy
+[2025.09.20-10.38.59:207][359]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BP_AI_Enemy8E8E89B945B94E2A1965FDAEAEC00480.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/BP_AI_Enemy.uasset'
+[2025.09.20-10.38.59:232][359]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.999 ms (total: 1.66 sec)
+[2025.09.20-10.38.59:319][359]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.20-10.38.59:320][359]LogContentValidation: Enabled validators:
+[2025.09.20-10.38.59:320][359]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.20-10.38.59:320][359]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.20-10.38.59:320][359]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.20-10.38.59:320][359]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.20-10.38.59:320][359]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.20-10.38.59:320][359]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.20-10.38.59:321][359]AssetCheck: /Game/Dank/AI/BP_AI_Enemy Validating asset
+[2025.09.20-10.39.02:537][524]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.09.20-10.39.02:554][524]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.09.20-10.39.02:563][524]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.09.20-10.39.02:574][525]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.09.20-10.39.03:670][648]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2025.09.20-10.39.03:865][648]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Dank/AI/NewBlueprint.
+[2025.09.20-10.39.03:871][648]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.09.20-10.39.04:646][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.09.20-10.39.05:835][727]LogSlate: Window 'Delete Assets' being destroyed
+[2025.09.20-10.39.05:885][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.09.20-10.39.05:920][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.09.20-10.39.05:953][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.09.20-10.39.08:480][837]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.09.20-10.39.08:498][837]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.09.20-10.39.08:509][837]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.09.20-10.39.08:523][838]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.09.20-10.39.12:185][259]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_enemy
+[2025.09.20-10.39.12:379][259]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Dank/AI/BP_enemy.
+[2025.09.20-10.39.12:385][259]LogContentBrowser: End creating deferred item NewBlueprint
