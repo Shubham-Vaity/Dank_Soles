@@ -2619,3 +2619,824 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2025.09.20-10.42.42:633][183]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.09.20-10.42.42:633][183]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.20-10.42.42:633][183]AssetCheck: /Game/Dank/AI/BT_enemy Validating asset
+[2025.09.20-10.42.55:361][263]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2096.474121
+[2025.09.20-10.42.57:028][268]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.20-10.42.57:028][269]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2097.807861, Update Interval: 303.004852
+[2025.09.20-10.43.27:273][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.09.20-10.43.30:190][469]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.09.20-10.43.30:210][469]LogContentBrowser: Creating deferred item: NewFolder
+[2025.09.20-10.43.30:224][469]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.09.20-10.43.32:084][469]LogContentBrowser: Attempting asset rename: NewFolder -> Tasks
+[2025.09.20-10.43.32:084][469]LogContentBrowser: End creating deferred item NewFolder
+[2025.09.20-10.43.54:750][469]LogSlate: Window 'Save Asset As' being destroyed
+[2025.09.20-10.43.54:780][469]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dank/AI/Tasks/BTTask_ChaseTarget.BTTask_ChaseTarget
+[2025.09.20-10.43.54:781][469]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2025.09.20-10.43.54:912][469]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Dank/AI/Tasks/BTTask_ChaseTarget.
+[2025.09.20-10.45.03:277][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2025.09.20-10.45.09:204][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.09.20-10.45.34:736][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.09.20-10.45.34:921][936]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.20-10.45.35:005][936]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/Tasks/BTTask_ChaseTarget] ([2] browsable assets)...
+[2025.09.20-10.45.35:005][936]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/Tasks/BTTask_ChaseTarget]
+[2025.09.20-10.45.35:005][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/Tasks/BTTask_ChaseTarget" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/Tasks/BTTask_ChaseTarget.uasset" SILENT=true
+[2025.09.20-10.45.35:015][936]LogSavePackage: Moving output files for package: /Game/Dank/AI/Tasks/BTTask_ChaseTarget
+[2025.09.20-10.45.35:015][936]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BTTask_ChaseTarget9A58789B4CF8D6E7CBA632A450259029.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/Tasks/BTTask_ChaseTarget.uasset'
+[2025.09.20-10.45.35:017][936]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Dank/AI/Tasks/BTTask_ChaseTarget.
+[2025.09.20-10.45.35:336][936]LogFileHelpers: InternalPromptForCheckoutAndSave took 414.835 ms (total: 2.73 sec)
+[2025.09.20-10.45.35:444][936]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.20-10.45.35:444][936]LogContentValidation: Enabled validators:
+[2025.09.20-10.45.35:444][936]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.20-10.45.35:444][936]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.20-10.45.35:444][936]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.20-10.45.35:444][936]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.20-10.45.35:444][936]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.20-10.45.35:444][936]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.20-10.45.35:445][936]AssetCheck: /Game/Dank/AI/Tasks/BTTask_ChaseTarget Validating asset
+[2025.09.20-10.45.40:279][445]LogStreaming: Display: FlushAsyncLoading(594): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.20-10.45.45:706][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.09.20-10.45.45:872][852]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.20-10.45.45:982][852]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/BT_enemy] ([1] browsable assets)...
+[2025.09.20-10.45.45:982][852]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/BT_enemy]
+[2025.09.20-10.45.45:982][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/BT_enemy" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/BT_enemy.uasset" SILENT=true
+[2025.09.20-10.45.45:985][852]LogSavePackage: Moving output files for package: /Game/Dank/AI/BT_enemy
+[2025.09.20-10.45.45:986][852]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BT_enemy31D80A174D9810F1B0D1D084EF842C53.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/BT_enemy.uasset'
+[2025.09.20-10.45.46:017][852]LogFileHelpers: InternalPromptForCheckoutAndSave took 144.765 ms (total: 2.87 sec)
+[2025.09.20-10.45.46:096][852]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.20-10.45.46:096][852]LogContentValidation: Enabled validators:
+[2025.09.20-10.45.46:096][852]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.20-10.45.46:096][852]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.20-10.45.46:096][852]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.20-10.45.46:096][852]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.20-10.45.46:096][852]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.20-10.45.46:096][852]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.20-10.45.46:097][852]AssetCheck: /Game/Dank/AI/BT_enemy Validating asset
+[2025.09.20-10.46.24:827][195]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.09.20-10.46.24:827][195]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.09.20-10.46.24:834][195]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NavMeshBoundsVolume_UAID_989096BF572AD49002_1718349871
+[2025.09.20-10.46.24:836][195]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NavMeshBoundsVolume_UAID_989096BF572AD49002_1718349871
+[2025.09.20-10.46.32:362][673]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.20-10.46.50:713][912]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2025.09.20-10.46.51:006][912]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.20-10.46.51:099][912]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/LX/25J0K57JEI3FW66TIT0GB7
+[2025.09.20-10.46.51:100][912]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/25J0K57JEI3FW66TIT0GB772C0FE82472A66A6920088A2275E78F3.tmp' to 'D:/unreal/Dank_Soles/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/LX/25J0K57JEI3FW66TIT0GB7.uasset'
+[2025.09.20-10.46.51:104][912]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/YM/K3G2O9VQF6O33DAZUEZ19X
+[2025.09.20-10.46.51:104][912]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/K3G2O9VQF6O33DAZUEZ19XDF18FD254D51F80CEE43B78108D36891.tmp' to 'D:/unreal/Dank_Soles/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/YM/K3G2O9VQF6O33DAZUEZ19X.uasset'
+[2025.09.20-10.46.51:567][912]LogFileHelpers: InternalPromptForCheckoutAndSave took 561.419 ms (total: 3.44 sec)
+[2025.09.20-10.46.51:646][912]LogContentValidation: Display: Starting to validate 2 assets
+[2025.09.20-10.46.51:646][912]LogContentValidation: Enabled validators:
+[2025.09.20-10.46.51:646][912]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.20-10.46.51:646][912]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.20-10.46.51:646][912]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.20-10.46.51:646][912]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.20-10.46.51:646][912]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.20-10.46.51:646][912]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.20-10.46.51:646][912]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.09.20-10.46.51:677][912]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2025.09.20-10.47.00:899][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.09.20-10.47.05:768][548]Cmd: DELETE
+[2025.09.20-10.47.05:768][548]Cmd: ACTOR DELETE
+[2025.09.20-10.47.05:776][548]LogEditorActor: Deleted Actor: BP_ThirdPersonCharacter_C
+[2025.09.20-10.47.05:835][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2025.09.20-10.47.05:838][548]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2025.09.20-10.47.07:469][654]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.20-10.47.07:572][654]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dank/AI/BP_enemy] ([2] browsable assets)...
+[2025.09.20-10.47.07:590][654]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dank/AI/BP_enemy.BP_enemy]
+[2025.09.20-10.47.07:590][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/BP_enemy]
+[2025.09.20-10.47.07:590][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/BP_enemy" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/BP_enemy.uasset" SILENT=true
+[2025.09.20-10.47.07:598][654]LogSavePackage: Moving output files for package: /Game/Dank/AI/BP_enemy
+[2025.09.20-10.47.07:598][654]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BP_enemyCA72465B462F79C09F03BAAEE3D85A7B.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/BP_enemy.uasset'
+[2025.09.20-10.47.07:626][654]LogFileHelpers: InternalPromptForCheckoutAndSave took 156.335 ms (total: 3.59 sec)
+[2025.09.20-10.47.07:730][654]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.20-10.47.07:730][654]LogContentValidation: Enabled validators:
+[2025.09.20-10.47.07:730][654]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.20-10.47.07:730][654]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.20-10.47.07:730][654]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.20-10.47.07:730][654]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.20-10.47.07:730][654]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.20-10.47.07:730][654]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.20-10.47.07:730][654]AssetCheck: /Game/Dank/AI/BP_enemy Validating asset
+[2025.09.20-10.47.08:322][684]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Dank/AI/BP_enemy.BP_enemy_C
+[2025.09.20-10.47.08:322][684]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Dank/AI/BP_enemy.BP_enemy_C
+[2025.09.20-10.47.08:325][684]LogActorFactory: Actor Factory spawned Blueprint /Game/Dank/AI/BP_enemy.BP_enemy as actor: BP_enemy_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_enemy_C_0
+[2025.09.20-10.47.08:327][684]LogActorFactory: Actor Factory spawned Blueprint /Game/Dank/AI/BP_enemy.BP_enemy as actor: BP_enemy_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_enemy_C_0
+[2025.09.20-10.47.09:560][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.09.20-10.47.09:565][769]LogEditorActor: Deleted 0 Actors (0.037 secs)
+[2025.09.20-10.47.09:576][769]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Dank/AI/BP_enemy.BP_enemy_C
+[2025.09.20-10.47.09:576][769]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Dank/AI/BP_enemy.BP_enemy_C
+[2025.09.20-10.47.09:582][769]LogActorFactory: Actor Factory spawned Blueprint /Game/Dank/AI/BP_enemy.BP_enemy as actor: BP_enemy_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_enemy_C_UAID_989096BF572AD49002_1763095873
+[2025.09.20-10.47.09:583][769]LogActorFactory: Actor Factory spawned Blueprint /Game/Dank/AI/BP_enemy.BP_enemy as actor: BP_enemy_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_enemy_C_UAID_989096BF572AD49002_1763095873
+[2025.09.20-10.47.10:833][840]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.20-10.47.10:841][840]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.09.20-10.47.10:841][840]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.09.20-10.47.10:845][840]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3.312 ms (total: 28.785 ms)
+[2025.09.20-10.47.10:858][840]LogPlayLevel: [PlayLevel] Compiling BTTask_ChaseTarget before play...
+[2025.09.20-10.47.10:942][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2025.09.20-10.47.10:944][840]LogPlayLevel: PlayLevel: Blueprint regeneration took 86 ms (1 blueprints)
+[2025.09.20-10.47.10:945][840]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.09.20-10.47.10:951][840]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006677s)
+[2025.09.20-10.47.10:951][840]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006750s)
+[2025.09.20-10.47.10:980][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.09.20-10.47.10:981][840]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.09.20-10.47.10:984][840]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.20-10.47.10:984][840]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.20-10.47.10:984][840]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.20-10.47.10:984][840]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.20-10.47.10:986][840]LogWorldPartition: Display: WorldPartition initialize took 2.054 ms (total: 135.998 ms)
+[2025.09.20-10.47.10:986][840]LogPlayLevel: PIE: World Init took: (0.004341s)
+[2025.09.20-10.47.10:987][840]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.09.20-10.47.10:987][840]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.20-10.47.10:987][840]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.20-10.47.10:987][840]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.20-10.47.10:987][840]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.20-10.47.10:987][840]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.20-10.47.10:987][840]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.20-10.47.10:987][840]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.20-10.47.10:987][840]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.20-10.47.10:987][840]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.20-10.47.10:987][840]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.20-10.47.10:987][840]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.20-10.47.10:990][840]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.20-10.47.11:109][840]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2025.09.20-10.47.11:110][840]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.20-10.47.11:110][840]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.20-10.47.11:110][840]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.20-10.47.11:113][840]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.09.20-10.47.11:113][840]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.09.20-10.47.11:118][840]LogInit: FAudioDevice initialized with ID 10.
+[2025.09.20-10.47.11:118][840]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.09.20-10.47.11:118][840]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonMap'.
+[2025.09.20-10.47.11:118][840]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.09.20-10.47.11:118][840]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.09.20-10.47.11:123][840]LogLoad: Game class is 'Dank_SolesGameMode'
+[2025.09.20-10.47.11:127][840]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.09.20-16.17.11
+[2025.09.20-10.47.11:128][840]LogWorld: Bringing up level for play took: 0.004350
+[2025.09.20-10.47.11:134][840]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2025.09.20-10.47.11:146][840]PIE: Server logged in
+[2025.09.20-10.47.11:147][840]PIE: Play in editor total start time 0.306 seconds.
+[2025.09.20-10.47.16:248][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.20-10.47.16:248][226]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.09.20-10.47.16:248][226]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.20-10.47.16:250][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.20-10.47.16:250][226]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.09.20-10.47.16:259][226]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.20-10.47.16:269][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.20-10.47.16:301][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.20-10.47.16:302][226]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.09.20-10.47.16:302][226]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.09.20-10.47.16:305][226]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.09.20-10.47.16:320][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.09.20-10.47.16:560][227]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2025.09.20-10.47.24:175][887]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.20-10.47.24:182][887]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.09.20-10.47.24:182][887]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.09.20-10.47.24:186][887]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3.238 ms (total: 32.023 ms)
+[2025.09.20-10.47.24:194][887]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.20-10.47.24:194][887]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.09.20-10.47.24:200][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006176s)
+[2025.09.20-10.47.24:200][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006236s)
+[2025.09.20-10.47.24:241][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.09.20-10.47.24:244][887]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.09.20-10.47.24:246][887]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.20-10.47.24:246][887]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.20-10.47.24:246][887]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.20-10.47.24:246][887]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.20-10.47.24:248][887]LogWorldPartition: Display: WorldPartition initialize took 2.048 ms (total: 138.046 ms)
+[2025.09.20-10.47.24:248][887]LogPlayLevel: PIE: World Init took: (0.004445s)
+[2025.09.20-10.47.24:249][887]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.09.20-10.47.24:249][887]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.20-10.47.24:249][887]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.20-10.47.24:249][887]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.20-10.47.24:249][887]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.20-10.47.24:249][887]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.20-10.47.24:249][887]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.20-10.47.24:249][887]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.20-10.47.24:249][887]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.20-10.47.24:249][887]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.20-10.47.24:249][887]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.20-10.47.24:249][887]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.20-10.47.24:253][887]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.20-10.47.24:366][887]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2025.09.20-10.47.24:367][887]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.20-10.47.24:367][887]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.20-10.47.24:367][887]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.20-10.47.24:367][887]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.09.20-10.47.24:367][887]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.09.20-10.47.24:373][887]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.09.20-10.47.24:373][887]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.09.20-10.47.24:374][887]LogInit: FAudioDevice initialized with ID 11.
+[2025.09.20-10.47.24:374][887]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonMap'.
+[2025.09.20-10.47.24:374][887]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.09.20-10.47.24:379][887]LogLoad: Game class is 'Dank_SolesGameMode'
+[2025.09.20-10.47.24:383][887]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.09.20-16.17.24
+[2025.09.20-10.47.24:384][887]LogWorld: Bringing up level for play took: 0.004618
+[2025.09.20-10.47.24:389][887]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2025.09.20-10.47.24:400][887]PIE: Server logged in
+[2025.09.20-10.47.24:402][887]PIE: Play in editor total start time 0.219 seconds.
+[2025.09.20-10.47.39:847][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.20-10.47.39:847][ 77]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.09.20-10.47.39:847][ 77]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.20-10.47.39:849][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.20-10.47.39:849][ 77]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.09.20-10.47.39:860][ 77]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.20-10.47.39:868][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.20-10.47.39:903][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.20-10.47.39:904][ 77]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.09.20-10.47.39:904][ 77]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.09.20-10.47.39:908][ 77]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.09.20-10.47.39:921][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.09.20-10.47.40:166][ 78]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2025.09.20-10.48.11:535][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.09.20-10.48.12:817][418]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.20-10.48.12:825][418]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.09.20-10.48.12:826][418]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.09.20-10.48.12:829][418]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3.227 ms (total: 35.251 ms)
+[2025.09.20-10.48.12:837][418]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.20-10.48.12:837][418]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.09.20-10.48.12:843][418]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006477s)
+[2025.09.20-10.48.12:843][418]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006539s)
+[2025.09.20-10.48.12:878][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.09.20-10.48.12:885][418]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.09.20-10.48.12:887][418]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.20-10.48.12:887][418]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.20-10.48.12:887][418]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.20-10.48.12:887][418]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.20-10.48.12:889][418]LogWorldPartition: Display: WorldPartition initialize took 2.204 ms (total: 140.251 ms)
+[2025.09.20-10.48.12:889][418]LogPlayLevel: PIE: World Init took: (0.004440s)
+[2025.09.20-10.48.12:891][418]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.09.20-10.48.12:891][418]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.20-10.48.12:891][418]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.20-10.48.12:891][418]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.20-10.48.12:891][418]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.20-10.48.12:891][418]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.20-10.48.12:891][418]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.20-10.48.12:891][418]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.20-10.48.12:891][418]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.20-10.48.12:891][418]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.20-10.48.12:891][418]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.20-10.48.12:891][418]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.20-10.48.12:894][418]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.20-10.48.13:010][418]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2025.09.20-10.48.13:010][418]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.20-10.48.13:010][418]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.20-10.48.13:010][418]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.20-10.48.13:012][418]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.09.20-10.48.13:012][418]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.09.20-10.48.13:018][418]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.09.20-10.48.13:018][418]LogInit: FAudioDevice initialized with ID 12.
+[2025.09.20-10.48.13:018][418]LogAudio: Display: Audio Device (ID: 12) registered with world 'ThirdPersonMap'.
+[2025.09.20-10.48.13:019][418]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.09.20-10.48.13:019][418]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.09.20-10.48.13:024][418]LogLoad: Game class is 'Dank_SolesGameMode'
+[2025.09.20-10.48.13:029][418]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.09.20-16.18.13
+[2025.09.20-10.48.13:030][418]LogWorld: Bringing up level for play took: 0.004434
+[2025.09.20-10.48.13:036][418]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2025.09.20-10.48.13:053][418]PIE: Server logged in
+[2025.09.20-10.48.13:054][418]PIE: Play in editor total start time 0.229 seconds.
+[2025.09.20-10.48.35:778][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.20-10.48.35:778][166]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.09.20-10.48.35:778][166]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.20-10.48.35:779][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.20-10.48.35:779][166]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.09.20-10.48.35:789][166]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.20-10.48.35:799][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.20-10.48.35:853][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.20-10.48.35:853][166]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.09.20-10.48.35:853][166]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.09.20-10.48.35:857][166]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.09.20-10.48.35:869][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.09.20-10.48.36:107][167]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2025.09.20-10.48.37:234][172]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2438.333496
+[2025.09.20-10.48.38:901][177]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.20-10.48.38:901][177]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2439.673340, Update Interval: 314.006165
+[2025.09.20-10.49.00:716][242]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2025.09.20-10.49.00:723][242]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/9O/UHIY5DPI3PZWAC1M00LSFH_Auto2
+[2025.09.20-10.49.00:724][242]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/UHIY5DPI3PZWAC1M00LSFH_Auto275E838524D8BED971F09409822A96348.tmp' to 'D:/unreal/Dank_Soles/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/9O/UHIY5DPI3PZWAC1M00LSFH_Auto2.uasset'
+[2025.09.20-10.49.00:725][242]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.053
+[2025.09.20-10.49.00:725][242]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.053
+[2025.09.20-10.49.00:725][242]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/BT_enemy] ([1] browsable assets)...
+[2025.09.20-10.49.00:725][242]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/BT_enemy]
+[2025.09.20-10.49.00:725][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/BT_enemy" FILE="D:/unreal/Dank_Soles/Saved/Autosaves/Game/Dank/AI/BT_enemy_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2025.09.20-10.49.00:729][242]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dank/AI/BT_enemy_Auto2
+[2025.09.20-10.49.00:729][242]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BT_enemy_Auto2D39920AC4E2939584D973186F18E5CCB.tmp' to 'D:/unreal/Dank_Soles/Saved/Autosaves/Game/Dank/AI/BT_enemy_Auto2.uasset'
+[2025.09.20-10.49.00:730][242]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dank/AI/BP_enemy] ([2] browsable assets)...
+[2025.09.20-10.49.00:751][242]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dank/AI/BP_enemy.BP_enemy]
+[2025.09.20-10.49.00:751][242]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/BP_enemy]
+[2025.09.20-10.49.00:751][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/BP_enemy" FILE="D:/unreal/Dank_Soles/Saved/Autosaves/Game/Dank/AI/BP_enemy_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2025.09.20-10.49.00:758][242]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dank/AI/BP_enemy_Auto2
+[2025.09.20-10.49.00:758][242]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BP_enemy_Auto2A1FE624A42561AF29768A3A28DD97B7F.tmp' to 'D:/unreal/Dank_Soles/Saved/Autosaves/Game/Dank/AI/BP_enemy_Auto2.uasset'
+[2025.09.20-10.49.00:761][242]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/VE/93B0PIEMM6X6Q4YU4PV9YA_Auto2
+[2025.09.20-10.49.00:761][242]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/93B0PIEMM6X6Q4YU4PV9YA_Auto271BADD9145EF49FDFA96A0960790F51A.tmp' to 'D:/unreal/Dank_Soles/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/VE/93B0PIEMM6X6Q4YU4PV9YA_Auto2.uasset'
+[2025.09.20-10.49.00:762][242]LogFileHelpers: Auto-saving content packages took 0.037
+[2025.09.20-10.49.10:906][287]Cmd: POLY SELECT ALL
+[2025.09.20-10.49.30:945][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.09.20-10.49.32:197][737]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.20-10.49.32:205][737]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.09.20-10.49.32:205][737]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.09.20-10.49.32:209][737]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3.223 ms (total: 38.474 ms)
+[2025.09.20-10.49.32:216][737]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.20-10.49.32:216][737]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.09.20-10.49.32:223][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006534s)
+[2025.09.20-10.49.32:223][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006595s)
+[2025.09.20-10.49.32:253][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.09.20-10.49.32:257][737]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.09.20-10.49.32:259][737]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.20-10.49.32:259][737]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.20-10.49.32:259][737]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.20-10.49.32:259][737]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.20-10.49.32:261][737]LogWorldPartition: Display: WorldPartition initialize took 2.195 ms (total: 142.447 ms)
+[2025.09.20-10.49.32:261][737]LogPlayLevel: PIE: World Init took: (0.004430s)
+[2025.09.20-10.49.32:262][737]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.09.20-10.49.32:262][737]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.20-10.49.32:262][737]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.20-10.49.32:262][737]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.20-10.49.32:262][737]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.20-10.49.32:262][737]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.20-10.49.32:262][737]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.20-10.49.32:263][737]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.20-10.49.32:263][737]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.20-10.49.32:263][737]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.20-10.49.32:263][737]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.20-10.49.32:263][737]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.20-10.49.32:265][737]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.20-10.49.32:381][737]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2025.09.20-10.49.32:382][737]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.20-10.49.32:382][737]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.20-10.49.32:383][737]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.20-10.49.32:385][737]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.09.20-10.49.32:385][737]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.09.20-10.49.32:392][737]LogInit: FAudioDevice initialized with ID 13.
+[2025.09.20-10.49.32:392][737]LogAudio: Display: Audio Device (ID: 13) registered with world 'ThirdPersonMap'.
+[2025.09.20-10.49.32:392][737]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.09.20-10.49.32:392][737]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.09.20-10.49.32:392][737]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.09.20-10.49.32:398][737]LogLoad: Game class is 'Dank_SolesGameMode'
+[2025.09.20-10.49.32:401][737]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.09.20-16.19.32
+[2025.09.20-10.49.32:402][737]LogWorld: Bringing up level for play took: 0.004020
+[2025.09.20-10.49.32:408][737]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2025.09.20-10.49.32:417][737]PIE: Server logged in
+[2025.09.20-10.49.32:418][737]PIE: Play in editor total start time 0.213 seconds.
+[2025.09.20-10.49.39:657][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.20-10.49.39:657][293]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.09.20-10.49.39:658][293]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.20-10.49.39:659][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.20-10.49.39:659][293]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.09.20-10.49.39:670][293]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.20-10.49.39:681][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.20-10.49.39:729][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.20-10.49.39:730][293]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.09.20-10.49.39:730][293]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.09.20-10.49.39:733][293]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.09.20-10.49.39:745][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.09.20-10.49.39:802][294]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2025.09.20-10.50.20:022][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.09.20-10.50.21:047][685]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.20-10.50.21:055][685]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.09.20-10.50.21:055][685]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.09.20-10.50.21:058][685]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3.156 ms (total: 41.630 ms)
+[2025.09.20-10.50.21:066][685]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.20-10.50.21:067][685]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.09.20-10.50.21:073][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006510s)
+[2025.09.20-10.50.21:073][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006571s)
+[2025.09.20-10.50.21:104][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.09.20-10.50.21:107][685]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.09.20-10.50.21:109][685]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.20-10.50.21:110][685]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.20-10.50.21:110][685]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.20-10.50.21:110][685]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.20-10.50.21:112][685]LogWorldPartition: Display: WorldPartition initialize took 2.250 ms (total: 144.697 ms)
+[2025.09.20-10.50.21:112][685]LogPlayLevel: PIE: World Init took: (0.004537s)
+[2025.09.20-10.50.21:113][685]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.09.20-10.50.21:113][685]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.20-10.50.21:113][685]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.20-10.50.21:113][685]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.20-10.50.21:113][685]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.20-10.50.21:113][685]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.20-10.50.21:113][685]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.20-10.50.21:113][685]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.20-10.50.21:113][685]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.20-10.50.21:113][685]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.20-10.50.21:114][685]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.20-10.50.21:114][685]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.20-10.50.21:117][685]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.20-10.50.21:233][685]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2025.09.20-10.50.21:234][685]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.20-10.50.21:234][685]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.20-10.50.21:234][685]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.20-10.50.21:236][685]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.09.20-10.50.21:236][685]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.09.20-10.50.21:240][685]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.09.20-10.50.21:240][685]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.09.20-10.50.21:240][685]LogInit: FAudioDevice initialized with ID 14.
+[2025.09.20-10.50.21:240][685]LogAudio: Display: Audio Device (ID: 14) registered with world 'ThirdPersonMap'.
+[2025.09.20-10.50.21:241][685]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.09.20-10.50.21:247][685]LogLoad: Game class is 'Dank_SolesGameMode'
+[2025.09.20-10.50.21:255][685]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.09.20-16.20.21
+[2025.09.20-10.50.21:256][685]LogWorld: Bringing up level for play took: 0.008764
+[2025.09.20-10.50.21:261][685]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2025.09.20-10.50.21:275][685]PIE: Server logged in
+[2025.09.20-10.50.21:277][685]PIE: Play in editor total start time 0.221 seconds.
+[2025.09.20-10.50.35:058][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.20-10.50.35:058][751]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.09.20-10.50.35:058][751]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.20-10.50.35:059][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.20-10.50.35:059][751]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.09.20-10.50.35:066][751]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.20-10.50.35:076][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.20-10.50.35:107][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.20-10.50.35:108][751]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.09.20-10.50.35:108][751]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.09.20-10.50.35:111][751]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.09.20-10.50.35:123][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.09.20-10.50.35:185][752]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2025.09.20-10.51.51:436][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.09.20-10.51.51:808][678]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.20-10.51.52:113][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.09.20-10.51.52:147][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.09.20-10.51.52:180][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.09.20-10.51.52:567][678]SourceControl: Error: Updated 0 paths from the index
+[2025.09.20-10.51.52:845][678]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U4/5DY1ETLPYB705SBFSEPYD5.uasset'
+[2025.09.20-10.51.52:864][678]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/9O/UHIY5DPI3PZWAC1M00LSFH
+[2025.09.20-10.51.52:864][678]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/UHIY5DPI3PZWAC1M00LSFH5D9D467B41BA9B7FC4381D853B72C122.tmp' to 'D:/unreal/Dank_Soles/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/9O/UHIY5DPI3PZWAC1M00LSFH.uasset'
+[2025.09.20-10.51.52:865][678]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/BT_enemy] ([1] browsable assets)...
+[2025.09.20-10.51.52:866][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/BT_enemy]
+[2025.09.20-10.51.52:866][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/BT_enemy" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/BT_enemy.uasset" SILENT=true
+[2025.09.20-10.51.52:868][678]LogSavePackage: Moving output files for package: /Game/Dank/AI/BT_enemy
+[2025.09.20-10.51.52:869][678]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BT_enemy692360A1429F67C47B9C0293C80022C8.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/BT_enemy.uasset'
+[2025.09.20-10.51.52:870][678]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/BP_AI_Enemy] ([2] browsable assets)...
+[2025.09.20-10.51.52:870][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/BP_AI_Enemy]
+[2025.09.20-10.51.52:870][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/BP_AI_Enemy" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/BP_AI_Enemy.uasset" SILENT=true
+[2025.09.20-10.51.52:876][678]LogSavePackage: Moving output files for package: /Game/Dank/AI/BP_AI_Enemy
+[2025.09.20-10.51.52:876][678]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BP_AI_EnemyE3AC6CFD41B5A301BB1880896A66EC53.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/BP_AI_Enemy.uasset'
+[2025.09.20-10.51.52:878][678]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dank/AI/BP_enemy] ([2] browsable assets)...
+[2025.09.20-10.51.52:905][678]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dank/AI/BP_enemy.BP_enemy]
+[2025.09.20-10.51.52:905][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/BP_enemy]
+[2025.09.20-10.51.52:905][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/BP_enemy" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/BP_enemy.uasset" SILENT=true
+[2025.09.20-10.51.52:915][678]LogSavePackage: Moving output files for package: /Game/Dank/AI/BP_enemy
+[2025.09.20-10.51.52:916][678]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BP_enemy20E056674AD5717DED19D5BA68EC8C7F.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/BP_enemy.uasset'
+[2025.09.20-10.51.53:189][678]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.38 sec (total: 4.97 sec)
+[2025.09.20-10.51.53:292][678]LogContentValidation: Display: Starting to validate 4 assets
+[2025.09.20-10.51.53:292][678]LogContentValidation: Enabled validators:
+[2025.09.20-10.51.53:292][678]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.20-10.51.53:292][678]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.20-10.51.53:292][678]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.20-10.51.53:292][678]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.20-10.51.53:292][678]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.20-10.51.53:292][678]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.20-10.51.53:293][678]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.09.20-10.51.53:293][678]AssetCheck: /Game/Dank/AI/BT_enemy Validating asset
+[2025.09.20-10.51.53:293][678]AssetCheck: /Game/Dank/AI/BP_AI_Enemy Validating asset
+[2025.09.20-10.51.53:293][678]AssetCheck: /Game/Dank/AI/BP_enemy Validating asset
+[2025.09.20-10.52.05:216][939]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2025.09.20-10.52.20:572][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.09.20-10.52.21:192][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.09.20-10.52.21:409][444]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.20-10.52.21:468][444]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/BP_AI_Enemy] ([2] browsable assets)...
+[2025.09.20-10.52.21:468][444]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/BP_AI_Enemy]
+[2025.09.20-10.52.21:468][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/BP_AI_Enemy" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/BP_AI_Enemy.uasset" SILENT=true
+[2025.09.20-10.52.21:474][444]LogSavePackage: Moving output files for package: /Game/Dank/AI/BP_AI_Enemy
+[2025.09.20-10.52.21:475][444]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BP_AI_Enemy4CF09796444D8E36BE3665A68307C41A.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/BP_AI_Enemy.uasset'
+[2025.09.20-10.52.21:496][444]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.627 ms (total: 5.06 sec)
+[2025.09.20-10.52.21:588][444]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.20-10.52.21:588][444]LogContentValidation: Enabled validators:
+[2025.09.20-10.52.21:588][444]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.20-10.52.21:588][444]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.20-10.52.21:588][444]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.20-10.52.21:588][444]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.20-10.52.21:588][444]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.20-10.52.21:589][444]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.20-10.52.21:589][444]AssetCheck: /Game/Dank/AI/BP_AI_Enemy Validating asset
+[2025.09.20-10.52.32:237][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.09.20-10.53.07:234][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.09.20-10.53.07:453][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.20-10.53.07:539][ 81]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/BP_AI_Enemy] ([2] browsable assets)...
+[2025.09.20-10.53.07:539][ 81]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/BP_AI_Enemy]
+[2025.09.20-10.53.07:539][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/BP_AI_Enemy" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/BP_AI_Enemy.uasset" SILENT=true
+[2025.09.20-10.53.07:546][ 81]LogSavePackage: Moving output files for package: /Game/Dank/AI/BP_AI_Enemy
+[2025.09.20-10.53.07:546][ 81]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BP_AI_EnemyE8BAE6864CD72BA2CFFF929B7DAE154F.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/BP_AI_Enemy.uasset'
+[2025.09.20-10.53.07:570][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.496 ms (total: 5.18 sec)
+[2025.09.20-10.53.07:664][ 81]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.20-10.53.07:665][ 81]LogContentValidation: Enabled validators:
+[2025.09.20-10.53.07:665][ 81]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.20-10.53.07:665][ 81]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.20-10.53.07:665][ 81]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.20-10.53.07:665][ 81]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.20-10.53.07:665][ 81]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.20-10.53.07:665][ 81]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.20-10.53.07:665][ 81]AssetCheck: /Game/Dank/AI/BP_AI_Enemy Validating asset
+[2025.09.20-10.53.28:082][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.09.20-10.53.28:282][800]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.20-10.53.28:369][800]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/BD_enemyAI] ([1] browsable assets)...
+[2025.09.20-10.53.28:369][800]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/BD_enemyAI]
+[2025.09.20-10.53.28:369][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/BD_enemyAI" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/BD_enemyAI.uasset" SILENT=true
+[2025.09.20-10.53.28:372][800]LogSavePackage: Moving output files for package: /Game/Dank/AI/BD_enemyAI
+[2025.09.20-10.53.28:373][800]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BD_enemyAIF5EF5F344A9C7CC8E784AFA1FF1F03C9.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/BD_enemyAI.uasset'
+[2025.09.20-10.53.28:393][800]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.975 ms (total: 5.29 sec)
+[2025.09.20-10.53.28:490][800]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.20-10.53.28:490][800]LogContentValidation: Enabled validators:
+[2025.09.20-10.53.28:490][800]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.20-10.53.28:490][800]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.20-10.53.28:490][800]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.20-10.53.28:490][800]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.20-10.53.28:490][800]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.20-10.53.28:490][800]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.20-10.53.28:491][800]AssetCheck: /Game/Dank/AI/BD_enemyAI Validating asset
+[2025.09.20-10.54.32:960][211]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.20-10.54.33:053][211]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/BP_AI_Enemy] ([2] browsable assets)...
+[2025.09.20-10.54.33:053][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/BP_AI_Enemy]
+[2025.09.20-10.54.33:053][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/BP_AI_Enemy" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/BP_AI_Enemy.uasset" SILENT=true
+[2025.09.20-10.54.33:062][211]LogSavePackage: Moving output files for package: /Game/Dank/AI/BP_AI_Enemy
+[2025.09.20-10.54.33:063][211]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BP_AI_EnemyCF47FA85464DE0D66DAA3E81E856B4F4.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/BP_AI_Enemy.uasset'
+[2025.09.20-10.54.33:086][211]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.391 ms (total: 5.41 sec)
+[2025.09.20-10.54.33:191][211]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.20-10.54.33:191][211]LogContentValidation: Enabled validators:
+[2025.09.20-10.54.33:191][211]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.20-10.54.33:191][211]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.20-10.54.33:191][211]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.20-10.54.33:191][211]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.20-10.54.33:191][211]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.20-10.54.33:191][211]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.20-10.54.33:192][211]AssetCheck: /Game/Dank/AI/BP_AI_Enemy Validating asset
+[2025.09.20-10.54.33:892][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.09.20-10.54.42:578][331]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2803.668457
+[2025.09.20-10.54.43:017][367]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2025.09.20-10.54.43:661][428]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.20-10.54.43:661][429]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2804.741211, Update Interval: 332.015137
+[2025.09.20-10.55.53:804][199]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.20-10.55.53:908][199]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/BP_AI_Enemy] ([2] browsable assets)...
+[2025.09.20-10.55.53:909][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/BP_AI_Enemy]
+[2025.09.20-10.55.53:909][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/BP_AI_Enemy" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/BP_AI_Enemy.uasset" SILENT=true
+[2025.09.20-10.55.53:919][199]LogSavePackage: Moving output files for package: /Game/Dank/AI/BP_AI_Enemy
+[2025.09.20-10.55.53:920][199]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BP_AI_Enemy6DB67F0C42874DA37B3D999C1968DDB1.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/BP_AI_Enemy.uasset'
+[2025.09.20-10.55.53:942][199]LogFileHelpers: InternalPromptForCheckoutAndSave took 138.766 ms (total: 5.55 sec)
+[2025.09.20-10.55.54:031][199]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.20-10.55.54:031][199]LogContentValidation: Enabled validators:
+[2025.09.20-10.55.54:031][199]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.20-10.55.54:031][199]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.20-10.55.54:031][199]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.20-10.55.54:031][199]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.20-10.55.54:031][199]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.20-10.55.54:031][199]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.20-10.55.54:032][199]AssetCheck: /Game/Dank/AI/BP_AI_Enemy Validating asset
+[2025.09.20-10.55.54:360][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.09.20-10.56.35:268][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.09.20-10.56.35:465][492]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.20-10.56.35:528][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/BD_enemyAI] ([1] browsable assets)...
+[2025.09.20-10.56.35:528][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/BD_enemyAI]
+[2025.09.20-10.56.35:528][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/BD_enemyAI" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/BD_enemyAI.uasset" SILENT=true
+[2025.09.20-10.56.35:529][492]LogSavePackage: Moving output files for package: /Game/Dank/AI/BD_enemyAI
+[2025.09.20-10.56.35:530][492]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BD_enemyAIE663AF514397C76C137086B67BA5F7A8.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/BD_enemyAI.uasset'
+[2025.09.20-10.56.35:531][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/BP_AI_Enemy] ([2] browsable assets)...
+[2025.09.20-10.56.35:531][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/BP_AI_Enemy]
+[2025.09.20-10.56.35:531][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/BP_AI_Enemy" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/BP_AI_Enemy.uasset" SILENT=true
+[2025.09.20-10.56.35:542][492]LogSavePackage: Moving output files for package: /Game/Dank/AI/BP_AI_Enemy
+[2025.09.20-10.56.35:542][492]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BP_AI_Enemy062223CB4297F0D63148A6BA6B30F887.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/BP_AI_Enemy.uasset'
+[2025.09.20-10.56.35:564][492]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.047 ms (total: 5.65 sec)
+[2025.09.20-10.56.35:716][492]LogContentValidation: Display: Starting to validate 2 assets
+[2025.09.20-10.56.35:716][492]LogContentValidation: Enabled validators:
+[2025.09.20-10.56.35:717][492]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.20-10.56.35:717][492]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.20-10.56.35:717][492]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.20-10.56.35:717][492]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.20-10.56.35:717][492]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.20-10.56.35:717][492]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.20-10.56.35:717][492]AssetCheck: /Game/Dank/AI/BD_enemyAI Validating asset
+[2025.09.20-10.56.35:717][492]AssetCheck: /Game/Dank/AI/BP_AI_Enemy Validating asset
+[2025.09.20-10.56.39:253][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.09.20-10.57.26:843][823]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2025.09.20-10.57.27:059][823]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.20-10.57.27:176][823]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/BT_enemy] ([1] browsable assets)...
+[2025.09.20-10.57.27:176][823]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/BT_enemy]
+[2025.09.20-10.57.27:176][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/BT_enemy" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/BT_enemy.uasset" SILENT=true
+[2025.09.20-10.57.27:181][823]LogSavePackage: Moving output files for package: /Game/Dank/AI/BT_enemy
+[2025.09.20-10.57.27:181][823]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BT_enemy557CBE034685811F6D21DC9D1244B5BB.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/BT_enemy.uasset'
+[2025.09.20-10.57.27:211][823]LogFileHelpers: InternalPromptForCheckoutAndSave took 153.056 ms (total: 5.80 sec)
+[2025.09.20-10.57.27:299][823]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.20-10.57.27:299][823]LogContentValidation: Enabled validators:
+[2025.09.20-10.57.27:299][823]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.20-10.57.27:299][823]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.20-10.57.27:299][823]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.20-10.57.27:299][823]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.20-10.57.27:300][823]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.20-10.57.27:300][823]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.20-10.57.27:300][823]AssetCheck: /Game/Dank/AI/BT_enemy Validating asset
+[2025.09.20-10.57.57:870][473]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2025.09.20-10.57.58:070][473]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.20-10.57.58:156][473]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/BT_enemy] ([1] browsable assets)...
+[2025.09.20-10.57.58:156][473]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/BT_enemy]
+[2025.09.20-10.57.58:156][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/BT_enemy" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/BT_enemy.uasset" SILENT=true
+[2025.09.20-10.57.58:161][473]LogSavePackage: Moving output files for package: /Game/Dank/AI/BT_enemy
+[2025.09.20-10.57.58:161][473]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BT_enemy3C4993F74BC1B7CF5FFA77A5BBD0C8A2.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/BT_enemy.uasset'
+[2025.09.20-10.57.58:182][473]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.700 ms (total: 5.92 sec)
+[2025.09.20-10.57.58:288][473]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.20-10.57.58:288][473]LogContentValidation: Enabled validators:
+[2025.09.20-10.57.58:288][473]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.20-10.57.58:288][473]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.20-10.57.58:288][473]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.20-10.57.58:288][473]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.20-10.57.58:288][473]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.20-10.57.58:288][473]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.20-10.57.58:288][473]AssetCheck: /Game/Dank/AI/BT_enemy Validating asset
+[2025.09.20-10.59.14:872][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.09.20-10.59.15:062][410]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.20-10.59.15:162][410]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/BT_enemy] ([1] browsable assets)...
+[2025.09.20-10.59.15:162][410]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/BT_enemy]
+[2025.09.20-10.59.15:162][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/BT_enemy" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/BT_enemy.uasset" SILENT=true
+[2025.09.20-10.59.15:168][410]LogSavePackage: Moving output files for package: /Game/Dank/AI/BT_enemy
+[2025.09.20-10.59.15:169][410]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BT_enemy121CAE344D884336CF123EB98B3B0AE9.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/BT_enemy.uasset'
+[2025.09.20-10.59.15:200][410]LogFileHelpers: InternalPromptForCheckoutAndSave took 138.878 ms (total: 6.05 sec)
+[2025.09.20-10.59.15:304][410]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.20-10.59.15:304][410]LogContentValidation: Enabled validators:
+[2025.09.20-10.59.15:304][410]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.20-10.59.15:304][410]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.20-10.59.15:304][410]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.20-10.59.15:304][410]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.20-10.59.15:304][410]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.20-10.59.15:304][410]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.20-10.59.15:305][410]AssetCheck: /Game/Dank/AI/BT_enemy Validating asset
+[2025.09.20-10.59.22:870][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.09.20-10.59.22:873][ 98]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.035
+[2025.09.20-10.59.22:874][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/Tasks/BTTask_ChaseTarget] ([2] browsable assets)...
+[2025.09.20-10.59.22:874][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/Tasks/BTTask_ChaseTarget]
+[2025.09.20-10.59.22:874][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/Tasks/BTTask_ChaseTarget" FILE="D:/unreal/Dank_Soles/Saved/Autosaves/Game/Dank/AI/Tasks/BTTask_ChaseTarget_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2025.09.20-10.59.22:878][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dank/AI/Tasks/BTTask_ChaseTarget_Auto3
+[2025.09.20-10.59.22:879][ 98]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BTTask_ChaseTarget_Auto39F6D03C74CCE2CA4327680B06120DF81.tmp' to 'D:/unreal/Dank_Soles/Saved/Autosaves/Game/Dank/AI/Tasks/BTTask_ChaseTarget_Auto3.uasset'
+[2025.09.20-10.59.22:879][ 98]LogFileHelpers: Auto-saving content packages took 0.007
+[2025.09.20-10.59.26:724][254]LogSlate: Took 0.011817 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.09.20-11.00.19:625][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.09.20-11.00.36:089][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.09.20-11.00.38:465][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.09.20-11.00.38:668][513]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.20-11.00.38:761][513]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/Tasks/BTTask_ChaseTarget] ([2] browsable assets)...
+[2025.09.20-11.00.38:761][513]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/Tasks/BTTask_ChaseTarget]
+[2025.09.20-11.00.38:761][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/Tasks/BTTask_ChaseTarget" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/Tasks/BTTask_ChaseTarget.uasset" SILENT=true
+[2025.09.20-11.00.38:768][513]LogSavePackage: Moving output files for package: /Game/Dank/AI/Tasks/BTTask_ChaseTarget
+[2025.09.20-11.00.38:769][513]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BTTask_ChaseTarget8F52025942D9B3AEB4D65B87A3269CF0.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/Tasks/BTTask_ChaseTarget.uasset'
+[2025.09.20-11.00.38:791][513]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.501 ms (total: 6.18 sec)
+[2025.09.20-11.00.38:872][513]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.20-11.00.38:872][513]LogContentValidation: Enabled validators:
+[2025.09.20-11.00.38:872][513]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.20-11.00.38:872][513]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.20-11.00.38:872][513]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.20-11.00.38:872][513]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.20-11.00.38:872][513]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.20-11.00.38:872][513]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.20-11.00.38:873][513]AssetCheck: /Game/Dank/AI/Tasks/BTTask_ChaseTarget Validating asset
+[2025.09.20-11.00.54:190][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.09.20-11.00.54:407][182]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.20-11.00.54:502][182]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/BT_enemy] ([1] browsable assets)...
+[2025.09.20-11.00.54:503][182]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/BT_enemy]
+[2025.09.20-11.00.54:503][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/BT_enemy" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/BT_enemy.uasset" SILENT=true
+[2025.09.20-11.00.54:508][182]LogSavePackage: Moving output files for package: /Game/Dank/AI/BT_enemy
+[2025.09.20-11.00.54:509][182]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BT_enemy987D3F964F2A190FCE2542B1045D28E5.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/BT_enemy.uasset'
+[2025.09.20-11.00.54:532][182]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.146 ms (total: 6.30 sec)
+[2025.09.20-11.00.54:632][182]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.20-11.00.54:632][182]LogContentValidation: Enabled validators:
+[2025.09.20-11.00.54:633][182]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.20-11.00.54:633][182]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.20-11.00.54:633][182]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.20-11.00.54:633][182]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.20-11.00.54:633][182]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.20-11.00.54:633][182]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.20-11.00.54:633][182]AssetCheck: /Game/Dank/AI/BT_enemy Validating asset
+[2025.09.20-11.01.01:886][981]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3182.967773
+[2025.09.20-11.01.02:229][ 22]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.20-11.01.02:229][ 23]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3183.301270, Update Interval: 325.754578
+[2025.09.20-11.01.09:688][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.09.20-11.01.09:901][613]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.20-11.01.09:979][613]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/BD_enemyAI] ([1] browsable assets)...
+[2025.09.20-11.01.09:979][613]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/BD_enemyAI]
+[2025.09.20-11.01.09:979][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/BD_enemyAI" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/BD_enemyAI.uasset" SILENT=true
+[2025.09.20-11.01.09:980][613]LogSavePackage: Moving output files for package: /Game/Dank/AI/BD_enemyAI
+[2025.09.20-11.01.09:981][613]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BD_enemyAIA32394364F79941FF9F9B48DCED8AAD6.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/BD_enemyAI.uasset'
+[2025.09.20-11.01.09:982][613]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/BT_enemy] ([1] browsable assets)...
+[2025.09.20-11.01.09:982][613]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/BT_enemy]
+[2025.09.20-11.01.09:983][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/BT_enemy" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/BT_enemy.uasset" SILENT=true
+[2025.09.20-11.01.09:988][613]LogSavePackage: Moving output files for package: /Game/Dank/AI/BT_enemy
+[2025.09.20-11.01.09:989][613]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BT_enemy00ADE484462B75AEFCC67FA1631E4579.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/BT_enemy.uasset'
+[2025.09.20-11.01.10:018][613]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.666 ms (total: 6.42 sec)
+[2025.09.20-11.01.10:140][613]LogContentValidation: Display: Starting to validate 2 assets
+[2025.09.20-11.01.10:140][613]LogContentValidation: Enabled validators:
+[2025.09.20-11.01.10:140][613]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.20-11.01.10:140][613]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.20-11.01.10:140][613]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.20-11.01.10:140][613]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.20-11.01.10:140][613]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.20-11.01.10:140][613]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.20-11.01.10:140][613]AssetCheck: /Game/Dank/AI/BD_enemyAI Validating asset
+[2025.09.20-11.01.10:140][613]AssetCheck: /Game/Dank/AI/BT_enemy Validating asset
+[2025.09.20-11.01.12:871][867]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.20-11.01.12:986][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/BP_AI_Enemy] ([2] browsable assets)...
+[2025.09.20-11.01.12:986][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/BP_AI_Enemy]
+[2025.09.20-11.01.12:986][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/BP_AI_Enemy" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/BP_AI_Enemy.uasset" SILENT=true
+[2025.09.20-11.01.12:997][867]LogSavePackage: Moving output files for package: /Game/Dank/AI/BP_AI_Enemy
+[2025.09.20-11.01.12:998][867]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BP_AI_EnemyB89709BE45D44EC29E77468FB1377266.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/BP_AI_Enemy.uasset'
+[2025.09.20-11.01.13:026][867]LogFileHelpers: InternalPromptForCheckoutAndSave took 153.949 ms (total: 6.57 sec)
+[2025.09.20-11.01.13:123][867]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.20-11.01.13:123][867]LogContentValidation: Enabled validators:
+[2025.09.20-11.01.13:123][867]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.20-11.01.13:124][867]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.20-11.01.13:124][867]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.20-11.01.13:124][867]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.20-11.01.13:124][867]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.20-11.01.13:124][867]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.20-11.01.13:124][867]AssetCheck: /Game/Dank/AI/BP_AI_Enemy Validating asset
+[2025.09.20-11.01.14:056][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.09.20-11.01.24:603][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.09.20-11.01.33:954][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.09.20-11.02.02:898][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.09.20-11.02.22:571][379]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.20-11.02.22:580][379]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.09.20-11.02.22:580][379]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.09.20-11.02.22:584][379]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4.613 ms (total: 46.244 ms)
+[2025.09.20-11.02.22:594][379]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.20-11.02.22:595][379]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.09.20-11.02.22:602][379]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007426s)
+[2025.09.20-11.02.22:602][379]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.007506s)
+[2025.09.20-11.02.22:632][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.09.20-11.02.22:634][379]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.09.20-11.02.22:636][379]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.20-11.02.22:636][379]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.20-11.02.22:636][379]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.20-11.02.22:636][379]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.20-11.02.22:640][379]LogWorldPartition: Display: WorldPartition initialize took 2.487 ms (total: 147.185 ms)
+[2025.09.20-11.02.22:640][379]LogPlayLevel: PIE: World Init took: (0.004865s)
+[2025.09.20-11.02.22:641][379]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.09.20-11.02.22:641][379]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.20-11.02.22:641][379]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.20-11.02.22:641][379]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.20-11.02.22:641][379]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.20-11.02.22:641][379]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.20-11.02.22:641][379]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.20-11.02.22:641][379]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.20-11.02.22:641][379]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.20-11.02.22:641][379]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.20-11.02.22:642][379]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.20-11.02.22:642][379]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.20-11.02.22:646][379]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.20-11.02.22:767][379]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2025.09.20-11.02.22:768][379]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.20-11.02.22:768][379]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.20-11.02.22:768][379]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.20-11.02.22:771][379]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.09.20-11.02.22:771][379]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.09.20-11.02.22:775][379]LogInit: FAudioDevice initialized with ID 15.
+[2025.09.20-11.02.22:775][379]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.09.20-11.02.22:775][379]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.09.20-11.02.22:775][379]LogAudio: Display: Audio Device (ID: 15) registered with world 'ThirdPersonMap'.
+[2025.09.20-11.02.22:775][379]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.09.20-11.02.22:780][379]LogLoad: Game class is 'Dank_SolesGameMode'
+[2025.09.20-11.02.22:784][379]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.09.20-16.32.22
+[2025.09.20-11.02.22:785][379]LogWorld: Bringing up level for play took: 0.004679
+[2025.09.20-11.02.22:791][379]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2025.09.20-11.02.22:802][379]PIE: Server logged in
+[2025.09.20-11.02.22:803][379]PIE: Play in editor total start time 0.224 seconds.
+[2025.09.20-11.03.12:038][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.20-11.03.12:038][209]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.09.20-11.03.12:038][209]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.20-11.03.12:040][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.20-11.03.12:040][209]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.09.20-11.03.12:050][209]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.20-11.03.12:059][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.20-11.03.12:105][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.20-11.03.12:105][209]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.09.20-11.03.12:105][209]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.09.20-11.03.12:108][209]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.09.20-11.03.12:120][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.09.20-11.03.12:268][210]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2025.09.20-11.03.49:311][337]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2025.09.20-11.03.49:546][337]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.20-11.03.49:658][337]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/QS/VHQF8JWOATZI5V3ZVY5YTM
+[2025.09.20-11.03.49:660][337]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/VHQF8JWOATZI5V3ZVY5YTM38A9F18545DD828CA00B3CAC8375B386.tmp' to 'D:/unreal/Dank_Soles/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/QS/VHQF8JWOATZI5V3ZVY5YTM.uasset'
+[2025.09.20-11.03.49:696][337]LogFileHelpers: InternalPromptForCheckoutAndSave took 150.451 ms (total: 6.72 sec)
+[2025.09.20-11.03.49:785][337]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.20-11.03.49:785][337]LogContentValidation: Enabled validators:
+[2025.09.20-11.03.49:785][337]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.20-11.03.49:786][337]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.20-11.03.49:786][337]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.20-11.03.49:786][337]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.20-11.03.49:786][337]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.20-11.03.49:786][337]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.20-11.03.49:786][337]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.09.20-11.04.00:290][589]LogSlate: Window 'Save Asset As' being destroyed
+[2025.09.20-11.04.00:319][589]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dank/AI/Tasks/BTTask_Attack.BTTask_Attack
+[2025.09.20-11.04.00:319][589]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2025.09.20-11.04.00:447][589]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Dank/AI/Tasks/BTTask_Attack.
+[2025.09.20-11.04.33:473][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.09.20-11.04.33:703][137]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.20-11.04.33:794][137]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/Tasks/BTTask_Attack] ([2] browsable assets)...
+[2025.09.20-11.04.33:794][137]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/Tasks/BTTask_Attack]
+[2025.09.20-11.04.33:794][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/Tasks/BTTask_Attack" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/Tasks/BTTask_Attack.uasset" SILENT=true
+[2025.09.20-11.04.33:797][137]LogSavePackage: Moving output files for package: /Game/Dank/AI/Tasks/BTTask_Attack
+[2025.09.20-11.04.33:797][137]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BTTask_Attack11D58C5142A70BC84CC8389D7F57ED8B.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/Tasks/BTTask_Attack.uasset'
+[2025.09.20-11.04.33:798][137]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Dank/AI/Tasks/BTTask_Attack.
+[2025.09.20-11.04.34:138][137]LogFileHelpers: InternalPromptForCheckoutAndSave took 433.632 ms (total: 7.16 sec)
+[2025.09.20-11.04.34:235][137]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.20-11.04.34:235][137]LogContentValidation: Enabled validators:
+[2025.09.20-11.04.34:235][137]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.20-11.04.34:235][137]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.20-11.04.34:235][137]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.20-11.04.34:235][137]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.20-11.04.34:235][137]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.20-11.04.34:235][137]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.20-11.04.34:235][137]AssetCheck: /Game/Dank/AI/Tasks/BTTask_Attack Validating asset
+[2025.09.20-11.04.52:491][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
