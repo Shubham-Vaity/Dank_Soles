@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\unreal\\Dank_Soles\\Source\\Dank_Soles\\Dank_Soles.Build.cs",
+		"D:\\unreal\\Dank_Soles\\Source\\Dank_Soles.Target.cs",
+		"D:\\unreal\\Dank_Soles\\Source\\Dank_SolesEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
