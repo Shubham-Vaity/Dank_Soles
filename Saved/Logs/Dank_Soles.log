@@ -1685,3 +1685,70 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2025.09.20-09.59.22:812][477]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Fab/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Fab/Content' is outside repository at 'D:/unreal/Dank_Soles'
 [2025.09.20-09.59.22:812][477]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/ChaosVD/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/ChaosVD/Content' is outside repository at 'D:/unreal/Dank_Soles'
 [2025.09.20-09.59.23:179][477]EditorErrors: Warning: No assets to check in!
+[2025.09.20-09.59.39:325][ 54]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.20-09.59.39:330][ 54]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.09.20-09.59.39:330][ 54]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.09.20-09.59.39:333][ 54]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3.407 ms
+[2025.09.20-09.59.39:333][ 54]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.20-09.59.39:341][ 54]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.09.20-09.59.39:341][ 54]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.09.20-09.59.39:342][ 54]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.09.20-09.59.39:350][ 54]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008880s)
+[2025.09.20-09.59.39:350][ 54]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.008956s)
+[2025.09.20-09.59.39:417][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.09.20-09.59.39:419][ 54]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.09.20-09.59.39:422][ 54]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.20-09.59.39:422][ 54]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.20-09.59.39:422][ 54]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.20-09.59.39:422][ 54]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.20-09.59.39:423][ 54]LogWorldPartition: Display: WorldPartition initialize took 2.305 ms (total: 112.754 ms)
+[2025.09.20-09.59.39:425][ 54]LogPlayLevel: PIE: World Init took: (0.004894s)
+[2025.09.20-09.59.39:426][ 54]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.09.20-09.59.39:426][ 54]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.20-09.59.39:426][ 54]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.20-09.59.39:426][ 54]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.20-09.59.39:426][ 54]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.20-09.59.39:426][ 54]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.20-09.59.39:426][ 54]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.20-09.59.39:427][ 54]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.20-09.59.39:427][ 54]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.20-09.59.39:427][ 54]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.20-09.59.39:427][ 54]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.20-09.59.39:427][ 54]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.20-09.59.39:429][ 54]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.20-09.59.39:558][ 54]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2025.09.20-09.59.39:558][ 54]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.20-09.59.39:558][ 54]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.20-09.59.39:558][ 54]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.20-09.59.39:559][ 54]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.09.20-09.59.39:559][ 54]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.09.20-09.59.39:566][ 54]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.09.20-09.59.39:567][ 54]LogInit: FAudioDevice initialized with ID 2.
+[2025.09.20-09.59.39:567][ 54]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2025.09.20-09.59.39:567][ 54]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.09.20-09.59.39:567][ 54]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.09.20-09.59.39:572][ 54]LogLoad: Game class is 'Dank_SolesGameMode'
+[2025.09.20-09.59.39:582][ 54]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.09.20-15.29.39
+[2025.09.20-09.59.39:584][ 54]LogWorld: Bringing up level for play took: 0.010878
+[2025.09.20-09.59.39:589][ 54]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2025.09.20-09.59.39:608][ 54]PIE: Server logged in
+[2025.09.20-09.59.39:610][ 54]PIE: Play in editor total start time 0.28 seconds.
+[2025.09.20-09.59.40:227][ 96]LogTemp: Warning: Hit actor: BP_ThirdPersonCharacter_C_UAID_989096BF572A3E8602_1874172911
+[2025.09.20-09.59.42:177][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.20-09.59.42:177][312]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.09.20-09.59.42:177][312]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.20-09.59.42:179][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.20-09.59.42:179][312]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.09.20-09.59.42:185][312]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.20-09.59.42:189][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.20-09.59.42:205][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.20-09.59.42:206][312]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.09.20-09.59.42:206][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.09.20-09.59.42:211][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.09.20-09.59.42:225][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.09.20-09.59.42:280][313]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2025.09.20-09.59.43:215][416]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.09.20-09.59.44:912][492]LogSlate: Took 0.000432 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.09.20-09.59.44:979][497]Display: Reload/Re-instancing Complete: No object changes detected
+[2025.09.20-09.59.44:979][497]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2025.09.20-09.59.59:229][640]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
