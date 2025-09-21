@@ -2841,3 +2841,57 @@ LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
 [2025.09.21-12.59.57:759][422]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dank/AI/ST/ST_enemyAI_Auto2
 [2025.09.21-12.59.57:760][422]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/ST_enemyAI_Auto25D7044B94CA243AFA74F5AB67DE1C06C.tmp' to 'D:/unreal/Dank_Soles/Saved/Autosaves/Game/Dank/AI/ST/ST_enemyAI_Auto2.uasset'
 [2025.09.21-12.59.57:760][422]LogFileHelpers: Auto-saving content packages took 0.024
+[2025.09.21-13.00.22:519][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.09.21-13.00.22:692][519]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-13.00.22:768][519]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/ST/ST_enemyAI] ([1] browsable assets)...
+[2025.09.21-13.00.22:768][519]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/ST/ST_enemyAI]
+[2025.09.21-13.00.22:768][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/ST/ST_enemyAI" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/ST/ST_enemyAI.uasset" SILENT=true
+[2025.09.21-13.00.22:791][519]LogSavePackage: Moving output files for package: /Game/Dank/AI/ST/ST_enemyAI
+[2025.09.21-13.00.22:791][519]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/ST_enemyAI7E6EF45946EC1B27C4D0EEB471D01D68.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/ST/ST_enemyAI.uasset'
+[2025.09.21-13.00.22:811][519]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.971 ms (total: 4.60 sec)
+[2025.09.21-13.00.22:883][519]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-13.00.22:883][519]LogContentValidation: Enabled validators:
+[2025.09.21-13.00.22:883][519]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-13.00.22:883][519]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-13.00.22:883][519]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-13.00.22:883][519]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-13.00.22:883][519]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-13.00.22:883][519]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-13.00.22:883][519]AssetCheck: /Game/Dank/AI/ST/ST_enemyAI Validating asset
+[2025.09.21-13.01.31:417][937]LogStateTreeEditor: Compile StateTree 'StateTree /Game/Dank/AI/ST/ST_enemyAI.ST_enemyAI' succeeded.
+[2025.09.21-13.01.43:881][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.09.21-13.01.44:737][298]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-13.01.44:737][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-13.01.44:843][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.09.21-13.01.56:438][591]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-13.01.56:439][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-13.01.56:516][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2025.09.21-13.01.57:065][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2025.09.21-13.01.57:270][628]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-13.01.57:367][628]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/ST/ST_enemyAI] ([1] browsable assets)...
+[2025.09.21-13.01.57:367][628]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/ST/ST_enemyAI]
+[2025.09.21-13.01.57:367][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/ST/ST_enemyAI" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/ST/ST_enemyAI.uasset" SILENT=true
+[2025.09.21-13.01.57:393][628]LogSavePackage: Moving output files for package: /Game/Dank/AI/ST/ST_enemyAI
+[2025.09.21-13.01.57:393][628]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/ST_enemyAIE2E32DAE491DD5A067C59AA37431ADE1.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/ST/ST_enemyAI.uasset'
+[2025.09.21-13.01.57:394][628]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dank/AI/ST/BP_ST_Enemy] ([2] browsable assets)...
+[2025.09.21-13.01.57:423][628]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dank/AI/ST/BP_ST_Enemy.BP_ST_Enemy]
+[2025.09.21-13.01.57:423][628]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/ST/BP_ST_Enemy]
+[2025.09.21-13.01.57:423][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/ST/BP_ST_Enemy" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/ST/BP_ST_Enemy.uasset" SILENT=true
+[2025.09.21-13.01.57:432][628]LogSavePackage: Moving output files for package: /Game/Dank/AI/ST/BP_ST_Enemy
+[2025.09.21-13.01.57:433][628]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BP_ST_EnemyB6A321284CEACCC3CD582ABC7702D1CB.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/ST/BP_ST_Enemy.uasset'
+[2025.09.21-13.01.57:459][628]LogFileHelpers: InternalPromptForCheckoutAndSave took 189.107 ms (total: 4.79 sec)
+[2025.09.21-13.01.57:542][628]LogContentValidation: Display: Starting to validate 2 assets
+[2025.09.21-13.01.57:542][628]LogContentValidation: Enabled validators:
+[2025.09.21-13.01.57:542][628]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-13.01.57:542][628]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-13.01.57:542][628]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-13.01.57:542][628]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-13.01.57:543][628]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-13.01.57:543][628]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-13.01.57:543][628]AssetCheck: /Game/Dank/AI/ST/ST_enemyAI Validating asset
+[2025.09.21-13.01.57:544][628]AssetCheck: /Game/Dank/AI/ST/BP_ST_Enemy Validating asset
+[2025.09.21-13.01.59:183][748]Cmd: DELETE
+[2025.09.21-13.01.59:184][748]Cmd: ACTOR DELETE
+[2025.09.21-13.01.59:192][748]LogEditorActor: Deleted Actor: BP_ST_Enemy_C
+[2025.09.21-13.01.59:223][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.09.21-13.01.59:225][748]LogEditorActor: Deleted 1 Actors (0.039 secs)
