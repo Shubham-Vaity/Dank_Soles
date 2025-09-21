@@ -1626,3 +1626,1218 @@ LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
 [2025.09.21-12.30.53:454][153]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
 [2025.09.21-12.31.02:454][910]LogSlate: Window 'Plugins' being destroyed
 [2025.09.21-12.31.02:478][910]LogSlate: Window 'Plugins' being destroyed
+[2025.09.21-12.31.17:953][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.09.21-12.31.18:302][ 86]LogSlate: Took 0.000420 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.09.21-12.31.21:662][384]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.09.21-12.31.23:921][558]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.09.21-12.31.23:931][558]LogContentBrowser: Creating deferred item: NewFolder
+[2025.09.21-12.31.23:942][559]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.09.21-12.31.25:877][739]LogContentBrowser: Attempting asset rename: NewFolder -> ST
+[2025.09.21-12.31.25:879][739]LogContentBrowser: End creating deferred item NewFolder
+[2025.09.21-12.31.26:234][772]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.21-12.31.44:076][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.09.21-12.31.50:632][234]LogSlate: Window 'Pick Schema for State Tree' being destroyed
+[2025.09.21-12.31.50:677][234]LogContentBrowser: Deferred new asset file creation: NewStateTree
+[2025.09.21-12.31.50:686][234]LogContentBrowser: Creating deferred item: NewStateTree
+[2025.09.21-12.31.50:708][236]LogContentBrowser: Renaming the item being created (Deferred Item: NewStateTree).
+[2025.09.21-12.31.55:532][641]LogContentBrowser: Attempting asset rename: NewStateTree -> ST_enemyAI
+[2025.09.21-12.31.55:769][641]LogStateTreeEditor: Compile StateTree 'StateTree /Game/Dank/AI/ST/ST_enemyAI.ST_enemyAI' succeeded.
+[2025.09.21-12.31.55:771][641]LogContentBrowser: End creating deferred item NewStateTree
+[2025.09.21-12.32.05:200][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.09.21-12.32.05:405][699]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-12.32.05:500][699]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/ST/ST_enemyAI] ([1] browsable assets)...
+[2025.09.21-12.32.05:500][699]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/ST/ST_enemyAI]
+[2025.09.21-12.32.05:500][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/ST/ST_enemyAI" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/ST/ST_enemyAI.uasset" SILENT=true
+[2025.09.21-12.32.05:505][699]LogSavePackage: Moving output files for package: /Game/Dank/AI/ST/ST_enemyAI
+[2025.09.21-12.32.05:505][699]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/ST_enemyAIA35A69CC4A73FF83A484A684BD984442.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/ST/ST_enemyAI.uasset'
+[2025.09.21-12.32.05:820][699]LogFileHelpers: InternalPromptForCheckoutAndSave took 415.035 ms
+[2025.09.21-12.32.05:909][699]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-12.32.05:909][699]LogContentValidation: Enabled validators:
+[2025.09.21-12.32.05:910][699]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-12.32.05:910][699]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-12.32.05:910][699]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-12.32.05:910][699]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-12.32.05:910][699]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-12.32.05:910][699]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-12.32.05:910][699]AssetCheck: /Game/Dank/AI/ST/ST_enemyAI Validating asset
+[2025.09.21-12.32.32:700][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.09.21-12.32.34:008][ 38]LogAssetEditorSubsystem: Opening Asset editor for StateTree /Game/Dank/AI/ST/ST_enemyAI.ST_enemyAI
+[2025.09.21-12.32.34:165][ 38]LogToolMenus: Warning: Menu already registered : AssetEditor.StateTreeEditor.MainMenu.File
+[2025.09.21-12.32.36:644][211]LogSlate: Window 'ST_enemyAI' being destroyed
+[2025.09.21-12.34.25:081][763]LogStateTreeEditor: StateTreeEditorData /Game/Dank/AI/ST/ST_enemyAI.ST_enemyAI:StateTreeEditorData_0: Fixing outer on state StateTreeState_1.
+[2025.09.21-12.34.50:057][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.09.21-12.34.50:264][592]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-12.34.50:352][592]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/ST/ST_enemyAI] ([1] browsable assets)...
+[2025.09.21-12.34.50:352][592]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/ST/ST_enemyAI]
+[2025.09.21-12.34.50:352][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/ST/ST_enemyAI" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/ST/ST_enemyAI.uasset" SILENT=true
+[2025.09.21-12.34.50:357][592]LogSavePackage: Moving output files for package: /Game/Dank/AI/ST/ST_enemyAI
+[2025.09.21-12.34.50:357][592]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/ST_enemyAIC88C22BF44EB89B0273E99A4438AFCEA.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/ST/ST_enemyAI.uasset'
+[2025.09.21-12.34.50:383][592]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.607 ms (total: 533.643 ms)
+[2025.09.21-12.34.50:467][592]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-12.34.50:467][592]LogContentValidation: Enabled validators:
+[2025.09.21-12.34.50:467][592]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-12.34.50:468][592]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-12.34.50:468][592]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-12.34.50:468][592]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-12.34.50:468][592]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-12.34.50:468][592]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-12.34.50:468][592]AssetCheck: /Game/Dank/AI/ST/ST_enemyAI Validating asset
+[2025.09.21-12.34.53:133][778]LogStateTreeEditor: Compile StateTree 'StateTree /Game/Dank/AI/ST/ST_enemyAI.ST_enemyAI' succeeded.
+[2025.09.21-12.36.01:258][144]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 369.927094
+[2025.09.21-12.36.02:257][147]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.21-12.36.02:257][148]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 370.588287, Update Interval: 338.808563
+[2025.09.21-12.37.38:524][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.09.21-12.38.19:589][476]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-12.38.19:686][476]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/ST/ST_enemyAI] ([1] browsable assets)...
+[2025.09.21-12.38.19:687][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/ST/ST_enemyAI]
+[2025.09.21-12.38.19:687][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/ST/ST_enemyAI" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/ST/ST_enemyAI.uasset" SILENT=true
+[2025.09.21-12.38.19:695][476]LogSavePackage: Moving output files for package: /Game/Dank/AI/ST/ST_enemyAI
+[2025.09.21-12.38.19:695][476]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/ST_enemyAI652F06144A0B7394EC0A18B5DE0932B0.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/ST/ST_enemyAI.uasset'
+[2025.09.21-12.38.19:718][476]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.263 ms (total: 662.906 ms)
+[2025.09.21-12.38.19:798][476]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-12.38.19:799][476]LogContentValidation: Enabled validators:
+[2025.09.21-12.38.19:799][476]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-12.38.19:799][476]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-12.38.19:799][476]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-12.38.19:799][476]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-12.38.19:799][476]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-12.38.19:799][476]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-12.38.19:800][476]AssetCheck: /Game/Dank/AI/ST/ST_enemyAI Validating asset
+[2025.09.21-12.38.20:166][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.09.21-12.38.21:915][643]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.09.21-12.38.21:922][643]LogContentBrowser: Creating deferred item: NewFolder
+[2025.09.21-12.38.21:930][644]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.09.21-12.38.23:662][852]LogContentBrowser: Attempting asset rename: NewFolder -> tasks
+[2025.09.21-12.38.23:662][852]LogContentBrowser: End creating deferred item NewFolder
+[2025.09.21-12.38.40:786][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.09.21-12.38.57:798][416]LogSlate: Window 'Save Asset As' being destroyed
+[2025.09.21-12.38.57:821][416]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dank/AI/ST/tasks/ST_task_FollowPlayer.ST_task_FollowPlayer
+[2025.09.21-12.38.57:822][416]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.09.21-12.38.57:874][416]LogStreaming: Display: FlushAsyncLoading(394): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.21-12.39.00:913][416]LogSlate: Took 0.009469 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.09.21-12.39.04:120][675]LogEditorTransaction: Undo Rename
+[2025.09.21-12.39.05:769][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.09.21-12.39.06:049][807]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-12.39.06:136][807]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/ST/ST_enemyAI] ([1] browsable assets)...
+[2025.09.21-12.39.06:137][807]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/ST/ST_enemyAI]
+[2025.09.21-12.39.06:137][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/ST/ST_enemyAI" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/ST/ST_enemyAI.uasset" SILENT=true
+[2025.09.21-12.39.06:143][807]LogSavePackage: Moving output files for package: /Game/Dank/AI/ST/ST_enemyAI
+[2025.09.21-12.39.06:144][807]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/ST_enemyAI6821398040F897137EBA9591A1E99FF1.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/ST/ST_enemyAI.uasset'
+[2025.09.21-12.39.06:145][807]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/ST/tasks/ST_task_FollowPlayer] ([2] browsable assets)...
+[2025.09.21-12.39.06:145][807]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/ST/tasks/ST_task_FollowPlayer]
+[2025.09.21-12.39.06:145][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/ST/tasks/ST_task_FollowPlayer" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/ST/tasks/ST_task_FollowPlayer.uasset" SILENT=true
+[2025.09.21-12.39.06:147][807]LogSavePackage: Moving output files for package: /Game/Dank/AI/ST/tasks/ST_task_FollowPlayer
+[2025.09.21-12.39.06:147][807]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/ST_task_FollowPlayerEB5684C2425E50FD5BAAB5BA2155402D.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/ST/tasks/ST_task_FollowPlayer.uasset'
+[2025.09.21-12.39.06:482][807]LogFileHelpers: InternalPromptForCheckoutAndSave took 434.042 ms (total: 1.09 sec)
+[2025.09.21-12.39.06:573][807]LogContentValidation: Display: Starting to validate 2 assets
+[2025.09.21-12.39.06:573][807]LogContentValidation: Enabled validators:
+[2025.09.21-12.39.06:573][807]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-12.39.06:573][807]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-12.39.06:574][807]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-12.39.06:574][807]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-12.39.06:574][807]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-12.39.06:574][807]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-12.39.06:574][807]AssetCheck: /Game/Dank/AI/ST/ST_enemyAI Validating asset
+[2025.09.21-12.39.06:575][807]AssetCheck: /Game/Dank/AI/ST/tasks/ST_task_FollowPlayer Validating asset
+[2025.09.21-12.39.14:990][542]LogSlate: Window 'Dank_Soles - Unreal Editor' being destroyed
+[2025.09.21-12.39.14:992][542]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2025.09.21-12.39.15:054][542]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-12.39.15:054][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-12.39.15:166][542]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2025.09.21-12.39.15:315][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.21-12.39.15:419][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.21-12.39.15:525][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.21-12.39.15:628][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.21-12.39.15:845][542]LogAssetEditorSubsystem: Opening Asset editor for StateTree /Game/Dank/AI/ST/ST_enemyAI.ST_enemyAI
+[2025.09.21-12.39.15:988][542]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dank/AI/ST/tasks/ST_task_FollowPlayer.ST_task_FollowPlayer
+[2025.09.21-12.39.15:989][542]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.09.21-12.39.16:520][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.09.21-12.39.17:144][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.09.21-12.39.21:082][941]LogSlate: Window 'ST_task_FollowPlayer' being destroyed
+[2025.09.21-12.39.21:865][ 25]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-12.39.21:865][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-12.39.21:886][ 25]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dank/AI/ST/tasks/ST_task_FollowPlayer.ST_task_FollowPlayer
+[2025.09.21-12.39.21:886][ 25]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.09.21-12.39.22:317][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.09.21-12.39.28:025][221]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2025.09.21-12.39.28:436][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.09.21-12.39.49:656][556]LogSlate: Took 0.013098 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.09.21-12.39.59:051][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.09.21-12.40.05:308][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.09.21-12.40.05:499][ 95]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-12.40.05:580][ 95]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/ST/tasks/ST_task_FollowPlayer] ([2] browsable assets)...
+[2025.09.21-12.40.05:580][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/ST/tasks/ST_task_FollowPlayer]
+[2025.09.21-12.40.05:580][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/ST/tasks/ST_task_FollowPlayer" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/ST/tasks/ST_task_FollowPlayer.uasset" SILENT=true
+[2025.09.21-12.40.05:586][ 95]LogSavePackage: Moving output files for package: /Game/Dank/AI/ST/tasks/ST_task_FollowPlayer
+[2025.09.21-12.40.05:586][ 95]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/ST_task_FollowPlayer770B875F480D0287FF5A55B6B48D69DB.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/ST/tasks/ST_task_FollowPlayer.uasset'
+[2025.09.21-12.40.05:609][ 95]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.579 ms (total: 1.20 sec)
+[2025.09.21-12.40.05:694][ 95]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-12.40.05:695][ 95]LogContentValidation: Enabled validators:
+[2025.09.21-12.40.05:695][ 95]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-12.40.05:695][ 95]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-12.40.05:695][ 95]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-12.40.05:696][ 95]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-12.40.05:696][ 95]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-12.40.05:696][ 95]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-12.40.05:696][ 95]AssetCheck: /Game/Dank/AI/ST/tasks/ST_task_FollowPlayer Validating asset
+[2025.09.21-12.40.07:348][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.09.21-12.40.25:691][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.09.21-12.40.25:897][996]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-12.40.26:001][996]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/ST/tasks/ST_task_FollowPlayer] ([2] browsable assets)...
+[2025.09.21-12.40.26:001][996]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/ST/tasks/ST_task_FollowPlayer]
+[2025.09.21-12.40.26:001][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/ST/tasks/ST_task_FollowPlayer" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/ST/tasks/ST_task_FollowPlayer.uasset" SILENT=true
+[2025.09.21-12.40.26:008][996]LogSavePackage: Moving output files for package: /Game/Dank/AI/ST/tasks/ST_task_FollowPlayer
+[2025.09.21-12.40.26:009][996]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/ST_task_FollowPlayerC78E67FC4A265C404D3EC1A925301408.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/ST/tasks/ST_task_FollowPlayer.uasset'
+[2025.09.21-12.40.26:033][996]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.697 ms (total: 1.34 sec)
+[2025.09.21-12.40.26:129][996]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-12.40.26:129][996]LogContentValidation: Enabled validators:
+[2025.09.21-12.40.26:129][996]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-12.40.26:129][996]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-12.40.26:129][996]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-12.40.26:129][996]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-12.40.26:129][996]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-12.40.26:129][996]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-12.40.26:129][996]AssetCheck: /Game/Dank/AI/ST/tasks/ST_task_FollowPlayer Validating asset
+[2025.09.21-12.40.26:490][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.09.21-12.40.38:290][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.09.21-12.40.39:329][207]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-12.40.39:329][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-12.40.39:399][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.09.21-12.40.51:176][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.09.21-12.40.51:377][564]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-12.40.51:466][564]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/ST/ST_enemyAI] ([1] browsable assets)...
+[2025.09.21-12.40.51:466][564]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/ST/ST_enemyAI]
+[2025.09.21-12.40.51:466][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/ST/ST_enemyAI" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/ST/ST_enemyAI.uasset" SILENT=true
+[2025.09.21-12.40.51:482][564]LogSavePackage: Moving output files for package: /Game/Dank/AI/ST/ST_enemyAI
+[2025.09.21-12.40.51:483][564]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/ST_enemyAIA028ACC543CE6016D9B314AE80CB3890.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/ST/ST_enemyAI.uasset'
+[2025.09.21-12.40.51:505][564]LogFileHelpers: InternalPromptForCheckoutAndSave took 127.546 ms (total: 1.46 sec)
+[2025.09.21-12.40.51:616][564]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-12.40.51:616][564]LogContentValidation: Enabled validators:
+[2025.09.21-12.40.51:616][564]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-12.40.51:616][564]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-12.40.51:616][564]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-12.40.51:616][564]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-12.40.51:616][564]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-12.40.51:616][564]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-12.40.51:616][564]AssetCheck: /Game/Dank/AI/ST/ST_enemyAI Validating asset
+[2025.09.21-12.41.37:115][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.09.21-12.41.40:528][745]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.09.21-12.41.40:549][745]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.09.21-12.41.40:559][745]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.09.21-12.41.40:592][746]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.09.21-12.41.44:270][173]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 712.936096
+[2025.09.21-12.41.44:619][212]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.21-12.41.44:619][213]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 713.271729, Update Interval: 337.887512
+[2025.09.21-12.41.46:988][489]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_ST_Enemy
+[2025.09.21-12.41.47:201][489]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.09.21-12.41.48:211][591]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dank/AI/ST/BP_ST_Enemy.BP_ST_Enemy
+[2025.09.21-12.41.48:212][591]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.09.21-12.41.48:321][591]LogStreaming: Display: FlushAsyncLoading(583): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.21-12.41.49:330][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.09.21-12.41.49:552][592]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-12.41.49:644][592]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/ST/BP_ST_Enemy] ([2] browsable assets)...
+[2025.09.21-12.41.49:644][592]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/ST/BP_ST_Enemy]
+[2025.09.21-12.41.49:644][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/ST/BP_ST_Enemy" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/ST/BP_ST_Enemy.uasset" SILENT=true
+[2025.09.21-12.41.49:650][592]LogSavePackage: Moving output files for package: /Game/Dank/AI/ST/BP_ST_Enemy
+[2025.09.21-12.41.49:650][592]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BP_ST_Enemy0712AB714B6884C09C631384D4AE6086.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/ST/BP_ST_Enemy.uasset'
+[2025.09.21-12.41.49:986][592]LogFileHelpers: InternalPromptForCheckoutAndSave took 434.071 ms (total: 1.90 sec)
+[2025.09.21-12.41.50:111][592]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-12.41.50:111][592]LogContentValidation: Enabled validators:
+[2025.09.21-12.41.50:111][592]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-12.41.50:111][592]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-12.41.50:111][592]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-12.41.50:111][592]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-12.41.50:111][592]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-12.41.50:111][592]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-12.41.50:112][592]AssetCheck: /Game/Dank/AI/ST/BP_ST_Enemy Validating asset
+[2025.09.21-12.41.53:143][883]LogSlate: Took 0.000340 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.09.21-12.41.53:207][883]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.09.21-12.41.53:216][884]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.09.21-12.41.53:296][887]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.09.21-12.41.54:482][998]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.09.21-12.42.03:013][718]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2025.09.21-12.42.03:389][719]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.09.21-12.42.06:652][844]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2025.09.21-12.42.12:379][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.09.21-12.42.27:439][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.09.21-12.42.27:655][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-12.42.27:741][ 14]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dank/AI/ST/BP_ST_Enemy] ([2] browsable assets)...
+[2025.09.21-12.42.27:752][ 14]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dank/AI/ST/BP_ST_Enemy.BP_ST_Enemy]
+[2025.09.21-12.42.27:752][ 14]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.09.21-12.42.27:779][ 14]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Dank/AI/ST/BP_ST_Enemy.BP_ST_Enemy_C]
+[2025.09.21-12.42.27:779][ 14]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/ST/BP_ST_Enemy]
+[2025.09.21-12.42.27:779][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/ST/BP_ST_Enemy" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/ST/BP_ST_Enemy.uasset" SILENT=true
+[2025.09.21-12.42.27:787][ 14]LogSavePackage: Moving output files for package: /Game/Dank/AI/ST/BP_ST_Enemy
+[2025.09.21-12.42.27:787][ 14]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BP_ST_Enemy651005D64974194497C99485CAD2F5CA.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/ST/BP_ST_Enemy.uasset'
+[2025.09.21-12.42.27:818][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave took 162.674 ms (total: 2.06 sec)
+[2025.09.21-12.42.27:929][ 14]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-12.42.27:929][ 14]LogContentValidation: Enabled validators:
+[2025.09.21-12.42.27:929][ 14]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-12.42.27:929][ 14]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-12.42.27:929][ 14]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-12.42.27:930][ 14]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-12.42.27:930][ 14]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-12.42.27:930][ 14]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-12.42.27:930][ 14]AssetCheck: /Game/Dank/AI/ST/BP_ST_Enemy Validating asset
+[2025.09.21-12.42.28:464][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.09.21-12.42.47:556][669]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2025.09.21-12.42.47:750][669]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-12.42.47:837][669]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/ST/ST_enemyAI] ([1] browsable assets)...
+[2025.09.21-12.42.47:838][669]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/ST/ST_enemyAI]
+[2025.09.21-12.42.47:838][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/ST/ST_enemyAI" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/ST/ST_enemyAI.uasset" SILENT=true
+[2025.09.21-12.42.47:845][669]LogSavePackage: Moving output files for package: /Game/Dank/AI/ST/ST_enemyAI
+[2025.09.21-12.42.47:846][669]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/ST_enemyAI8FCF22AF4F447A34D09B21932B8D41D5.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/ST/ST_enemyAI.uasset'
+[2025.09.21-12.42.47:867][669]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.749 ms (total: 2.18 sec)
+[2025.09.21-12.42.47:951][669]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-12.42.47:951][669]LogContentValidation: Enabled validators:
+[2025.09.21-12.42.47:951][669]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-12.42.47:951][669]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-12.42.47:951][669]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-12.42.47:951][669]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-12.42.47:951][669]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-12.42.47:951][669]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-12.42.47:952][669]AssetCheck: /Game/Dank/AI/ST/ST_enemyAI Validating asset
+[2025.09.21-12.42.56:213][ 90]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.09.21-12.42.56:213][ 90]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.09.21-12.42.57:934][283]LogProperty: Warning: Illegal TEXT reference to a private object in external package (BP_enemy_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_enemy_C_UAID_989096BF572AD49002_1763095873) from referencer (ST_task_FollowPlayer_C /Game/Dank/AI/ST/ST_enemyAI.ST_enemyAI:StateTreeEditorData_0.StateTreeState_0.StateTreeState_1.ST_task_FollowPlayer_C_0).  Import failed...
+[2025.09.21-12.43.10:539][651]LogStateTreeEditor: Compile StateTree 'StateTree /Game/Dank/AI/ST/ST_enemyAI.ST_enemyAI' succeeded.
+[2025.09.21-12.43.31:878][320]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Dank/AI/ST/BP_ST_Enemy.BP_ST_Enemy_C
+[2025.09.21-12.43.31:878][320]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Dank/AI/ST/BP_ST_Enemy.BP_ST_Enemy_C
+[2025.09.21-12.43.31:881][320]LogActorFactory: Actor Factory spawned Blueprint /Game/Dank/AI/ST/BP_ST_Enemy.BP_ST_Enemy as actor: BP_ST_Enemy_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_0
+[2025.09.21-12.43.31:883][320]LogActorFactory: Actor Factory spawned Blueprint /Game/Dank/AI/ST/BP_ST_Enemy.BP_ST_Enemy as actor: BP_ST_Enemy_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_0
+[2025.09.21-12.43.32:741][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.09.21-12.43.32:744][368]LogEditorActor: Deleted 0 Actors (0.039 secs)
+[2025.09.21-12.43.32:754][368]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Dank/AI/ST/BP_ST_Enemy.BP_ST_Enemy_C
+[2025.09.21-12.43.32:754][368]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Dank/AI/ST/BP_ST_Enemy.BP_ST_Enemy_C
+[2025.09.21-12.43.32:763][368]LogActorFactory: Actor Factory spawned Blueprint /Game/Dank/AI/ST/BP_ST_Enemy.BP_ST_Enemy as actor: BP_ST_Enemy_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183
+[2025.09.21-12.43.32:765][368]LogActorFactory: Actor Factory spawned Blueprint /Game/Dank/AI/ST/BP_ST_Enemy.BP_ST_Enemy as actor: BP_ST_Enemy_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183
+[2025.09.21-12.43.33:816][427]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.21-12.43.33:825][427]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.09.21-12.43.33:825][427]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.09.21-12.43.33:829][427]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4.015 ms
+[2025.09.21-12.43.33:835][427]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.21-12.43.33:842][427]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.09.21-12.43.33:842][427]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.09.21-12.43.33:842][427]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.09.21-12.43.33:853][427]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010677s)
+[2025.09.21-12.43.33:853][427]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.010732s)
+[2025.09.21-12.43.33:879][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.09.21-12.43.33:881][427]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.09.21-12.43.33:884][427]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.21-12.43.33:884][427]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.21-12.43.33:884][427]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.21-12.43.33:884][427]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.21-12.43.33:886][427]LogWorldPartition: Display: WorldPartition initialize took 2.631 ms (total: 1.08 sec)
+[2025.09.21-12.43.33:887][427]LogPlayLevel: PIE: World Init took: (0.005124s)
+[2025.09.21-12.43.33:887][427]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.09.21-12.43.33:887][427]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.21-12.43.33:887][427]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.21-12.43.33:887][427]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.21-12.43.33:887][427]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.21-12.43.33:888][427]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.21-12.43.33:888][427]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.21-12.43.33:888][427]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.21-12.43.33:888][427]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.21-12.43.33:888][427]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.21-12.43.33:888][427]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.21-12.43.33:888][427]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.21-12.43.33:892][427]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.21-12.43.34:020][427]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2025.09.21-12.43.34:021][427]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.21-12.43.34:021][427]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.21-12.43.34:021][427]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.21-12.43.34:023][427]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.09.21-12.43.34:023][427]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.09.21-12.43.34:028][427]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.09.21-12.43.34:029][427]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.09.21-12.43.34:029][427]LogInit: FAudioDevice initialized with ID 2.
+[2025.09.21-12.43.34:029][427]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2025.09.21-12.43.34:029][427]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.09.21-12.43.34:034][427]LogLoad: Game class is 'Dank_SolesGameMode'
+[2025.09.21-12.43.34:038][427]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.09.21-18.13.34
+[2025.09.21-12.43.34:040][427]LogWorld: Bringing up level for play took: 0.006469
+[2025.09.21-12.43.34:048][427]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.09.21-12.43.34:069][427]PIE: Server logged in
+[2025.09.21-12.43.34:071][427]PIE: Play in editor total start time 0.246 seconds.
+[2025.09.21-12.43.34:280][431]LogTraceServices: Warning: [Regions] A region end event (EndTime=861.365411, Name="Editor") was encountered without having seen a matching region begin event first.
+[2025.09.21-12.43.34:281][431]LogTraceServices: Warning: [Regions] A region end event (EndTime=861.365423, Name="Editor.Interact") was encountered without having seen a matching region begin event first.
+[2025.09.21-12.43.43:350][336]LogTraceServices: Warning: [Regions] A region (BeginTime=861.365438, Name="PIE", Id=0) was never closed.
+[2025.09.21-12.43.43:350][336]LogTraceServices: Warning: [Regions] A region (BeginTime=861.365441, Name="PIE.Startup", Id=0) was never closed.
+[2025.09.21-12.43.43:350][336]LogTraceServices: Warning: [Regions] A region (BeginTime=861.369912, Name="PIE.PreBegin", Id=0) was never closed.
+[2025.09.21-12.43.43:350][336]LogTraceServices: Warning: [Regions] 5 warnings
+[2025.09.21-12.43.43:350][336]LogTraceServices: [Regions] Analysis completed (5 regions, 3 lanes).
+[2025.09.21-12.43.43:350][336]LogChaosVDEditor: Trace Analysis complete for session [C:/Users/user/AppData/Local/UnrealEngine/Common/UnrealTrace/Store/001/20250921_181333.utrace] | Calculating data loaded stats...
+[2025.09.21-12.43.43:351][336]LogChaosVDEditor:  [0] Game frames Processed at [inf] ms per frame on average
+[2025.09.21-12.43.43:351][336]LogChaosVDEditor: Total size of loaded data => [0.00 B]
+[2025.09.21-12.43.43:362][336]LogTraceServices: [CpuProfiler] Analysis completed (31447 timers, 32846 spec ids, 692 scopes, 3495 bytes, 5.1 bytes/scope).
+[2025.09.21-12.43.43:362][336]LogTraceServices: [GpuProfiler] Analysis completed (0 frames, 4850 timers).
+[2025.09.21-12.43.43:369][336]LogAnalysisCache: Display: Closing analysis cache, 0.00 MiB read, 0.00 MiB written.
+[2025.09.21-12.43.43:373][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.21-12.43.43:373][336]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.09.21-12.43.43:373][336]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-12.43.43:375][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-12.43.43:375][336]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.09.21-12.43.43:386][336]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.21-12.43.43:396][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-12.43.43:433][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.21-12.43.43:434][336]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.09.21-12.43.43:434][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.09.21-12.43.43:438][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.09.21-12.43.43:451][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.09.21-12.43.43:691][337]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.09.21-12.44.04:501][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2025.09.21-12.44.04:921][968]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-12.44.05:014][968]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/9O/UHIY5DPI3PZWAC1M00LSFH
+[2025.09.21-12.44.05:015][968]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/UHIY5DPI3PZWAC1M00LSFH9745DAF446C8385FAD081087FA3C181A.tmp' to 'D:/unreal/Dank_Soles/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/9O/UHIY5DPI3PZWAC1M00LSFH.uasset'
+[2025.09.21-12.44.05:020][968]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/ZI/IDIKLB5WC1Q2E0AWO0YYR5
+[2025.09.21-12.44.05:020][968]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/IDIKLB5WC1Q2E0AWO0YYR5F8F035AB48E4EB83A65A8E9BC5DBF88B.tmp' to 'D:/unreal/Dank_Soles/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/ZI/IDIKLB5WC1Q2E0AWO0YYR5.uasset'
+[2025.09.21-12.44.05:022][968]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/ST/ST_enemyAI] ([1] browsable assets)...
+[2025.09.21-12.44.05:022][968]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/ST/ST_enemyAI]
+[2025.09.21-12.44.05:023][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/ST/ST_enemyAI" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/ST/ST_enemyAI.uasset" SILENT=true
+[2025.09.21-12.44.05:035][968]LogSavePackage: Moving output files for package: /Game/Dank/AI/ST/ST_enemyAI
+[2025.09.21-12.44.05:036][968]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/ST_enemyAI5B36EA4A4FB8C4E4CF3764AFA924383A.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/ST/ST_enemyAI.uasset'
+[2025.09.21-12.44.05:374][968]LogFileHelpers: InternalPromptForCheckoutAndSave took 452.708 ms (total: 2.63 sec)
+[2025.09.21-12.44.05:481][968]LogContentValidation: Display: Starting to validate 3 assets
+[2025.09.21-12.44.05:481][968]LogContentValidation: Enabled validators:
+[2025.09.21-12.44.05:481][968]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-12.44.05:481][968]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-12.44.05:481][968]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-12.44.05:481][968]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-12.44.05:481][968]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-12.44.05:481][968]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-12.44.05:482][968]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.09.21-12.44.05:482][968]AssetCheck: /Game/Dank/AI/ST/ST_enemyAI Validating asset
+[2025.09.21-12.44.33:812][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.09.21-12.44.42:636][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.09.21-12.44.43:858][924]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.21-12.44.43:865][924]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.09.21-12.44.43:865][924]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.09.21-12.44.43:869][924]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3.214 ms (total: 7.230 ms)
+[2025.09.21-12.44.43:871][924]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.21-12.44.43:919][924]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.09.21-12.44.43:926][924]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007045s)
+[2025.09.21-12.44.43:926][924]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.007116s)
+[2025.09.21-12.44.43:960][924]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2025.09.21-12.44.43:962][924]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.09.21-12.44.43:964][924]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.21-12.44.43:964][924]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.21-12.44.43:964][924]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.21-12.44.43:965][924]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.21-12.44.43:967][924]LogWorldPartition: Display: WorldPartition initialize took 2.277 ms (total: 1.08 sec)
+[2025.09.21-12.44.43:967][924]LogPlayLevel: PIE: World Init took: (0.004585s)
+[2025.09.21-12.44.43:968][924]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.09.21-12.44.43:968][924]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.21-12.44.43:968][924]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.21-12.44.43:968][924]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.21-12.44.43:968][924]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.21-12.44.43:968][924]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.21-12.44.43:968][924]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.21-12.44.43:968][924]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.21-12.44.43:968][924]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.21-12.44.43:968][924]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.21-12.44.43:968][924]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.21-12.44.43:968][924]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.21-12.44.43:971][924]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.21-12.44.44:088][924]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2025.09.21-12.44.44:089][924]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.21-12.44.44:089][924]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.21-12.44.44:089][924]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.21-12.44.44:091][924]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.09.21-12.44.44:091][924]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.09.21-12.44.44:098][924]LogInit: FAudioDevice initialized with ID 3.
+[2025.09.21-12.44.44:098][924]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2025.09.21-12.44.44:098][924]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.09.21-12.44.44:098][924]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.09.21-12.44.44:098][924]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.09.21-12.44.44:105][924]LogLoad: Game class is 'Dank_SolesGameMode'
+[2025.09.21-12.44.44:111][924]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.09.21-18.14.44
+[2025.09.21-12.44.44:113][924]LogWorld: Bringing up level for play took: 0.007867
+[2025.09.21-12.44.44:119][924]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.09.21-12.44.44:130][924]PIE: Server logged in
+[2025.09.21-12.44.44:131][924]PIE: Play in editor total start time 0.266 seconds.
+[2025.09.21-12.44.53:890][896]LogTraceServices: [Regions] Analysis completed (0 regions, 0 lanes).
+[2025.09.21-12.44.53:890][896]LogChaosVDEditor: Trace Analysis complete for session [C:/Users/user/AppData/Local/UnrealEngine/Common/UnrealTrace/Store/001/20250921_181443.utrace] | Calculating data loaded stats...
+[2025.09.21-12.44.53:890][896]LogChaosVDEditor:  [0] Game frames Processed at [inf] ms per frame on average
+[2025.09.21-12.44.53:890][896]LogChaosVDEditor: Total size of loaded data => [0.00 B]
+[2025.09.21-12.44.53:903][896]LogTraceServices: [CpuProfiler] Analysis completed (31447 timers, 32846 spec ids, 0 scopes, 0 bytes, -nan(ind) bytes/scope).
+[2025.09.21-12.44.53:903][896]LogTraceServices: [GpuProfiler] Analysis completed (0 frames, 4850 timers).
+[2025.09.21-12.44.53:907][896]LogAnalysisCache: Display: Closing analysis cache, 0.00 MiB read, 0.00 MiB written.
+[2025.09.21-12.44.53:908][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.21-12.44.53:909][896]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.09.21-12.44.53:909][896]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-12.44.53:911][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-12.44.53:911][896]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.09.21-12.44.53:921][896]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.21-12.44.53:931][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-12.44.53:968][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.21-12.44.53:968][896]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.09.21-12.44.53:968][896]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.09.21-12.44.53:974][896]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.09.21-12.44.53:998][896]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2025.09.21-12.44.54:081][897]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.09.21-12.44.57:253][943]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2025.09.21-12.44.57:470][943]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-12.44.57:560][943]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dank/AI/ST/BP_ST_Enemy] ([2] browsable assets)...
+[2025.09.21-12.44.57:586][943]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dank/AI/ST/BP_ST_Enemy.BP_ST_Enemy]
+[2025.09.21-12.44.57:586][943]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/ST/BP_ST_Enemy]
+[2025.09.21-12.44.57:586][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/ST/BP_ST_Enemy" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/ST/BP_ST_Enemy.uasset" SILENT=true
+[2025.09.21-12.44.57:595][943]LogSavePackage: Moving output files for package: /Game/Dank/AI/ST/BP_ST_Enemy
+[2025.09.21-12.44.57:595][943]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BP_ST_EnemyB0E6D9664DC871026A544BB1831316C3.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/ST/BP_ST_Enemy.uasset'
+[2025.09.21-12.44.57:622][943]LogFileHelpers: InternalPromptForCheckoutAndSave took 152.031 ms (total: 2.78 sec)
+[2025.09.21-12.44.57:716][943]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-12.44.57:717][943]LogContentValidation: Enabled validators:
+[2025.09.21-12.44.57:717][943]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-12.44.57:717][943]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-12.44.57:717][943]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-12.44.57:717][943]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-12.44.57:717][943]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-12.44.57:718][943]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-12.44.57:718][943]AssetCheck: /Game/Dank/AI/ST/BP_ST_Enemy Validating asset
+[2025.09.21-12.44.59:183][ 57]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dank/AI/ST/tasks/ST_task_FollowPlayer.ST_task_FollowPlayer
+[2025.09.21-12.44.59:183][ 57]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.09.21-12.45.03:746][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.09.21-12.45.03:955][502]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-12.45.04:032][502]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/ST/tasks/ST_task_FollowPlayer] ([2] browsable assets)...
+[2025.09.21-12.45.04:032][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/ST/tasks/ST_task_FollowPlayer]
+[2025.09.21-12.45.04:032][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/ST/tasks/ST_task_FollowPlayer" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/ST/tasks/ST_task_FollowPlayer.uasset" SILENT=true
+[2025.09.21-12.45.04:038][502]LogSavePackage: Moving output files for package: /Game/Dank/AI/ST/tasks/ST_task_FollowPlayer
+[2025.09.21-12.45.04:039][502]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/ST_task_FollowPlayerBC5A3FF6451A8DEAD50DB1A21EE21BC1.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/ST/tasks/ST_task_FollowPlayer.uasset'
+[2025.09.21-12.45.04:068][502]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.802 ms (total: 2.89 sec)
+[2025.09.21-12.45.04:150][502]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-12.45.04:150][502]LogContentValidation: Enabled validators:
+[2025.09.21-12.45.04:150][502]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-12.45.04:150][502]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-12.45.04:150][502]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-12.45.04:150][502]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-12.45.04:150][502]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-12.45.04:150][502]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-12.45.04:151][502]AssetCheck: /Game/Dank/AI/ST/tasks/ST_task_FollowPlayer Validating asset
+[2025.09.21-12.45.04:324][514]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-12.45.04:324][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-12.45.04:388][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.09.21-12.45.21:689][878]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-12.45.21:777][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dank/AI/ST/BP_ST_Enemy] ([2] browsable assets)...
+[2025.09.21-12.45.21:804][878]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dank/AI/ST/BP_ST_Enemy.BP_ST_Enemy]
+[2025.09.21-12.45.21:804][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/ST/BP_ST_Enemy]
+[2025.09.21-12.45.21:804][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/ST/BP_ST_Enemy" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/ST/BP_ST_Enemy.uasset" SILENT=true
+[2025.09.21-12.45.21:813][878]LogSavePackage: Moving output files for package: /Game/Dank/AI/ST/BP_ST_Enemy
+[2025.09.21-12.45.21:813][878]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BP_ST_Enemy79BAC924498DCBEAEF3DAE98A93BC4F5.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/ST/BP_ST_Enemy.uasset'
+[2025.09.21-12.45.21:836][878]LogFileHelpers: InternalPromptForCheckoutAndSave took 147.209 ms (total: 3.04 sec)
+[2025.09.21-12.45.21:970][878]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-12.45.21:970][878]LogContentValidation: Enabled validators:
+[2025.09.21-12.45.21:970][878]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-12.45.21:970][878]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-12.45.21:970][878]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-12.45.21:970][878]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-12.45.21:970][878]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-12.45.21:970][878]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-12.45.21:971][878]AssetCheck: /Game/Dank/AI/ST/BP_ST_Enemy Validating asset
+[2025.09.21-12.45.59:403][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.09.21-12.45.59:600][827]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-12.45.59:697][827]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dank/AI/ST/BP_ST_Enemy] ([2] browsable assets)...
+[2025.09.21-12.45.59:712][827]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dank/AI/ST/BP_ST_Enemy.BP_ST_Enemy]
+[2025.09.21-12.45.59:712][827]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/ST/BP_ST_Enemy]
+[2025.09.21-12.45.59:712][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/ST/BP_ST_Enemy" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/ST/BP_ST_Enemy.uasset" SILENT=true
+[2025.09.21-12.45.59:721][827]LogSavePackage: Moving output files for package: /Game/Dank/AI/ST/BP_ST_Enemy
+[2025.09.21-12.45.59:721][827]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BP_ST_Enemy4DD5B2714819680A57F177AF0DD3D7F3.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/ST/BP_ST_Enemy.uasset'
+[2025.09.21-12.45.59:745][827]LogFileHelpers: InternalPromptForCheckoutAndSave took 145.246 ms (total: 3.19 sec)
+[2025.09.21-12.45.59:864][827]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-12.45.59:864][827]LogContentValidation: Enabled validators:
+[2025.09.21-12.45.59:864][827]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-12.45.59:864][827]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-12.45.59:864][827]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-12.45.59:864][827]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-12.45.59:864][827]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-12.45.59:864][827]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-12.45.59:865][827]AssetCheck: /Game/Dank/AI/ST/BP_ST_Enemy Validating asset
+[2025.09.21-12.46.00:492][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.09.21-12.46.06:462][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2025.09.21-12.46.14:953][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.09.21-12.46.15:128][577]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-12.46.15:226][577]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dank/AI/ST/BP_ST_Enemy] ([2] browsable assets)...
+[2025.09.21-12.46.15:243][577]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dank/AI/ST/BP_ST_Enemy.BP_ST_Enemy]
+[2025.09.21-12.46.15:243][577]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/ST/BP_ST_Enemy]
+[2025.09.21-12.46.15:243][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/ST/BP_ST_Enemy" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/ST/BP_ST_Enemy.uasset" SILENT=true
+[2025.09.21-12.46.15:252][577]LogSavePackage: Moving output files for package: /Game/Dank/AI/ST/BP_ST_Enemy
+[2025.09.21-12.46.15:253][577]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BP_ST_EnemyCD5C94D646898EA75165039078B1561B.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/ST/BP_ST_Enemy.uasset'
+[2025.09.21-12.46.15:276][577]LogFileHelpers: InternalPromptForCheckoutAndSave took 147.650 ms (total: 3.33 sec)
+[2025.09.21-12.46.15:387][577]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-12.46.15:387][577]LogContentValidation: Enabled validators:
+[2025.09.21-12.46.15:387][577]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-12.46.15:387][577]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-12.46.15:387][577]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-12.46.15:387][577]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-12.46.15:387][577]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-12.46.15:387][577]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-12.46.15:388][577]AssetCheck: /Game/Dank/AI/ST/BP_ST_Enemy Validating asset
+[2025.09.21-12.46.30:494][755]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2025.09.21-12.46.31:602][826]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.21-12.46.31:610][826]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.09.21-12.46.31:610][826]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.09.21-12.46.31:614][826]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4.026 ms (total: 11.256 ms)
+[2025.09.21-12.46.31:616][826]LogPlayLevel: [PlayLevel] Compiling ST_task_FollowPlayer before play...
+[2025.09.21-12.46.31:669][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.09.21-12.46.31:674][826]LogPlayLevel: PlayLevel: Blueprint regeneration took 56 ms (1 blueprints)
+[2025.09.21-12.46.31:674][826]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.09.21-12.46.31:680][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006497s)
+[2025.09.21-12.46.31:680][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006556s)
+[2025.09.21-12.46.31:704][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.09.21-12.46.31:705][826]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.09.21-12.46.31:707][826]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.21-12.46.31:707][826]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.21-12.46.31:707][826]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.21-12.46.31:708][826]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.21-12.46.31:709][826]LogWorldPartition: Display: WorldPartition initialize took 2.186 ms (total: 1.09 sec)
+[2025.09.21-12.46.31:709][826]LogPlayLevel: PIE: World Init took: (0.004414s)
+[2025.09.21-12.46.31:710][826]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.09.21-12.46.31:710][826]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.21-12.46.31:711][826]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.21-12.46.31:711][826]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.21-12.46.31:711][826]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.21-12.46.31:711][826]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.21-12.46.31:711][826]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.21-12.46.31:711][826]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.21-12.46.31:711][826]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.21-12.46.31:711][826]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.21-12.46.31:711][826]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.21-12.46.31:711][826]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.21-12.46.31:714][826]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.21-12.46.31:832][826]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2025.09.21-12.46.31:833][826]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.21-12.46.31:833][826]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.21-12.46.31:833][826]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.21-12.46.31:837][826]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.09.21-12.46.31:837][826]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.09.21-12.46.31:841][826]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.09.21-12.46.31:841][826]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.09.21-12.46.31:841][826]LogInit: FAudioDevice initialized with ID 4.
+[2025.09.21-12.46.31:841][826]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonMap'.
+[2025.09.21-12.46.31:841][826]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.09.21-12.46.31:847][826]LogLoad: Game class is 'Dank_SolesGameMode'
+[2025.09.21-12.46.31:851][826]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.09.21-18.16.31
+[2025.09.21-12.46.31:852][826]LogWorld: Bringing up level for play took: 0.005527
+[2025.09.21-12.46.31:859][826]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.09.21-12.46.31:869][826]PIE: Server logged in
+[2025.09.21-12.46.31:871][826]PIE: Play in editor total start time 0.261 seconds.
+[2025.09.21-12.46.55:550][178]LogTraceServices: [Regions] Analysis completed (0 regions, 0 lanes).
+[2025.09.21-12.46.55:550][178]LogChaosVDEditor: Trace Analysis complete for session [C:/Users/user/AppData/Local/UnrealEngine/Common/UnrealTrace/Store/001/20250921_181631.utrace] | Calculating data loaded stats...
+[2025.09.21-12.46.55:550][178]LogChaosVDEditor:  [0] Game frames Processed at [inf] ms per frame on average
+[2025.09.21-12.46.55:550][178]LogChaosVDEditor: Total size of loaded data => [0.00 B]
+[2025.09.21-12.46.55:589][178]LogTraceServices: [CpuProfiler] Analysis completed (31447 timers, 32846 spec ids, 0 scopes, 0 bytes, -nan(ind) bytes/scope).
+[2025.09.21-12.46.55:589][178]LogTraceServices: [GpuProfiler] Analysis completed (0 frames, 4850 timers).
+[2025.09.21-12.46.55:593][178]LogAnalysisCache: Display: Closing analysis cache, 0.00 MiB read, 0.00 MiB written.
+[2025.09.21-12.46.55:600][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.21-12.46.55:600][178]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.09.21-12.46.55:600][178]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-12.46.55:601][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-12.46.55:602][178]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.09.21-12.46.55:612][178]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.21-12.46.55:621][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-12.46.55:666][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.21-12.46.55:666][178]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.09.21-12.46.55:666][178]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.09.21-12.46.55:670][178]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.09.21-12.46.55:685][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.09.21-12.46.55:750][179]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.09.21-12.47.20:835][278]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2025.09.21-12.47.20:840][278]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/ZI/IDIKLB5WC1Q2E0AWO0YYR5_Auto1
+[2025.09.21-12.47.20:840][278]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/IDIKLB5WC1Q2E0AWO0YYR5_Auto127E82FFA44E650DA6F05B78AABDBBD3B.tmp' to 'D:/unreal/Dank_Soles/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/ZI/IDIKLB5WC1Q2E0AWO0YYR5_Auto1.uasset'
+[2025.09.21-12.47.20:841][278]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.038
+[2025.09.21-12.47.20:841][278]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.038
+[2025.09.21-12.47.20:842][278]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dank/AI/ST/BP_ST_Enemy] ([2] browsable assets)...
+[2025.09.21-12.47.20:875][278]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dank/AI/ST/BP_ST_Enemy.BP_ST_Enemy]
+[2025.09.21-12.47.20:875][278]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/ST/BP_ST_Enemy]
+[2025.09.21-12.47.20:875][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/ST/BP_ST_Enemy" FILE="D:/unreal/Dank_Soles/Saved/Autosaves/Game/Dank/AI/ST/BP_ST_Enemy_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.09.21-12.47.20:884][278]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dank/AI/ST/BP_ST_Enemy_Auto1
+[2025.09.21-12.47.20:884][278]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BP_ST_Enemy_Auto1C266517E4B931179C97436912CC71277.tmp' to 'D:/unreal/Dank_Soles/Saved/Autosaves/Game/Dank/AI/ST/BP_ST_Enemy_Auto1.uasset'
+[2025.09.21-12.47.20:885][278]LogFileHelpers: Auto-saving content packages took 0.044
+[2025.09.21-12.47.29:056][303]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1057.722778
+[2025.09.21-12.47.30:391][307]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.21-12.47.30:391][308]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1058.723511, Update Interval: 350.987274
+[2025.09.21-12.47.33:123][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.09.21-12.47.33:407][340]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-12.47.33:506][340]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/ZI/IDIKLB5WC1Q2E0AWO0YYR5
+[2025.09.21-12.47.33:506][340]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/IDIKLB5WC1Q2E0AWO0YYR5155C07FB48C761CA37DDD5BD9E858816.tmp' to 'D:/unreal/Dank_Soles/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/ZI/IDIKLB5WC1Q2E0AWO0YYR5.uasset'
+[2025.09.21-12.47.33:507][340]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/ST/BP_ST_Enemy] ([2] browsable assets)...
+[2025.09.21-12.47.33:508][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/ST/BP_ST_Enemy]
+[2025.09.21-12.47.33:508][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/ST/BP_ST_Enemy" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/ST/BP_ST_Enemy.uasset" SILENT=true
+[2025.09.21-12.47.33:514][340]LogSavePackage: Moving output files for package: /Game/Dank/AI/ST/BP_ST_Enemy
+[2025.09.21-12.47.33:515][340]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BP_ST_EnemyF187F23B4FF2E546E0FB7695708670A7.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/ST/BP_ST_Enemy.uasset'
+[2025.09.21-12.47.33:536][340]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.934 ms (total: 3.46 sec)
+[2025.09.21-12.47.33:627][340]LogContentValidation: Display: Starting to validate 2 assets
+[2025.09.21-12.47.33:627][340]LogContentValidation: Enabled validators:
+[2025.09.21-12.47.33:627][340]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-12.47.33:628][340]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-12.47.33:628][340]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-12.47.33:628][340]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-12.47.33:628][340]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-12.47.33:628][340]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-12.47.33:628][340]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.09.21-12.47.33:628][340]AssetCheck: /Game/Dank/AI/ST/BP_ST_Enemy Validating asset
+[2025.09.21-12.47.35:186][500]LogStateTreeEditor: StateTreeEditorData /Game/Dank/AI/ST/ST_enemyAI.ST_enemyAI:StateTreeEditorData_0: Fixing outer on state StateTreeState_2.
+[2025.09.21-12.47.37:613][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.09.21-12.47.37:816][779]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-12.47.37:896][779]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/ST/ST_enemyAI] ([1] browsable assets)...
+[2025.09.21-12.47.37:896][779]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/ST/ST_enemyAI]
+[2025.09.21-12.47.37:896][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/ST/ST_enemyAI" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/ST/ST_enemyAI.uasset" SILENT=true
+[2025.09.21-12.47.37:906][779]LogSavePackage: Moving output files for package: /Game/Dank/AI/ST/ST_enemyAI
+[2025.09.21-12.47.37:907][779]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/ST_enemyAI3D19551647AADB1F69539F97938A2D5D.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/ST/ST_enemyAI.uasset'
+[2025.09.21-12.47.37:935][779]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.731 ms (total: 3.58 sec)
+[2025.09.21-12.47.38:067][779]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-12.47.38:067][779]LogContentValidation: Enabled validators:
+[2025.09.21-12.47.38:067][779]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-12.47.38:067][779]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-12.47.38:067][779]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-12.47.38:067][779]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-12.47.38:067][779]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-12.47.38:067][779]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-12.47.38:068][779]AssetCheck: /Game/Dank/AI/ST/ST_enemyAI Validating asset
+[2025.09.21-12.47.41:928][842]LogStateTreeEditor: Compile StateTree 'StateTree /Game/Dank/AI/ST/ST_enemyAI.ST_enemyAI' succeeded.
+[2025.09.21-12.47.51:219][656]LogStateTreeEditor: StateTreeEditorData /Game/Dank/AI/ST/ST_enemyAI.ST_enemyAI:StateTreeEditorData_0: Fixing outer on state StateTreeState_2.
+[2025.09.21-12.48.56:076][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.09.21-12.48.56:288][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-12.48.56:359][981]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/ST/ST_enemyAI] ([1] browsable assets)...
+[2025.09.21-12.48.56:359][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/ST/ST_enemyAI]
+[2025.09.21-12.48.56:359][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/ST/ST_enemyAI" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/ST/ST_enemyAI.uasset" SILENT=true
+[2025.09.21-12.48.56:374][981]LogSavePackage: Moving output files for package: /Game/Dank/AI/ST/ST_enemyAI
+[2025.09.21-12.48.56:375][981]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/ST_enemyAIC4DC9BCD4BD73DCB80E46988657FA6A6.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/ST/ST_enemyAI.uasset'
+[2025.09.21-12.48.56:393][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.998 ms (total: 3.69 sec)
+[2025.09.21-12.48.56:490][981]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-12.48.56:490][981]LogContentValidation: Enabled validators:
+[2025.09.21-12.48.56:490][981]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-12.48.56:490][981]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-12.48.56:490][981]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-12.48.56:490][981]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-12.48.56:490][981]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-12.48.56:491][981]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-12.48.56:491][981]AssetCheck: /Game/Dank/AI/ST/ST_enemyAI Validating asset
+[2025.09.21-12.48.58:814][241]LogStateTreeEditor: Compile StateTree 'StateTree /Game/Dank/AI/ST/ST_enemyAI.ST_enemyAI' succeeded.
+[2025.09.21-12.49.16:705][597]LogSlate: Window 'Save Asset As' being destroyed
+[2025.09.21-12.49.16:730][597]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack
+[2025.09.21-12.49.16:731][597]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.09.21-12.49.22:393][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.09.21-12.49.22:594][805]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-12.49.22:688][805]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/ST/tasks/ST_Task_attack] ([2] browsable assets)...
+[2025.09.21-12.49.22:688][805]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/ST/tasks/ST_Task_attack]
+[2025.09.21-12.49.22:688][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/ST/tasks/ST_Task_attack" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/ST/tasks/ST_Task_attack.uasset" SILENT=true
+[2025.09.21-12.49.22:690][805]LogSavePackage: Moving output files for package: /Game/Dank/AI/ST/tasks/ST_Task_attack
+[2025.09.21-12.49.22:690][805]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/ST_Task_attackA11905C144276989BE45F3B8A7C780EA.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/ST/tasks/ST_Task_attack.uasset'
+[2025.09.21-12.49.23:017][805]LogFileHelpers: InternalPromptForCheckoutAndSave took 422.028 ms (total: 4.11 sec)
+[2025.09.21-12.49.23:139][805]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-12.49.23:139][805]LogContentValidation: Enabled validators:
+[2025.09.21-12.49.23:139][805]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-12.49.23:139][805]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-12.49.23:139][805]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-12.49.23:139][805]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-12.49.23:139][805]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-12.49.23:140][805]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-12.49.23:140][805]AssetCheck: /Game/Dank/AI/ST/tasks/ST_Task_attack Validating asset
+[2025.09.21-12.50.00:842][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.09.21-12.50.10:887][308]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.09.21-12.50.28:672][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.09.21-12.50.37:631][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.09.21-12.50.52:316][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.09.21-12.50.52:511][523]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-12.50.52:592][523]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/ST/tasks/ST_Task_attack] ([2] browsable assets)...
+[2025.09.21-12.50.52:592][523]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/ST/tasks/ST_Task_attack]
+[2025.09.21-12.50.52:592][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/ST/tasks/ST_Task_attack" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/ST/tasks/ST_Task_attack.uasset" SILENT=true
+[2025.09.21-12.50.52:598][523]LogSavePackage: Moving output files for package: /Game/Dank/AI/ST/tasks/ST_Task_attack
+[2025.09.21-12.50.52:599][523]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/ST_Task_attack4C12A6E14FAA5C8CE0E08A81442BA73B.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/ST/tasks/ST_Task_attack.uasset'
+[2025.09.21-12.50.52:624][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.485 ms (total: 4.22 sec)
+[2025.09.21-12.50.52:704][523]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-12.50.52:704][523]LogContentValidation: Enabled validators:
+[2025.09.21-12.50.52:704][523]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-12.50.52:704][523]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-12.50.52:704][523]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-12.50.52:704][523]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-12.50.52:704][523]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-12.50.52:704][523]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-12.50.52:705][523]AssetCheck: /Game/Dank/AI/ST/tasks/ST_Task_attack Validating asset
+[2025.09.21-12.50.59:067][214]LogStateTreeEditor: Compile StateTree 'StateTree /Game/Dank/AI/ST/ST_enemyAI.ST_enemyAI' succeeded.
+[2025.09.21-12.51.11:192][ 76]LogStateTreeEditor: Compile StateTree 'StateTree /Game/Dank/AI/ST/ST_enemyAI.ST_enemyAI' succeeded.
+[2025.09.21-12.51.15:997][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.09.21-12.51.16:287][443]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-12.51.16:378][443]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/ST/ST_enemyAI] ([1] browsable assets)...
+[2025.09.21-12.51.16:378][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/ST/ST_enemyAI]
+[2025.09.21-12.51.16:378][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/ST/ST_enemyAI" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/ST/ST_enemyAI.uasset" SILENT=true
+[2025.09.21-12.51.16:393][443]LogSavePackage: Moving output files for package: /Game/Dank/AI/ST/ST_enemyAI
+[2025.09.21-12.51.16:393][443]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/ST_enemyAIA12420694A9511D247179AA94E8AC710.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/ST/ST_enemyAI.uasset'
+[2025.09.21-12.51.16:395][443]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/ST/tasks/ST_Task_attack] ([2] browsable assets)...
+[2025.09.21-12.51.16:395][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/ST/tasks/ST_Task_attack]
+[2025.09.21-12.51.16:395][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/ST/tasks/ST_Task_attack" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/ST/tasks/ST_Task_attack.uasset" SILENT=true
+[2025.09.21-12.51.16:400][443]LogSavePackage: Moving output files for package: /Game/Dank/AI/ST/tasks/ST_Task_attack
+[2025.09.21-12.51.16:400][443]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/ST_Task_attackAD3C312B49993A08784628BD44ED2362.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/ST/tasks/ST_Task_attack.uasset'
+[2025.09.21-12.51.16:423][443]LogFileHelpers: InternalPromptForCheckoutAndSave took 136.352 ms (total: 4.36 sec)
+[2025.09.21-12.51.16:495][443]LogContentValidation: Display: Starting to validate 2 assets
+[2025.09.21-12.51.16:495][443]LogContentValidation: Enabled validators:
+[2025.09.21-12.51.16:495][443]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-12.51.16:495][443]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-12.51.16:495][443]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-12.51.16:495][443]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-12.51.16:495][443]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-12.51.16:495][443]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-12.51.16:496][443]AssetCheck: /Game/Dank/AI/ST/ST_enemyAI Validating asset
+[2025.09.21-12.51.16:496][443]AssetCheck: /Game/Dank/AI/ST/tasks/ST_Task_attack Validating asset
+[2025.09.21-12.52.35:203][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.09.21-12.52.35:417][838]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-12.52.35:503][838]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/ST/ST_enemyAI] ([1] browsable assets)...
+[2025.09.21-12.52.35:504][838]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/ST/ST_enemyAI]
+[2025.09.21-12.52.35:504][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/ST/ST_enemyAI" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/ST/ST_enemyAI.uasset" SILENT=true
+[2025.09.21-12.52.35:518][838]LogSavePackage: Moving output files for package: /Game/Dank/AI/ST/ST_enemyAI
+[2025.09.21-12.52.35:519][838]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/ST_enemyAIF8A69E164B73D8FADA04CAA57D8ED8B1.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/ST/ST_enemyAI.uasset'
+[2025.09.21-12.52.35:544][838]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.128 ms (total: 4.49 sec)
+[2025.09.21-12.52.35:654][838]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-12.52.35:654][838]LogContentValidation: Enabled validators:
+[2025.09.21-12.52.35:654][838]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-12.52.35:654][838]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-12.52.35:654][838]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-12.52.35:654][838]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-12.52.35:654][838]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-12.52.35:654][838]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-12.52.35:654][838]AssetCheck: /Game/Dank/AI/ST/ST_enemyAI Validating asset
+[2025.09.21-12.52.37:050][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2025.09.21-12.52.38:532][134]LogStateTreeEditor: Compile StateTree 'StateTree /Game/Dank/AI/ST/ST_enemyAI.ST_enemyAI' succeeded.
+[2025.09.21-12.53.02:685][993]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.21-12.53.02:694][993]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.09.21-12.53.02:694][993]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.09.21-12.53.02:697][993]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3.504 ms (total: 14.761 ms)
+[2025.09.21-12.53.02:758][993]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.21-12.53.02:759][993]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.09.21-12.53.02:766][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007178s)
+[2025.09.21-12.53.02:766][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.007246s)
+[2025.09.21-12.53.02:815][993]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2025.09.21-12.53.02:817][993]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.09.21-12.53.02:820][993]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.21-12.53.02:820][993]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.21-12.53.02:820][993]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.21-12.53.02:821][993]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.21-12.53.02:823][993]LogWorldPartition: Display: WorldPartition initialize took 2.475 ms (total: 1.09 sec)
+[2025.09.21-12.53.02:823][993]LogPlayLevel: PIE: World Init took: (0.005113s)
+[2025.09.21-12.53.02:824][993]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.09.21-12.53.02:824][993]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.21-12.53.02:824][993]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.21-12.53.02:824][993]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.21-12.53.02:824][993]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.21-12.53.02:824][993]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.21-12.53.02:824][993]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.21-12.53.02:825][993]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.21-12.53.02:825][993]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.21-12.53.02:825][993]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.21-12.53.02:825][993]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.21-12.53.02:825][993]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.21-12.53.02:827][993]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.21-12.53.02:960][993]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2025.09.21-12.53.02:961][993]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.21-12.53.02:961][993]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.21-12.53.02:961][993]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.21-12.53.02:965][993]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.09.21-12.53.02:965][993]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.09.21-12.53.02:970][993]LogInit: FAudioDevice initialized with ID 5.
+[2025.09.21-12.53.02:970][993]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.09.21-12.53.02:971][993]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonMap'.
+[2025.09.21-12.53.02:971][993]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.09.21-12.53.02:971][993]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.09.21-12.53.02:978][993]LogLoad: Game class is 'Dank_SolesGameMode'
+[2025.09.21-12.53.02:984][993]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.09.21-18.23.02
+[2025.09.21-12.53.02:985][993]LogWorld: Bringing up level for play took: 0.006668
+[2025.09.21-12.53.02:989][993]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2025.09.21-12.53.02:998][993]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_3
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.02:998][993]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.03:000][993]PIE: Server logged in
+[2025.09.21-12.53.03:001][993]PIE: Play in editor total start time 0.308 seconds.
+[2025.09.21-12.53.04:424][119]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_626
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.04:424][119]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:437][120]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_626
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.04:437][120]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:446][121]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_626
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.04:447][121]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:457][122]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_626
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.04:457][122]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:468][123]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_626
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.04:468][123]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:476][124]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_626
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.04:476][124]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:486][125]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_626
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.04:486][125]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:496][126]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_626
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.04:496][126]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:506][127]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_626
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.04:507][127]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:519][128]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_626
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.04:520][128]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:528][129]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_626
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.04:529][129]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:540][130]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_626
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.04:540][130]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:551][131]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_626
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.04:551][131]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:559][132]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_626
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.04:559][132]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:569][133]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_626
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.04:569][133]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:580][134]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_626
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.04:580][134]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:589][135]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:603][136]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:611][137]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:621][138]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:633][139]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:642][140]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:654][141]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:662][142]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:672][143]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:685][144]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:693][145]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:703][146]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:713][147]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:724][148]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:736][149]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:746][150]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:758][151]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:766][152]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:776][153]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:787][154]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:798][155]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:808][156]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:818][157]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:830][158]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:839][159]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:852][160]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:859][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:870][162]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:883][163]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:890][164]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:904][165]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:915][166]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:925][167]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:935][168]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:945][169]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:954][170]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:963][171]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:976][172]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:987][173]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.04:998][174]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:009][175]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:020][176]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:028][177]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:037][178]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:047][179]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:057][180]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:070][181]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:078][182]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:088][183]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:102][184]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:110][185]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:119][186]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:130][187]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:142][188]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:153][189]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:162][190]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:172][191]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:183][192]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:192][193]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:203][194]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:216][195]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:224][196]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:236][197]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:244][198]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:254][199]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:268][200]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:277][201]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:287][202]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:297][203]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:306][204]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:319][205]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:329][206]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:339][207]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:348][208]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:358][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:369][210]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:378][211]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:389][212]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:399][213]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:409][214]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:420][215]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:430][216]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:439][217]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:453][218]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:462][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:473][220]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:484][221]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:494][222]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:502][223]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:512][224]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:522][225]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:536][226]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:545][227]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:557][228]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:568][229]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:577][230]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:588][231]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:598][232]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:609][233]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:620][234]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:629][235]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:637][236]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:649][237]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:659][238]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:672][239]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:683][240]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:693][241]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:701][242]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:715][243]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:723][244]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:735][245]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:744][246]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:757][247]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:765][248]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:774][249]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:787][250]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:796][251]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:806][252]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:819][253]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:830][254]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:839][255]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:851][256]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.05:859][257]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.06:938][360]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_1137
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.06:938][360]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.06:946][361]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_1137
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.06:946][361]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.06:956][362]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_1137
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.06:956][362]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.06:970][363]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_1137
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.06:970][363]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.06:977][364]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_1137
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.06:977][364]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.06:987][365]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_1137
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.06:987][365]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.06:997][366]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_1137
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.06:997][366]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.07:011][367]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_1137
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.07:011][367]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.07:020][368]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_1137
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.07:021][368]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.07:031][369]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_1137
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.07:031][369]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.07:040][370]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_1137
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.07:040][370]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.07:050][371]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_1137
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.07:051][371]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.07:060][372]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_1137
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.07:061][372]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.07:071][373]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_1137
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.07:071][373]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.07:081][374]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_1137
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.07:081][374]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.07:092][375]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_1137
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.07:092][375]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.07:105][376]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.07:114][377]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.07:123][378]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.07:133][379]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.07:144][380]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.07:154][381]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.07:165][382]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.07:178][383]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.07:186][384]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.07:199][385]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.07:208][386]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.07:220][387]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.07:230][388]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.07:239][389]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.07:251][390]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.07:262][391]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.07:274][392]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.08:680][526]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_1803
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.08:680][526]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.08:694][527]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_1803
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.08:694][527]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.09:373][592]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_2124
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.09:373][592]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.09:383][593]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_2124
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.09:383][593]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.10:377][688]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_2595
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.10:378][688]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.10:388][689]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_2595
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.10:388][689]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.10:402][690]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_2595
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.10:402][690]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.10:588][706]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_2671
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.10:588][706]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.10:601][707]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_2671
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.10:601][707]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.10:808][727]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_2767
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.10:808][727]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.10:820][728]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_2767
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.10:820][728]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.11:796][821]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_3228
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.11:796][821]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.11:806][822]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_3228
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.11:806][822]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.11:816][823]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_3228
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.11:816][823]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.11:889][830]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_3259
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.11:889][830]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.11:897][831]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_3259
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.11:897][831]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.11:911][832]LogScript: Warning: Accessed None trying to read property EnemyAI
+	ST_Task_attack_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ST_Enemy_C_UAID_989096BF572A2B9102_1730738183.ST_Task_attack_C_3259
+	Function /Game/Dank/AI/ST/tasks/ST_Task_attack.ST_Task_attack_C:ExecuteUbergraph_ST_Task_attack:0043
+[2025.09.21-12.53.11:911][832]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property EnemyAI". Node:  Play Anim Montage Graph:  EventGraph Function:  Execute Ubergraph ST Task Attack Blueprint:  ST_Task_attack
+[2025.09.21-12.53.11:960][832]LogTraceServices: [Regions] Analysis completed (0 regions, 0 lanes).
+[2025.09.21-12.53.11:960][832]LogChaosVDEditor: Trace Analysis complete for session [C:/Users/user/AppData/Local/UnrealEngine/Common/UnrealTrace/Store/001/20250921_182302.utrace] | Calculating data loaded stats...
+[2025.09.21-12.53.11:960][832]LogChaosVDEditor:  [0] Game frames Processed at [inf] ms per frame on average
+[2025.09.21-12.53.11:960][832]LogChaosVDEditor: Total size of loaded data => [0.00 B]
+[2025.09.21-12.53.11:971][832]LogTraceServices: [CpuProfiler] Analysis completed (31447 timers, 32846 spec ids, 0 scopes, 0 bytes, -nan(ind) bytes/scope).
+[2025.09.21-12.53.11:971][832]LogTraceServices: [GpuProfiler] Analysis completed (0 frames, 4850 timers).
+[2025.09.21-12.53.11:978][832]LogAnalysisCache: Display: Closing analysis cache, 0.00 MiB read, 0.00 MiB written.
+[2025.09.21-12.53.11:981][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.21-12.53.11:982][832]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.09.21-12.53.11:982][832]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.21-12.53.11:983][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-12.53.11:984][832]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.09.21-12.53.11:996][832]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.21-12.53.12:008][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.21-12.53.12:053][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.21-12.53.12:054][832]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.09.21-12.53.12:054][832]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.09.21-12.53.12:057][832]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.09.21-12.53.12:085][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.09.21-12.53.12:359][833]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2025.09.21-12.53.13:692][894]LogSlate: Window 'Message Log' being destroyed
+[2025.09.21-12.53.13:734][894]LogSlate: Window 'Message Log' being destroyed
+[2025.09.21-12.53.20:727][149]LogStateTreeEditor: StateTreeEditorData /Game/Dank/AI/ST/ST_enemyAI.ST_enemyAI:StateTreeEditorData_0: Fixing outer on state StateTreeState_2.
+[2025.09.21-12.53.31:579][263]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1420.247559
+[2025.09.21-12.53.37:078][718]LogStateTreeEditor: StateTreeEditorData /Game/Dank/AI/ST/ST_enemyAI.ST_enemyAI:StateTreeEditorData_0: Fixing outer on state StateTreeState_1.
+[2025.09.21-12.53.39:427][827]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.21-12.53.39:427][828]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1427.761475, Update Interval: 345.298004
+[2025.09.21-12.53.42:920][135]LogStateTreeEditor: StateTreeEditorData /Game/Dank/AI/ST/ST_enemyAI.ST_enemyAI:StateTreeEditorData_0: Fixing outer on state StateTreeState_1.
+[2025.09.21-12.54.28:843][190]LogStateTreeEditor: Compile StateTree 'StateTree /Game/Dank/AI/ST/ST_enemyAI.ST_enemyAI' succeeded.
+[2025.09.21-12.54.31:195][429]LogStateTreeEditor: StateTreeEditorData /Game/Dank/AI/ST/ST_enemyAI.ST_enemyAI:StateTreeEditorData_0: Fixing outer on state StateTreeState_3.
+[2025.09.21-12.54.42:099][520]LogStateTreeEditor: StateTreeEditorData /Game/Dank/AI/ST/ST_enemyAI.ST_enemyAI:StateTreeEditorData_0: Fixing outer on state StateTreeState_1.
+[2025.09.21-12.54.44:060][738]LogStateTreeEditor: StateTreeEditorData /Game/Dank/AI/ST/ST_enemyAI.ST_enemyAI:StateTreeEditorData_0: Fixing outer on state StateTreeState_2.
+[2025.09.21-12.55.53:228][ 14]LogStateTreeEditor: StateTreeEditorData /Game/Dank/AI/ST/ST_enemyAI.ST_enemyAI:StateTreeEditorData_0: Fixing outer on state StateTreeState_4.
+[2025.09.21-12.56.00:847][901]LogStateTreeEditor: StateTreeEditorData /Game/Dank/AI/ST/ST_enemyAI.ST_enemyAI:StateTreeEditorData_0: Fixing outer on state StateTreeState_4.
+[2025.09.21-12.56.03:393][ 97]LogStateTreeEditor: StateTreeEditorData /Game/Dank/AI/ST/ST_enemyAI.ST_enemyAI:StateTreeEditorData_0: Fixing outer on state StateTreeState_2.
+[2025.09.21-12.56.04:549][211]LogStateTreeEditor: StateTreeEditorData /Game/Dank/AI/ST/ST_enemyAI.ST_enemyAI:StateTreeEditorData_0: Fixing outer on state StateTreeState_1.
+[2025.09.21-12.56.23:850][812]LogStateTreeEditor: StateTreeEditorData /Game/Dank/AI/ST/ST_enemyAI.ST_enemyAI:StateTreeEditorData_0: Fixing outer on state StateTreeState_3.
+[2025.09.21-12.56.25:694][ 21]LogStateTreeEditor: StateTreeEditorData /Game/Dank/AI/ST/ST_enemyAI.ST_enemyAI:StateTreeEditorData_0: Fixing outer on state StateTreeState_3.
+[2025.09.21-12.56.33:205][844]LogStateTreeEditor: StateTreeEditorData /Game/Dank/AI/ST/ST_enemyAI.ST_enemyAI:StateTreeEditorData_0: Fixing outer on state StateTreeState_3.
+[2025.09.21-12.56.42:882][774]LogStateTreeEditor: StateTreeEditorData /Game/Dank/AI/ST/ST_enemyAI.ST_enemyAI:StateTreeEditorData_0: Fixing outer on state StateTreeState_1.
+[2025.09.21-12.56.49:438][522]LogStateTreeEditor: StateTreeEditorData /Game/Dank/AI/ST/ST_enemyAI.ST_enemyAI:StateTreeEditorData_0: Fixing outer on state StateTreeState_1.
+[2025.09.21-12.56.59:512][388]LogStateTreeEditor: StateTreeEditorData /Game/Dank/AI/ST/ST_enemyAI.ST_enemyAI:StateTreeEditorData_0: Fixing outer on state StateTreeState_3.
+[2025.09.21-12.57.27:114][442]LogStateTreeEditor: StateTreeEditorData /Game/Dank/AI/ST/ST_enemyAI.ST_enemyAI:StateTreeEditorData_0: Fixing outer on state StateTreeState_5.
+[2025.09.21-12.57.33:782][108]LogStateTreeEditor: StateTreeEditorData /Game/Dank/AI/ST/ST_enemyAI.ST_enemyAI:StateTreeEditorData_0: Fixing outer on state StateTreeState_6.
+[2025.09.21-12.57.40:669][916]LogStateTreeEditor: StateTreeEditorData /Game/Dank/AI/ST/ST_enemyAI.ST_enemyAI:StateTreeEditorData_0: Fixing outer on state StateTreeState_6.
+[2025.09.21-12.57.41:955][ 58]LogStateTreeEditor: StateTreeEditorData /Game/Dank/AI/ST/ST_enemyAI.ST_enemyAI:StateTreeEditorData_0: Fixing outer on state StateTreeState_7.
+[2025.09.21-12.58.10:441][106]LogStateTreeEditor: Compile StateTree 'StateTree /Game/Dank/AI/ST/ST_enemyAI.ST_enemyAI' succeeded.
+[2025.09.21-12.59.41:303][345]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1789.963867
+[2025.09.21-12.59.42:637][349]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.21-12.59.42:637][350]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1790.965332, Update Interval: 326.216003
+[2025.09.21-12.59.57:732][422]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2025.09.21-12.59.57:736][422]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.048
+[2025.09.21-12.59.57:736][422]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/ST/ST_enemyAI] ([1] browsable assets)...
+[2025.09.21-12.59.57:736][422]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/ST/ST_enemyAI]
+[2025.09.21-12.59.57:736][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/ST/ST_enemyAI" FILE="D:/unreal/Dank_Soles/Saved/Autosaves/Game/Dank/AI/ST/ST_enemyAI_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2025.09.21-12.59.57:759][422]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dank/AI/ST/ST_enemyAI_Auto2
+[2025.09.21-12.59.57:760][422]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/ST_enemyAI_Auto25D7044B94CA243AFA74F5AB67DE1C06C.tmp' to 'D:/unreal/Dank_Soles/Saved/Autosaves/Game/Dank/AI/ST/ST_enemyAI_Auto2.uasset'
+[2025.09.21-12.59.57:760][422]LogFileHelpers: Auto-saving content packages took 0.024
