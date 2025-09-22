@@ -252,6 +252,7 @@
     <None Include="..\..\Dank_Soles.uproject"/>
     <None Include="..\..\Source\Dank_Soles.Target.cs"/>
     <None Include="..\..\Source\Dank_SolesEditor.Target.cs"/>
+    <None Include="..\..\.gitignore"/>
     <None Include="..\..\.vsconfig"/>
     <None Include="..\..\README.md"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>

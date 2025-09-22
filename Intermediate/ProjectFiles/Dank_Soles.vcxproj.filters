@@ -11,6 +11,7 @@
     <None Include="..\..\Source\Dank_SolesEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitignore" />
     <None Include="..\..\.vsconfig" />
     <None Include="..\..\README.md" />
     <Filter Include="Config">
