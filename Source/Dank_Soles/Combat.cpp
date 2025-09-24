@@ -132,3 +132,9 @@ void UCombat::checkForEnemy()
         PerformLookSphereTrace();
     }
 }
+
+void UCombat::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
+{
+    // Intentionally empty, or future input bindings
+}
+
