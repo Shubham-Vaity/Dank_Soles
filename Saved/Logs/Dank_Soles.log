@@ -1660,3 +1660,109 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.24-06.17.54:963][132]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
 [2025.09.24-06.17.55:299][164]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-XMr4yes5fUa5UiFsUl687w-lEttVleyX0e6ccoxQZGUOw]
 [2025.09.24-06.18.55:450][934]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.24-06.19.36:040][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.09.24-06.19.37:285][275]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.09.24-06.19.38:878][437]Display: Reload/Re-instancing Complete: No object changes detected
+[2025.09.24-06.19.38:878][437]LogLiveCoding: Display: Live coding succeeded, no code changes detected
+[2025.09.24-06.21.04:066][122]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.24-06.21.04:075][122]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.09.24-06.21.04:075][122]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.09.24-06.21.04:079][122]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4.311 ms
+[2025.09.24-06.21.04:080][122]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.24-06.21.04:109][122]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.09.24-06.21.04:110][122]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.09.24-06.21.04:110][122]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.09.24-06.21.04:119][122]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010137s)
+[2025.09.24-06.21.04:121][122]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.010210s)
+[2025.09.24-06.21.04:137][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.09.24-06.21.04:139][122]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.09.24-06.21.04:142][122]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.24-06.21.04:142][122]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.24-06.21.04:143][122]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.24-06.21.04:143][122]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.24-06.21.04:145][122]LogWorldPartition: Display: WorldPartition initialize took 2.246 ms (total: 1.77 sec)
+[2025.09.24-06.21.04:145][122]LogPlayLevel: PIE: World Init took: (0.005744s)
+[2025.09.24-06.21.04:146][122]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.09.24-06.21.04:146][122]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.24-06.21.04:146][122]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.24-06.21.04:146][122]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.24-06.21.04:146][122]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.24-06.21.04:147][122]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.24-06.21.04:147][122]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.24-06.21.04:147][122]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.24-06.21.04:147][122]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.24-06.21.04:147][122]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.24-06.21.04:147][122]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.24-06.21.04:147][122]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.24-06.21.04:152][122]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.24-06.21.04:280][122]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2025.09.24-06.21.04:280][122]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.24-06.21.04:280][122]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.24-06.21.04:280][122]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.24-06.21.04:282][122]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.09.24-06.21.04:282][122]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.09.24-06.21.04:286][122]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.09.24-06.21.04:286][122]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.09.24-06.21.04:286][122]LogInit: FAudioDevice initialized with ID 2.
+[2025.09.24-06.21.04:286][122]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2025.09.24-06.21.04:286][122]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.09.24-06.21.04:293][122]LogLoad: Game class is 'Dank_SolesGameMode'
+[2025.09.24-06.21.04:299][122]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.09.24-11.51.04
+[2025.09.24-06.21.04:307][122]LogWorld: Bringing up level for play took: 0.013740
+[2025.09.24-06.21.04:313][122]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2025.09.24-06.21.04:353][122]PIE: Server logged in
+[2025.09.24-06.21.04:355][122]PIE: Play in editor total start time 0.281 seconds.
+[2025.09.24-06.21.14:145][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.24-06.21.14:145][192]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.09.24-06.21.14:145][192]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-06.21.14:147][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-06.21.14:147][192]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.09.24-06.21.14:156][192]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.24-06.21.14:161][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-06.21.14:181][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.24-06.21.14:182][192]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.09.24-06.21.14:183][192]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.09.24-06.21.14:189][192]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.09.24-06.21.14:209][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.09.24-06.21.14:258][193]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2025.09.24-06.21.15:034][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.09.24-06.21.15:080][269]LogStall: Shutdown...
+[2025.09.24-06.21.15:080][269]LogStall: Shutdown complete.
+[2025.09.24-06.21.15:111][269]LogSlate: Window 'Dank_Soles - Unreal Editor' being destroyed
+[2025.09.24-06.21.15:214][269]Cmd: QUIT_EDITOR
+[2025.09.24-06.21.15:214][270]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.09.24-06.21.15:220][270]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.09.24-06.21.15:220][270]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.09.24-06.21.15:220][270]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.09.24-06.21.15:223][270]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-06.21.15:223][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-06.21.15:223][270]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2025.09.24-06.21.15:237][270]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.09.24-06.21.15:244][270]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.09.24-06.21.15:252][270]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.09.24-06.21.15:255][270]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.09.24-06.21.15:255][270]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.09.24-06.21.15:255][270]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.09.24-06.21.15:486][270]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.09.24-06.21.15:486][270]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.09.24-06.21.15:486][270]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2025.09.24-06.21.15:486][270]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.09.24-06.21.15:486][270]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.09.24-06.21.15:488][270]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.09.24-06.21.15:497][270]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.09.24-06.21.15:497][270]LogAudio: Display: Audio Device Manager Shutdown
+[2025.09.24-06.21.15:499][270]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2025.09.24-06.21.15:504][270]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.09.24-06.21.15:504][270]LogExit: Preparing to exit.
+[2025.09.24-06.21.15:577][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.09.24-06.21.16:338][270]LogEditorDataStorage: Deinitializing
+[2025.09.24-06.21.16:509][270]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.09.24-06.21.16:544][270]LogExit: Editor shut down
+[2025.09.24-06.21.16:548][270]LogExit: Transaction tracking system shut down
+[2025.09.24-06.21.16:794][270]LogExit: Object subsystem successfully closed.
+[2025.09.24-06.21.16:842][270]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.09.24-06.21.17:605][270]LogMemoryProfiler: Shutdown
+[2025.09.24-06.21.17:606][270]LogNetworkingProfiler: Shutdown
+[2025.09.24-06.21.17:606][270]LoadingProfiler: Shutdown
+[2025.09.24-06.21.17:606][270]LogTimingProfiler: Shutdown
+[2025.09.24-06.21.18:119][270]LogChaosDD: Chaos Debug Draw Shutdown
