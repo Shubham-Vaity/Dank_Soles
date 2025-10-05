@@ -5,7 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/unreal/Dank_Soles/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"D:/unreal/Dank_Soles/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/unreal/Dank_Soles/Content/Dank/BluePrintes/BP_animNotify_Damage.uasset",
+				"D:/unreal/Dank_Soles/Content/Dank/BluePrintes/BPC_Combat.uasset",
+				"D:/unreal/Dank_Soles/Content/Dank/Player1/animation/YTanimations/knight/SM_knight.uasset",
+				"D:/unreal/Dank_Soles/Content/Dank/Player1/weapons/sword/Sword_baseColor.uasset",
+				"D:/unreal/Dank_Soles/Content/Dank/Player1/weapons/sword/Sword_metallicRoughness.uasset",
+				"D:/unreal/Dank_Soles/Content/Dank/Player1/weapons/sword/Sword_normal.uasset",
+				"D:/unreal/Dank_Soles/Content/Dank/Player1/weapons/sword/Sword.uasset",
+				"D:/unreal/Dank_Soles/Content/Dank/Player1/weapons/sword/scene.uasset",
+				"D:/unreal/Dank_Soles/Content/Dank/Player1/weapons/sword/Long_Sword.uasset"
 			]
 		}
 	]
