@@ -49,6 +49,16 @@ public:
     UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="Combat")
     UAnimMontage* AttackMontage;
 
+
+    //ATTACK
+    UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="Animation")
+    UAnimInstance* PlayerAnimInstance;
+    
+    UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Animation", meta = (AllowPrivateAccess = "true"))
+    UAnimMontage* NormalAttack;
+    
+    
+
     /** Functions */
     UFUNCTION()
     void PerformLookSphereTrace();

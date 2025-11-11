@@ -55,6 +55,8 @@ class ADank_SolesCharacter : public ACharacter
 	UInputAction* Attack;
 
 
+ 
+	
 
 public:
 	ADank_SolesCharacter();

@@ -1,4 +1,5 @@
 #include "Combat.h"
+
 #include "GameFramework/Character.h"
 #include "GameFramework/CharacterMovementComponent.h"
 #include "GameFramework/PlayerController.h"
@@ -6,8 +7,10 @@
 #include "Kismet/KismetMathLibrary.h"
 #include "Components/SkeletalMeshComponent.h"
 #include "Engine/World.h"
+#include "Dank_SolesCharacter.h"
 #include "DrawDebugHelpers.h"
 #include "Animation/AnimInstance.h"
+
 #include "Animation/AnimMontage.h"
 
 UCombat::UCombat()
@@ -23,6 +26,8 @@ void UCombat::BeginPlay()
     if (PlayerController)
     {
         playerReff = Cast<ADank_SolesCharacter  >(UGameplayStatics::GetPlayerCharacter(this, 0));
+
+        PlayerAnimInstance=playerReff->GetMesh()->GetAnimInstance();
     }
 }
 
@@ -137,8 +142,15 @@ void UCombat::AttactingFunction()
     {
         IsAttacking = true;
         playerReff->GetMesh()->SetRelativeRotation(FRotator(0, 0, 0));
+        
+        if (PlayerAnimInstance)
+        {
+            PlayerAnimInstance->Montage_Play(NormalAttack);
 
-     
+            //PlayerAnimInstance->OnMontageEnded
+        }
+
+        
     }
     else
     {
