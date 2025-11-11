@@ -51,6 +51,7 @@ ADank_SolesCharacter::ADank_SolesCharacter()
 	FollowCamera->SetupAttachment(CameraBoom, USpringArmComponent::SocketName); // Attach the camera to the end of the boom and let the boom adjust to match the controller orientation
 	FollowCamera->bUsePawnControlRotation = false; // Camera does not rotate relative to arm
 
+			
 
 	Combat = CreateDefaultSubobject<UCombat>(TEXT("CombatComponent"));
 	
@@ -89,7 +90,13 @@ void ADank_SolesCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInpu
 		
 		// Looking
 		EnhancedInputComponent->BindAction(LookAction, ETriggerEvent::Triggered, this, &ADank_SolesCharacter::Look);
+
+		// Attack
+		EnhancedInputComponent->BindAction(Attack, ETriggerEvent::Triggered, this, &ADank_SolesCharacter::Look);
 		
+
+			
+
 	}
 	else
 	{

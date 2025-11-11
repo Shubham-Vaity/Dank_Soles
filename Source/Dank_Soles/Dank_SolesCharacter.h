@@ -50,12 +50,18 @@ class ADank_SolesCharacter : public ACharacter
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Input, meta = (AllowPrivateAccess = "true"))
 	UInputAction* Lockenemy;
 
+	// Normal Attack
+	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Input, meta = (AllowPrivateAccess = "true"))
+	UInputAction* Attack;
+
+
+
 public:
 	ADank_SolesCharacter();
 	
 
 protected:
-
+ 
 	/** Called for movement input */
 	void Move(const FInputActionValue& Value);
 
