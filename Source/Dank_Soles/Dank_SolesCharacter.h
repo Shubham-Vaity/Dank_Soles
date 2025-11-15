@@ -90,5 +90,7 @@ public:
 	UFUNCTION()
 	void LockTraget(const FInputActionValue& Value);
 
+	UFUNCTION()
+	void CallAttackFunction();
 };
 

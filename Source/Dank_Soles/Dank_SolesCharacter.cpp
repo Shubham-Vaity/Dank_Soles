@@ -92,18 +92,9 @@ void ADank_SolesCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInpu
 		EnhancedInputComponent->BindAction(LookAction, ETriggerEvent::Triggered, this, &ADank_SolesCharacter::Look);
 
 		// Attack
-		EnhancedInputComponent->BindAction(Attack, ETriggerEvent::Triggered, this, &ADank_SolesCharacter::Look);
-		
-
-			
+		EnhancedInputComponent->BindAction(Attack, ETriggerEvent::Started, this, &ADank_SolesCharacter::CallAttackFunction);
 
 	}
-	else
-	{
-		UE_LOG(LogTemplateCharacter, Error, TEXT("'%s' Failed to find an Enhanced Input component! This template is built to use the Enhanced Input system. If you intend to use the legacy system, then you will need to update this C++ file."), *GetNameSafe(this));
-	}
-
-
 	
 }
 
@@ -150,3 +141,16 @@ void ADank_SolesCharacter::LockTraget(const FInputActionValue& Value)
 		Combat->checkForEnemy();
 	}
 }
+
+
+void ADank_SolesCharacter::CallAttackFunction()
+{
+	if (Combat)
+	{
+		Combat->AttactingFunction();
+	
+	}
+	
+}
+
+

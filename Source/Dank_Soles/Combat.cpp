@@ -15,6 +15,11 @@
 
 UCombat::UCombat()
 {
+
+
+   	
+
+    
     PrimaryComponentTick.bCanEverTick = true;
 }
 
@@ -134,6 +139,8 @@ void UCombat::checkForEnemy()
     }
 }
 
+
+//Attacking functionss
 void UCombat::AttactingFunction()
 {
     if (!playerReff) return;
@@ -146,8 +153,10 @@ void UCombat::AttactingFunction()
         if (PlayerAnimInstance)
         {
             PlayerAnimInstance->Montage_Play(NormalAttack);
-
-            //PlayerAnimInstance->OnMontageEnded
+            
+            
+            PlayerAnimInstance->OnMontageEnded.AddDynamic(this, &UCombat::OnAttackMontageEnded);
+            PlayerAnimInstance->OnPlayMontageNotifyBegin.AddDynamic(this,&UCombat::OnAttackNotifyBegin);
         }
 
         
@@ -157,7 +166,36 @@ void UCombat::AttactingFunction()
         IsCombow = true;
     }
 }
+void UCombat::OnAttackMontageEnded(UAnimMontage* Montage, bool bInterrupted)
+{
+    if (bInterrupted)
+    {
+        IsAttacking = false;
+        IsCombow = false;
+      
+    }
+    else
+    {
+        IsAttacking = false;
+        IsCombow = false;   
+    }
+    playerReff->GetMesh()->SetRelativeRotation(FRotator(0, -90, 0));
+    
+   // playerReff->SetActorRotation(FRotator(0, 90, 0)-(playerReff->GetActorRotation()));
+    
+}
 
+void UCombat:: OnAttackNotifyBegin(FName NotifyName, const FBranchingPointNotifyPayload& Payload)
+{
+    if (IsAttacking &&IsCombow)
+    {
+        IsCombow=false; 
+    }
+    else
+    {
+        PlayerAnimInstance->StopAllMontages(1);
+    }
+}
 
 
 void UCombat::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)

@@ -66,9 +66,15 @@ public:
     UFUNCTION()
     void checkForEnemy();
 
+
+    //Attacking Functions
     UFUNCTION()
     void AttactingFunction();
 
+    UFUNCTION()
+    void OnAttackMontageEnded(UAnimMontage* Montage, bool bInterrupted);
+    UFUNCTION()
+    void OnAttackNotifyBegin(FName NotifyName, const FBranchingPointNotifyPayload& Payload);
 
 private:
     void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent);
