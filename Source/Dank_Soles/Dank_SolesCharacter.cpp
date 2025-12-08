@@ -147,7 +147,7 @@ void ADank_SolesCharacter::CallAttackFunction()
 {
 	if (Combat)
 	{
-		Combat->AttactingFunction();
+		//Combat->AttactingFunction();
 	
 	}
 	
