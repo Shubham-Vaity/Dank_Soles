@@ -2912,3 +2912,85 @@ Script Stack (0 frames) :
 [2025.12.08-17.47.48:389][222]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 373.177155
 [2025.12.08-17.47.49:388][225]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.12.08-17.47.49:388][225]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 373.844208, Update Interval: 349.467468
+[2025.12.08-17.52.46:242][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.12.08-17.52.46:244][115]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.057
+[2025.12.08-17.52.46:245][115]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dank/AI/BP_enemy] ([2] browsable assets)...
+[2025.12.08-17.52.46:246][115]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.12.08-17.52.46:317][115]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Dank/AI/BP_enemy.BP_enemy_C]
+[2025.12.08-17.52.46:317][115]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.12.08-17.52.46:369][115]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dank/AI/BP_enemy.BP_enemy]
+[2025.12.08-17.52.46:369][115]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/BP_enemy]
+[2025.12.08-17.52.46:369][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/BP_enemy" FILE="D:/unreal/Dank_Soles/Saved/Autosaves/Game/Dank/AI/BP_enemy_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.12.08-17.52.46:392][115]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dank/AI/BP_enemy_Auto1
+[2025.12.08-17.52.46:392][115]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BP_enemy_Auto1CE871E764FAC25AE653C2383DA4BC6B6.tmp' to 'D:/unreal/Dank_Soles/Saved/Autosaves/Game/Dank/AI/BP_enemy_Auto1.uasset'
+[2025.12.08-17.52.46:393][115]LogFileHelpers: Auto-saving content packages took 0.148
+[2025.12.08-17.53.41:128][280]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 725.917175
+[2025.12.08-17.53.42:128][283]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-17.53.42:128][283]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 726.583679, Update Interval: 355.255585
+[2025.12.08-17.54.20:197][170]LogMetaData: Removing '/Game/Dank/Enemys/zombie/BP_enemy.BP_enemy:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Dank/AI/BP_enemy.PackageMetaData'
+[2025.12.08-17.54.20:197][170]LogMetaData: Removing '/Game/Dank/Enemys/zombie/BP_enemy.BP_enemy_C' ref from Metadata '/Game/Dank/AI/BP_enemy.PackageMetaData'
+[2025.12.08-17.54.20:197][170]LogMetaData: Removing '/Game/Dank/Enemys/zombie/BP_enemy.BP_enemy:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Dank/AI/BP_enemy.PackageMetaData'
+[2025.12.08-17.54.20:197][170]LogMetaData: Removing '/Game/Dank/Enemys/zombie/BP_enemy.BP_enemy:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Dank/AI/BP_enemy.PackageMetaData'
+[2025.12.08-17.54.20:197][170]LogMetaData: Removing '/Game/Dank/Enemys/zombie/BP_enemy.BP_enemy:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Dank/AI/BP_enemy.PackageMetaData'
+[2025.12.08-17.54.20:197][170]LogMetaData: Removing '/Game/Dank/Enemys/zombie/BP_enemy.BP_enemy:Attack.K2Node_FunctionResult_1' ref from Metadata '/Game/Dank/AI/BP_enemy.PackageMetaData'
+[2025.12.08-17.54.20:197][170]LogMetaData: Removing '/Game/Dank/Enemys/zombie/BP_enemy.BP_enemy:Attack.K2Node_FunctionEntry_0' ref from Metadata '/Game/Dank/AI/BP_enemy.PackageMetaData'
+[2025.12.08-17.54.20:197][170]LogMetaData: Removing '/Game/Dank/Enemys/zombie/BP_enemy.BP_enemy:IdleShit.K2Node_FunctionResult_1' ref from Metadata '/Game/Dank/AI/BP_enemy.PackageMetaData'
+[2025.12.08-17.54.20:197][170]LogMetaData: Removing '/Game/Dank/Enemys/zombie/BP_enemy.BP_enemy:IdleShit.K2Node_FunctionEntry_0' ref from Metadata '/Game/Dank/AI/BP_enemy.PackageMetaData'
+[2025.12.08-17.54.20:197][170]LogMetaData: Removing '/Game/Dank/Enemys/zombie/BP_enemy.SKEL_BP_enemy_C:ReceiveBeginPlay' ref from Metadata '/Game/Dank/AI/BP_enemy.PackageMetaData'
+[2025.12.08-17.54.20:197][170]LogMetaData: Removing '/Game/Dank/Enemys/zombie/BP_enemy.SKEL_BP_enemy_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Dank/AI/BP_enemy.PackageMetaData'
+[2025.12.08-17.54.20:197][170]LogMetaData: Removing '/Game/Dank/Enemys/zombie/BP_enemy.SKEL_BP_enemy_C:ReceiveTick' ref from Metadata '/Game/Dank/AI/BP_enemy.PackageMetaData'
+[2025.12.08-17.54.20:197][170]LogMetaData: Removing '/Game/Dank/Enemys/zombie/BP_enemy.SKEL_BP_enemy_C:UserConstructionScript' ref from Metadata '/Game/Dank/AI/BP_enemy.PackageMetaData'
+[2025.12.08-17.54.20:197][170]LogMetaData: Removing '/Game/Dank/Enemys/zombie/BP_enemy.SKEL_BP_enemy_C' ref from Metadata '/Game/Dank/AI/BP_enemy.PackageMetaData'
+[2025.12.08-17.54.20:248][170]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-17.54.20:249][170]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dank/Enemys/zombie/BP_enemy] ([2] browsable assets)...
+[2025.12.08-17.54.20:282][170]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Dank/Enemys/zombie/BP_enemy.BP_enemy_C]
+[2025.12.08-17.54.20:282][170]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/Enemys/zombie/BP_enemy]
+[2025.12.08-17.54.20:282][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/Enemys/zombie/BP_enemy" FILE="D:/unreal/Dank_Soles/Content/Dank/Enemys/zombie/BP_enemy.uasset" SILENT=true
+[2025.12.08-17.54.20:299][170]LogSavePackage: Moving output files for package: /Game/Dank/Enemys/zombie/BP_enemy
+[2025.12.08-17.54.20:299][170]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BP_enemyAE8B823C41B8C55F194A6E92AF9088CD.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/Enemys/zombie/BP_enemy.uasset'
+[2025.12.08-17.54.20:304][170]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dank/AI/BP_enemy] ([5] browsable assets)...
+[2025.12.08-17.54.20:304][170]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dank/AI/BP_enemy]
+[2025.12.08-17.54.20:304][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dank/AI/BP_enemy" FILE="D:/unreal/Dank_Soles/Content/Dank/AI/BP_enemy.uasset" SILENT=true
+[2025.12.08-17.54.20:306][170]LogSavePackage: Moving output files for package: /Game/Dank/AI/BP_enemy
+[2025.12.08-17.54.20:308][170]LogSavePackage: Moving 'D:/unreal/Dank_Soles/Saved/BP_enemy4ADAD716441493891811A5BF1CF2ED84.tmp' to 'D:/unreal/Dank_Soles/Content/Dank/AI/BP_enemy.uasset'
+[2025.12.08-17.54.20:658][170]LogFileHelpers: InternalPromptForCheckoutAndSave took 409.667 ms (total: 4.18 sec)
+[2025.12.08-17.54.21:107][170]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.12.08-17.54.21:107][170]LogContentValidation: Display: Starting to validate 4 assets
+[2025.12.08-17.54.21:107][170]LogContentValidation: Enabled validators:
+[2025.12.08-17.54.21:107][170]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-17.54.21:108][170]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-17.54.21:108][170]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-17.54.21:108][170]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-17.54.21:108][170]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-17.54.21:108][170]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-17.54.21:108][170]AssetCheck: /Game/Dank/Enemys/zombie/BP_enemy Validating asset
+[2025.12.08-17.54.21:108][170]AssetCheck: /Game/Dank/AI/BP_enemy Validating asset
+[2025.12.08-17.54.21:108][170]AssetCheck: /Game/Dank/AI/BP_enemy Validating asset
+[2025.12.08-17.54.21:109][170]AssetCheck: /Game/Dank/AI/BP_enemy Validating asset
+[2025.12.08-17.54.23:447][324]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_8
+	Function /Game/Dank/Enemys/zombie/ABP_NoWeapon.ABP_NoWeapon_C:ExecuteUbergraph_ABP_NoWeapon:01FC
+[2025.12.08-17.54.23:447][324]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_8
+	Function /Game/Dank/Enemys/zombie/ABP_NoWeapon.ABP_NoWeapon_C:ExecuteUbergraph_ABP_NoWeapon:022B
+[2025.12.08-17.54.23:447][324]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_8
+	Function /Game/Dank/Enemys/zombie/ABP_NoWeapon.ABP_NoWeapon_C:get movement:0036
+[2025.12.08-17.54.23:447][324]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_8
+	Function /Game/Dank/Enemys/zombie/ABP_NoWeapon.ABP_NoWeapon_C:get movement:00A1
+[2025.12.08-17.54.23:447][324]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_8
+	Function /Game/Dank/Enemys/zombie/ABP_NoWeapon.ABP_NoWeapon_C:get movement:00D7
+[2025.12.08-17.54.23:447][324]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_8
+	Function /Game/Dank/Enemys/zombie/ABP_NoWeapon.ABP_NoWeapon_C:get ameoffset:0086
+[2025.12.08-17.54.23:448][324]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_8
+	Function /Game/Dank/Enemys/zombie/ABP_NoWeapon.ABP_NoWeapon_C:get ameoffset:00B8
+[2025.12.08-17.54.23:448][324]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_8
+	Function /Game/Dank/Enemys/zombie/ABP_NoWeapon.ABP_NoWeapon_C:get ameoffset:0295
+[2025.12.08-17.54.23:448][324]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_8
+	Function /Game/Dank/Enemys/zombie/ABP_NoWeapon.ABP_NoWeapon_C:get ameoffset:02C7
