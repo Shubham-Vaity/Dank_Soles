@@ -2994,3 +2994,91 @@ Script Stack (0 frames) :
 [2025.12.08-17.54.23:448][324]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
 	ABP_NoWeapon_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_8
 	Function /Game/Dank/Enemys/zombie/ABP_NoWeapon.ABP_NoWeapon_C:get ameoffset:02C7
+[2025.12.08-17.54.47:077][388]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_9
+	Function /Game/Dank/Enemys/zombie/ABP_NoWeapon.ABP_NoWeapon_C:ExecuteUbergraph_ABP_NoWeapon:01FC
+[2025.12.08-17.54.47:077][388]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_9
+	Function /Game/Dank/Enemys/zombie/ABP_NoWeapon.ABP_NoWeapon_C:ExecuteUbergraph_ABP_NoWeapon:022B
+[2025.12.08-17.54.47:077][388]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_9
+	Function /Game/Dank/Enemys/zombie/ABP_NoWeapon.ABP_NoWeapon_C:get movement:0036
+[2025.12.08-17.54.47:077][388]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_9
+	Function /Game/Dank/Enemys/zombie/ABP_NoWeapon.ABP_NoWeapon_C:get movement:00A1
+[2025.12.08-17.54.47:077][388]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_9
+	Function /Game/Dank/Enemys/zombie/ABP_NoWeapon.ABP_NoWeapon_C:get movement:00D7
+[2025.12.08-17.54.47:078][388]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_9
+	Function /Game/Dank/Enemys/zombie/ABP_NoWeapon.ABP_NoWeapon_C:get ameoffset:0086
+[2025.12.08-17.54.47:078][388]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_9
+	Function /Game/Dank/Enemys/zombie/ABP_NoWeapon.ABP_NoWeapon_C:get ameoffset:00B8
+[2025.12.08-17.54.47:078][388]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_9
+	Function /Game/Dank/Enemys/zombie/ABP_NoWeapon.ABP_NoWeapon_C:get ameoffset:0295
+[2025.12.08-17.54.47:078][388]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_NoWeapon_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_NoWeapon_C_9
+	Function /Game/Dank/Enemys/zombie/ABP_NoWeapon.ABP_NoWeapon_C:get ameoffset:02C7
+[2025.12.08-17.55.17:985][691]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.08-17.55.18:006][691]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.12.08-17.55.18:006][691]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.12.08-17.55.18:010][691]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3.727 ms (total: 12.389 ms)
+[2025.12.08-17.55.18:025][691]LogPlayLevel: [PlayLevel] Compiling BP_enemy before play...
+[2025.12.08-17.55.18:153][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.12.08-17.55.18:156][691]LogPlayLevel: PlayLevel: Blueprint regeneration took 145 ms (1 blueprints)
+[2025.12.08-17.55.18:156][691]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.12.08-17.55.18:180][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024760s)
+[2025.12.08-17.55.18:181][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.024831s)
+[2025.12.08-17.55.18:210][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2025.12.08-17.55.18:210][691]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.12.08-17.55.18:215][691]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.08-17.55.18:215][691]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.08-17.55.18:215][691]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.08-17.55.18:215][691]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.08-17.55.18:225][691]LogWorldPartition: Display: WorldPartition initialize took 10.664 ms (total: 2.38 sec)
+[2025.12.08-17.55.18:225][691]LogPlayLevel: PIE: World Init took: (0.013870s)
+[2025.12.08-17.55.18:227][691]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.12.08-17.55.18:227][691]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.08-17.55.18:227][691]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.08-17.55.18:227][691]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.08-17.55.18:227][691]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.08-17.55.18:227][691]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.08-17.55.18:227][691]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.08-17.55.18:227][691]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.08-17.55.18:227][691]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.08-17.55.18:227][691]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.08-17.55.18:227][691]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.08-17.55.18:228][691]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.08-17.55.18:232][691]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.08-17.55.18:414][691]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2025.12.08-17.55.18:414][691]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.08-17.55.18:414][691]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.08-17.55.18:414][691]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.08-17.55.18:416][691]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.12.08-17.55.18:416][691]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.12.08-17.55.18:420][691]LogInit: FAudioDevice initialized with ID 4.
+[2025.12.08-17.55.18:420][691]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonMap'.
+[2025.12.08-17.55.18:422][691]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.12.08-17.55.18:422][691]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.12.08-17.55.18:422][691]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.12.08-17.55.18:427][691]LogLoad: Game class is 'Dank_SolesGameMode'
+[2025.12.08-17.55.18:446][691]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.12.08-23.25.18
+[2025.12.08-17.55.18:447][691]LogWorld: Bringing up level for play took: 0.019809
+[2025.12.08-17.55.18:451][691]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.12.08-17.55.18:455][691]PIE: Server logged in
+[2025.12.08-17.55.18:457][691]PIE: Play in editor total start time 0.45 seconds.
+[2025.12.08-17.55.24:094][ 62]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-17.55.24:094][ 62]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.12.08-17.55.24:094][ 62]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-17.55.24:099][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-17.55.24:099][ 62]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.12.08-17.55.24:105][ 62]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.08-17.55.24:115][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-17.55.24:149][ 62]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-17.55.24:150][ 62]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.12.08-17.55.24:151][ 62]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.12.08-17.55.24:154][ 62]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.12.08-17.55.24:168][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2025.12.08-17.55.24:595][ 63]LogPlayLevel: Display: Destroying online subsystem :Context_13
