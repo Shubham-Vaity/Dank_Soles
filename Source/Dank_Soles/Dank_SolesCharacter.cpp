@@ -10,6 +10,8 @@
 #include "EnhancedInputComponent.h"
 #include "EnhancedInputSubsystems.h"
 #include "Combat.h"
+#include "Components/ArrowComponent.h"
+
 #include "InputActionValue.h"
 
 DEFINE_LOG_CATEGORY(LogTemplateCharacter);
@@ -54,7 +56,17 @@ ADank_SolesCharacter::ADank_SolesCharacter()
 			
 
 	Combat = CreateDefaultSubobject<UCombat>(TEXT("CombatComponent"));
+
+	//weapon
 	
+	
+	weapon = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("Weapon"));
+	start_trace = CreateDefaultSubobject<UArrowComponent>(TEXT("Arrow1"));
+	end_trace = CreateDefaultSubobject<UArrowComponent>(TEXT("Arrow2"));
+	start_trace->SetupAttachment(weapon);
+	end_trace->SetupAttachment(weapon);
+	
+
 	}
 
 //////////////////////////////////////////////////////////////////////////
@@ -147,7 +159,7 @@ void ADank_SolesCharacter::CallAttackFunction()
 {
 	if (Combat)
 	{
-		//Combat->AttactingFunction();
+		Combat->AttactingFunction();
 	
 	}
 	

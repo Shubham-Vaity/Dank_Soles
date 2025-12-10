@@ -76,6 +76,10 @@ public:
     UFUNCTION()
     void OnAttackNotifyBegin(FName NotifyName, const FBranchingPointNotifyPayload& Payload);
 
+
+    //line trace
+    
+
 private:
     void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent);
 };

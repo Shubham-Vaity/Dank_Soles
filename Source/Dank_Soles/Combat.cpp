@@ -143,7 +143,7 @@ void UCombat::checkForEnemy()
 //Attacking functionss
 void UCombat::AttactingFunction()
 {
-    if (!playerReff) return;
+  //  if (!playerReff) return;
 
     if (!IsAttacking)
     {
@@ -165,6 +165,7 @@ void UCombat::AttactingFunction()
     {
         IsCombow = true;
     }
+
 }
 void UCombat::OnAttackMontageEnded(UAnimMontage* Montage, bool bInterrupted)
 {
@@ -187,14 +188,16 @@ void UCombat::OnAttackMontageEnded(UAnimMontage* Montage, bool bInterrupted)
 
 void UCombat:: OnAttackNotifyBegin(FName NotifyName, const FBranchingPointNotifyPayload& Payload)
 {
-    if (IsAttacking &&IsCombow)
+    if (IsAttacking && IsCombow)
     {
-        IsCombow=false; 
+        IsCombow=false;
     }
     else
     {
-        PlayerAnimInstance->StopAllMontages(1);
+        PlayerAnimInstance->Montage_Stop(0.2f,AttackMontage);
+ 
     }
+
 }
 
 
