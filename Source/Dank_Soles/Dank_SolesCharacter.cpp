@@ -60,11 +60,13 @@ ADank_SolesCharacter::ADank_SolesCharacter()
 	//weapon
 	
 	
+	/*
 	weapon = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("Weapon"));
 	start_trace = CreateDefaultSubobject<UArrowComponent>(TEXT("Arrow1"));
 	end_trace = CreateDefaultSubobject<UArrowComponent>(TEXT("Arrow2"));
 	start_trace->SetupAttachment(weapon);
 	end_trace->SetupAttachment(weapon);
+	*/
 	
 
 	}

@@ -56,6 +56,12 @@ public:
     
     UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Animation", meta = (AllowPrivateAccess = "true"))
     UAnimMontage* NormalAttack;
+
+    /*
+    UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="Combat")
+    bool boolshit = false;
+    */
+
     
     
 

@@ -84,15 +84,15 @@ public:
 
 
 	//wepon
-	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = weapon, meta = (AllowPrivateAccess = "true"))
-	UStaticMeshComponent* weapon;
+	//UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = weapon, meta = (AllowPrivateAccess = "true"))
+	//UStaticMeshComponent* weapon;
 
-	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = weapon, meta = (AllowPrivateAccess = "true"))
-	UArrowComponent* start_trace;
+	//UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = weapon, meta = (AllowPrivateAccess = "true"))
+	//UArrowComponent* start_trace;
 
 	
-	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = weapon, meta = (AllowPrivateAccess = "true"))
-	UArrowComponent* end_trace;
+	//UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = weapon, meta = (AllowPrivateAccess = "true"))
+//	UArrowComponent* end_trace;
  
 	
 

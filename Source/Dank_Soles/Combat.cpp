@@ -16,11 +16,12 @@
 UCombat::UCombat()
 {
 
-
+ 
    	
 
     
     PrimaryComponentTick.bCanEverTick = true;
+    
 }
 
 void UCombat::BeginPlay()
@@ -31,8 +32,10 @@ void UCombat::BeginPlay()
     if (PlayerController)
     {
         playerReff = Cast<ADank_SolesCharacter  >(UGameplayStatics::GetPlayerCharacter(this, 0));
-
+        
         PlayerAnimInstance=playerReff->GetMesh()->GetAnimInstance();
+       
+      
     }
 }
 
@@ -158,6 +161,11 @@ void UCombat::AttactingFunction()
             PlayerAnimInstance->OnMontageEnded.AddDynamic(this, &UCombat::OnAttackMontageEnded);
             PlayerAnimInstance->OnPlayMontageNotifyBegin.AddDynamic(this,&UCombat::OnAttackNotifyBegin);
         }
+        else
+        {
+            UE_LOG(LogTemp, Warning, TEXT("Attacking function not called"));
+
+        }
 
         
     }
@@ -167,27 +175,36 @@ void UCombat::AttactingFunction()
     }
 
 }
+
+//when left click timer start 
 void UCombat::OnAttackMontageEnded(UAnimMontage* Montage, bool bInterrupted)
 {
     if (bInterrupted)
     {
         IsAttacking = false;
         IsCombow = false;
+        UE_LOG(LogTemp, Warning, TEXT("Attacking completed"));
+
       
     }
     else
     {
         IsAttacking = false;
-        IsCombow = false;   
+        IsCombow = false;
+        UE_LOG(LogTemp, Warning, TEXT("Attacking Interupted"));
+
     }
+    //boolshit=bInterrupted;
     playerReff->GetMesh()->SetRelativeRotation(FRotator(0, -90, 0));
     
    // playerReff->SetActorRotation(FRotator(0, 90, 0)-(playerReff->GetActorRotation()));
     
+
 }
 
 void UCombat:: OnAttackNotifyBegin(FName NotifyName, const FBranchingPointNotifyPayload& Payload)
 {
+    UE_LOG(LogTemp, Warning, TEXT("Attacking Notified"));
     if (IsAttacking && IsCombow)
     {
         IsCombow=false;
@@ -205,3 +222,4 @@ void UCombat::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 {
     
 }
+
